@@ -1,0 +1,37 @@
+{
+   "name": "Mi 9T",
+   "brand": "Xiaomi",
+   "codename": "davinci",
+   "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-dotos-v5-0-aosp-2020-18-02.4230253/",
+   "builds": {
+      "gapps": [
+         {
+            "datetime": 1612459475,
+            "filename": "dotOS-R-v5.0.0-davinci-GAPPS-20210218-1647.zip",
+            "id": "888637d68c2e64ed91f3fda631c9cf52",
+            "romtype": "GAPPS",
+            "size": 1666374431,
+            "url": "https://downloads.droidontime.com/dot11/davinci/gapps/dotOS-R-v5.0.0-davinci-GAPPS-20210218-1647.zip",
+            "version": "v5.0.0"
+         }
+      ],
+      "vanilla": [
+         {
+            "datetime": 1612459475,
+            "filename": "dotOS-R-v5.0.0-davinci-OFFICIAL-20210218-1710.zip",
+            "id": "58443b6b7c3bd068f5ac4223f3d02516",
+            "romtype": "OFFICIAL",
+            "size": 1666374431,
+            "url": "https://downloads.droidontime.com/dot11/davinci/vanilla/dotOS-R-v5.0.0-davinci-OFFICIAL-20210218-1710.zip",
+            "version": "v5.0.0"
+         }
+      ]
+   },
+   "maintainers": [
+      {
+         "_id": "hack64",
+         "name": "Marco Rizzo",
+         "url": "https://github.com/hack64"
+      }
+   ]
+}
