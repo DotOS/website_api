@@ -1,16 +1,16 @@
 {
-  "team_members":[
-    {
-      "full_name":"Mohan CM",
-      "role":"Founder and Core Developer",
-      "image_url":"https://myimage.com/mohan",
-    }
-  ],
-  "honourable_mentions":[
-    {
-      "full_name":"Shreejoy Dash",
-      "role":"Backend website developer",
-      "image_url":"https://myimage.com/shreejoy"
-    }
-  ]
+   "team_members":[
+      {
+         "full_name":"Mohan CM",
+         "role":"Founder and Core Developer",
+         "image_url":"https://myimage.com/mohan"
+      }
+   ],
+   "honourable_mentions":[
+      {
+         "full_name":"Shreejoy Dash",
+         "role":"Backend website developer",
+         "image_url":"https://myimage.com/shreejoy"
+      }
+   ]
 }
