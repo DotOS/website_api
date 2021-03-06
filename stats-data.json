@@ -1,0 +1,1717 @@
+{
+   "data":[
+      {
+         "brand":"Xiaomi",
+         "name":"Redmi Note 4",
+         "codename":"mido",
+         "assert":[
+            "mido"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Mi A1",
+         "codename":"tissot",
+         "assert":[
+            "tissot"
+         ]
+      },
+      {
+         "brand":"Lenovo",
+         "name":"Vibe K5 Plus",
+         "codename":"A6020",
+         "assert":[
+            "A6020"
+         ]
+      },
+      {
+         "brand":"Samsung",
+         "name":"Galaxy Note 3 LTE",
+         "codename":"hlte",
+         "assert":[
+            "hlte",
+            "hltetmo",
+            "hltekor"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Mi 5s Plus",
+         "codename":"natrium",
+         "assert":[
+            "natrium"
+         ]
+      },
+      {
+         "brand":"Asus",
+         "name":"Zenfone Max Pro M1",
+         "codename":"X00TD",
+         "assert":[
+            "X00TD",
+            "X00T",
+            "WW_Phone"
+         ]
+      },
+      {
+         "brand":"Samsung",
+         "name":"Galaxy J7 Prime",
+         "codename":"on7xelte",
+         "assert":[
+            "on7xelte"
+         ]
+      },
+      {
+         "brand":"LeEco",
+         "name":"Le 2",
+         "codename":"s2",
+         "assert":[
+            "s2"
+         ]
+      },
+      {
+         "brand":"OnePlus",
+         "name":"OnePlus 3/3T",
+         "codename":"oneplus3",
+         "assert":[
+            "oneplus3"
+         ]
+      },
+      {
+         "brand":"LeEco",
+         "name":"Le Pro3 / Le Pro3 Elite",
+         "codename":"zl1",
+         "assert":[
+            "zl1"
+         ]
+      },
+      {
+         "brand":"Motorola",
+         "name":"Moto G",
+         "codename":"falcon",
+         "assert":[
+            "falcon"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Mi 5s",
+         "codename":"capricorn",
+         "assert":[
+            "capricorn"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Redmi Note 3",
+         "codename":"kenzo",
+         "assert":[
+            "kenzo"
+         ]
+      },
+      {
+         "brand":"Samsung",
+         "name":"Galaxy Note 3 LTE",
+         "codename":"hltechn",
+         "assert":[
+            "hltechn"
+         ]
+      },
+      {
+         "brand":"Samsung",
+         "name":"Galaxy A7 (2016)",
+         "codename":"a7xeltexx",
+         "assert":[
+            "a7xeltexx",
+            "a7xelte",
+            "a5y17lte"
+         ]
+      },
+      {
+         "brand":"Samsung",
+         "name":"Galaxy A5",
+         "codename":"a5xeltexx",
+         "assert":[
+            "a5xeltexx",
+            "a5xelte",
+            "a5ultexx",
+            "a5lte",
+            "a5ltexx"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Mi Mix",
+         "codename":"lithium",
+         "assert":[
+            "lithium"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Mi Max 2",
+         "codename":"oxygen",
+         "assert":[
+            "oxygen"
+         ]
+      },
+      {
+         "brand":"LG",
+         "name":"G2",
+         "codename":"d802",
+         "assert":[
+            "d802"
+         ]
+      },
+      {
+         "brand":"Samsung",
+         "name":"Galaxy J5 LTE",
+         "codename":"j5xnlte",
+         "assert":[
+            "j5xnlte",
+            "j5y17lte",
+            "j5nlte",
+            "j53gxx",
+            "j5lte",
+            "j5ltechn"
+         ]
+      },
+      {
+         "brand":"Samsung",
+         "name":"Galaxy J7 Pro (2017)",
+         "codename":"j7y17lte",
+         "assert":[
+            "j7y17lte"
+         ]
+      },
+      {
+         "brand":"LG",
+         "name":"V30 Plus",
+         "codename":"h930",
+         "assert":[
+            "h930"
+         ]
+      },
+      {
+         "brand":"Google",
+         "name":"Pixel XL",
+         "codename":"marlin",
+         "assert":[
+            "marlin"
+         ]
+      },
+      {
+         "brand":"Samsung",
+         "name":"Galaxy S4",
+         "codename":"ks01ltexx",
+         "assert":[
+            "ks01ltexx",
+            "jflte",
+            "ks01lte",
+            "jfvelte"
+         ]
+      },
+      {
+         "brand":"Motorola",
+         "name":"Moto G3 Turbo",
+         "codename":"merlin",
+         "assert":[
+            "merlin"
+         ]
+      },
+      {
+         "brand":"Sony",
+         "name":"Xperia SP",
+         "codename":"huashan",
+         "assert":[
+            "huashan"
+         ]
+      },
+      {
+         "brand":"Nextbit",
+         "name":"Robin",
+         "codename":"ether",
+         "assert":[
+            "ether"
+         ]
+      },
+      {
+         "brand":"Huawei",
+         "name":"P8 Lite",
+         "codename":"alice",
+         "assert":[
+            "alice",
+            "prague"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Redmi 4a",
+         "codename":"rolex",
+         "assert":[
+            "rolex"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Redmi Note 5",
+         "codename":"vince",
+         "assert":[
+            "vince"
+         ]
+      },
+      {
+         "brand":"Samsung",
+         "name":"Galaxy S7",
+         "codename":"herolte",
+         "assert":[
+            "herolte",
+            "SM-G930"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Mi 6",
+         "codename":"sagit",
+         "assert":[
+            "sagit"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Redmi Note 5 Pro",
+         "codename":"whyred",
+         "assert":[
+            "whyred"
+         ]
+      },
+      {
+         "brand":"Motorola",
+         "name":"Moto G4",
+         "codename":"athene",
+         "assert":[
+            "athene"
+         ]
+      },
+      {
+         "brand":"Samsung",
+         "name":"Galaxy S7 Edge",
+         "codename":"hero2lte",
+         "assert":[
+            "hero2lte"
+         ]
+      },
+      {
+         "brand":"LG",
+         "name":"G6",
+         "codename":"h870",
+         "assert":[
+            "h870",
+            "us997"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Redmi 4 Prime",
+         "codename":"markw",
+         "assert":[
+            "markw"
+         ]
+      },
+      {
+         "brand":"Motorola",
+         "name":"Moto G 2015",
+         "codename":"osprey",
+         "assert":[
+            "osprey"
+         ]
+      },
+      {
+         "brand":"Wingtech",
+         "name":"Redmi 2",
+         "codename":"wt88047",
+         "assert":[
+            "wt88047",
+            "rendang"
+         ]
+      },
+      {
+         "brand":"Motorola",
+         "name":"Moto G5 Plus",
+         "codename":"potter",
+         "assert":[
+            "potter"
+         ]
+      },
+      {
+         "brand":"Motorola",
+         "name":"Moto Z Play",
+         "codename":"addison",
+         "assert":[
+            "addison"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Redmi 4",
+         "codename":"santoni",
+         "assert":[
+            "santoni"
+         ]
+      },
+      {
+         "brand":"Lenovo",
+         "name":"ZUK Z1",
+         "codename":"ham",
+         "assert":[
+            "ham"
+         ]
+      },
+      {
+         "brand":"YU",
+         "name":"Unique",
+         "codename":"jalebi",
+         "assert":[
+            "jalebi"
+         ]
+      },
+      {
+         "brand":"Lenovo",
+         "name":"P2",
+         "codename":"kuntao",
+         "assert":[
+            "kuntao"
+         ]
+      },
+      {
+         "brand":"Motorola",
+         "name":"Moto E",
+         "codename":"condor",
+         "assert":[
+            "condor"
+         ]
+      },
+      {
+         "brand":"Samsung",
+         "name":"Galaxy S5 LTE",
+         "codename":"klte",
+         "assert":[
+            "klte",
+            "kltedv",
+            "klteduos",
+            "kltekor"
+         ]
+      },
+      {
+         "brand":"Motorola",
+         "name":"Moto G4 Play",
+         "codename":"harpia",
+         "assert":[
+            "harpia"
+         ]
+      },
+      {
+         "brand":"OnePlus",
+         "name":"2",
+         "codename":"oneplus2",
+         "assert":[
+            "oneplus2"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Mi 5",
+         "codename":"gemini",
+         "assert":[
+            "gemini"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Redmi 3S/3X",
+         "codename":"land",
+         "assert":[
+            "land"
+         ]
+      },
+      {
+         "brand":"Lenovo",
+         "name":"ZUK Z2 Plus",
+         "codename":"z2_plus",
+         "assert":[
+            "z2_plus"
+         ]
+      },
+      {
+         "brand":"YU",
+         "name":"Yureka / Yureka Plus",
+         "codename":"tomato",
+         "assert":[
+            "tomato"
+         ]
+      },
+      {
+         "brand":"Samsung",
+         "name":"Galaxy Grand Prime",
+         "codename":"grandprimeve3g",
+         "assert":[
+            "grandprimeve3g",
+            "fortuna3gdtv",
+            "gprimelte",
+            "gprimeltespr",
+            "fortunave3g",
+            "fortuna3g",
+            "fortunalteub",
+            "gprimeltetfnvzw",
+            "dot_fortuna3gdtv",
+            "grandprimevelte",
+            "gprimeltexx"
+         ]
+      },
+      {
+         "brand":"OnePlus",
+         "name":"One",
+         "codename":"bacon",
+         "assert":[
+            "bacon"
+         ]
+      },
+      {
+         "brand":"Motorola",
+         "name":"Moto G5S Plus",
+         "codename":"sanders",
+         "assert":[
+            "sanders"
+         ]
+      },
+      {
+         "brand":"BQ",
+         "name":"Aquaris M5",
+         "codename":"piccolo",
+         "assert":[
+            "piccolo"
+         ]
+      },
+      {
+         "brand":"Google",
+         "name":"Nexus 5X",
+         "codename":"bullhead",
+         "assert":[
+            "bullhead"
+         ]
+      },
+      {
+         "brand":"Wileyfox",
+         "name":"Swift",
+         "codename":"crackling",
+         "assert":[
+            "crackling"
+         ]
+      },
+      {
+         "brand":"Lenovo",
+         "name":"A6000",
+         "codename":"a6000",
+         "assert":[
+            "a6000",
+            "a6010"
+         ]
+      },
+      {
+         "brand":"LG",
+         "name":"G3",
+         "codename":"d850",
+         "assert":[
+            "d850",
+            "d855",
+            "f400"
+         ]
+      },
+      {
+         "brand":"Google",
+         "name":"Nexus 6P",
+         "codename":"angler",
+         "assert":[
+            "angler"
+         ]
+      },
+      {
+         "brand":"Google",
+         "name":"Nexus 6",
+         "codename":"shamu",
+         "assert":[
+            "shamu"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Mi Mix 2",
+         "codename":"chiron",
+         "assert":[
+            "chiron"
+         ]
+      },
+      {
+         "brand":"Pantech",
+         "name":"Vega Iron 2",
+         "codename":"ef63",
+         "assert":[
+            "ef63",
+            "ef63k"
+         ]
+      },
+      {
+         "brand":"Google",
+         "name":"Nexus 5",
+         "codename":"hammerhead",
+         "assert":[
+            "hammerhead"
+         ]
+      },
+      {
+         "brand":"Asus",
+         "name":"Zenfone 2 Laser/Selfie",
+         "codename":"Z00T",
+         "assert":[
+            "Z00T",
+            "Z00L",
+            "Z008",
+            "Z00A",
+            "Z00RD"
+         ]
+      },
+      {
+         "brand":"LeEco",
+         "name":"Le Max 2",
+         "codename":"x2",
+         "assert":[
+            "x2"
+         ]
+      },
+      {
+         "brand":"Motorola",
+         "name":"Moto G 2014",
+         "codename":"titan",
+         "assert":[
+            "titan"
+         ]
+      },
+      {
+         "brand":"Samsung",
+         "name":"Galaxy J7 (2016)",
+         "codename":"j7xelte",
+         "assert":[
+            "j7xelte",
+            "j7velte",
+            "j7eltexx"
+         ]
+      },
+      {
+         "brand":"BQ",
+         "name":"Aquaris X Pro",
+         "codename":"bardockpro",
+         "assert":[
+            "bardockpro"
+         ]
+      },
+      {
+         "brand":"YU",
+         "name":"Yuphoria",
+         "codename":"lettuce",
+         "assert":[
+            "lettuce"
+         ]
+      },
+      {
+         "brand":"OnePlus",
+         "name":"X",
+         "codename":"onyx",
+         "assert":[
+            "onyx"
+         ]
+      },
+      {
+         "brand":"BQ",
+         "name":"Aquaris X",
+         "codename":"bardock",
+         "assert":[
+            "bardock"
+         ]
+      },
+      {
+         "brand":"Samsung",
+         "name":"Galaxy Tab S2 WI-FI",
+         "codename":"gts210vewifi",
+         "assert":[
+            "gts210vewifi"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Mi Max",
+         "codename":"hydrogen",
+         "assert":[
+            "hydrogen",
+            "helium"
+         ]
+      },
+      {
+         "brand":"LYF",
+         "name":"Water 8",
+         "codename":"mobee01a",
+         "assert":[
+            "mobee01a"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Mi 6X",
+         "codename":"wayne",
+         "assert":[
+            "wayne"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Mi 5X",
+         "codename":"tiffany",
+         "assert":[
+            "tiffany"
+         ]
+      },
+      {
+         "brand":"HTC",
+         "name":"M8",
+         "codename":"m8",
+         "assert":[
+            "m8"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Mi Pad",
+         "codename":"mocha",
+         "assert":[
+            "mocha"
+         ]
+      },
+      {
+         "brand":"OnePlus",
+         "name":"5",
+         "codename":"cheeseburger",
+         "assert":[
+            "cheeseburger"
+         ]
+      },
+      {
+         "brand":"Samsung",
+         "name":"Galaxy S2",
+         "codename":"i9100",
+         "assert":[
+            "i9100"
+         ]
+      },
+      {
+         "brand":"Motorola",
+         "name":"Moto X4 2014",
+         "codename":"victara",
+         "assert":[
+            "victara"
+         ]
+      },
+      {
+         "brand":"Lenovo",
+         "name":"K4 Note",
+         "codename":"k5fpr",
+         "assert":[
+            "k5fpr"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Mi 4C",
+         "codename":"libra",
+         "assert":[
+            "libra"
+         ]
+      },
+      {
+         "brand":"Sony",
+         "name":"Xperia XA2",
+         "codename":"pioneer",
+         "assert":[
+            "pioneer"
+         ]
+      },
+      {
+         "brand":"Huawei",
+         "name":"Hi6250",
+         "codename":"hi6250",
+         "assert":[
+            "hi6250"
+         ]
+      },
+      {
+         "brand":"Asus",
+         "name":"Zenfone 3",
+         "codename":"zenfone3",
+         "assert":[
+            "zenfone3"
+         ]
+      },
+      {
+         "brand":"Samsung",
+         "name":"Galaxy Core Prime",
+         "codename":"core33g",
+         "assert":[
+            "core33g"
+         ]
+      },
+      {
+         "brand":"Samsung",
+         "name":"Galaxy On7 Pro",
+         "codename":"o7prolte",
+         "assert":[
+            "o7prolte"
+         ]
+      },
+      {
+         "brand":"Lenovo",
+         "name":"K6 Power",
+         "codename":"karate",
+         "assert":[
+            "karate"
+         ]
+      },
+      {
+         "brand":"ZTE",
+         "name":"Nubia Z17",
+         "codename":"NX563J",
+         "assert":[
+            "NX563J",
+            "nx563j"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Redmi Note 5A",
+         "codename":"ugglite",
+         "assert":[
+            "ugglite"
+         ]
+      },
+      {
+         "brand":"Samsung",
+         "name":"Galaxy Grand Neo Plus",
+         "codename":"grandneove3g",
+         "assert":[
+            "grandneove3g"
+         ]
+      },
+      {
+         "brand":"Samsung",
+         "name":"Galaxy S5 Neo",
+         "codename":"s5neoltexx",
+         "assert":[
+            "s5neoltexx",
+            "s5neolte"
+         ]
+      },
+      {
+         "brand":"Samsung",
+         "name":"Galaxy S6",
+         "codename":"zerofltexx",
+         "assert":[
+            "zerofltexx",
+            "zerofltecan",
+            "zeroltecan"
+         ]
+      },
+      {
+         "brand":"Samsung",
+         "name":"Galaxy S6 Edge",
+         "codename":"zeroltexx",
+         "assert":[
+            "zeroltexx"
+         ]
+      },
+      {
+         "brand":"Samsung",
+         "name":"Galaxy S9 Plus",
+         "codename":"star2ltexx",
+         "assert":[
+            "star2ltexx",
+            "SM-G965F"
+         ]
+      },
+      {
+         "brand":"ZTE",
+         "name":"Nubia Z11 Mini S",
+         "codename":"nx549j",
+         "assert":[
+            "nx549j"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Mi 8 SE",
+         "codename":"sirius",
+         "assert":[
+            "sirius"
+         ]
+      },
+      {
+         "brand":"Sony",
+         "name":"Xperia Z3",
+         "codename":"z3",
+         "assert":[
+            "z3"
+         ]
+      },
+      {
+         "brand":"Sony",
+         "name":"Xperia Z3 Compact",
+         "codename":"z3c",
+         "assert":[
+            "z3c"
+         ]
+      },
+      {
+         "brand":"Motorola",
+         "name":"Moto X Play",
+         "codename":"lux",
+         "assert":[
+            "lux"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Redmi 5",
+         "codename":"rosy",
+         "assert":[
+            "rosy"
+         ]
+      },
+      {
+         "brand":"Google",
+         "name":"Pixel",
+         "codename":"sailfish",
+         "assert":[
+            "sailfish"
+         ]
+      },
+      {
+         "brand":"OnePlus",
+         "name":"5T",
+         "codename":"dumpling",
+         "assert":[
+            "dumpling"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Poco F1",
+         "codename":"beryllium",
+         "assert":[
+            "beryllium"
+         ]
+      },
+      {
+         "brand":"Sony",
+         "name":"Xperia Z1",
+         "codename":"honami",
+         "assert":[
+            "honami"
+         ]
+      },
+      {
+         "brand":"Sony",
+         "name":"Xperia Z1 Compact",
+         "codename":"amami",
+         "assert":[
+            "amami"
+         ]
+      },
+      {
+         "brand":"Samsung",
+         "name":"Galaxy Tab E",
+         "codename":"gtelwifiue",
+         "assert":[
+            "gtelwifiue"
+         ]
+      },
+      {
+         "brand":"Samsung",
+         "name":"Galaxy A3",
+         "codename":"a3xeltexx",
+         "assert":[
+            "a3xeltexx",
+            "a3xelte"
+         ]
+      },
+      {
+         "brand":"ZTE",
+         "name":"Axon 7",
+         "codename":"axon7",
+         "assert":[
+            "axon7"
+         ]
+      },
+      {
+         "brand":"Motorola",
+         "name":"Moto G5",
+         "codename":"cedric",
+         "assert":[
+            "cedric"
+         ]
+      },
+      {
+         "brand":"Samsung",
+         "name":"Galaxy S4 Mini",
+         "codename":"serranovelte",
+         "assert":[
+            "serranovelte",
+            "serranove3g",
+            "serranoltexx"
+         ]
+      },
+      {
+         "brand":"Motorola",
+         "name":"Moto Z2 Play",
+         "codename":"albus",
+         "assert":[
+            "albus"
+         ]
+      },
+      {
+         "brand":"Sony",
+         "name":"Xperia ZL",
+         "codename":"odin",
+         "assert":[
+            "odin"
+         ]
+      },
+      {
+         "brand":"Asus",
+         "name":"Zenfone Max",
+         "codename":"Z010D",
+         "assert":[
+            "Z010D"
+         ]
+      },
+      {
+         "brand":"Huawei",
+         "name":"Honor 4/4X",
+         "codename":"cherry",
+         "assert":[
+            "cherry"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Mi 3 / Mi 4",
+         "codename":"cancro",
+         "assert":[
+            "cancro"
+         ]
+      },
+      {
+         "brand":"ZTE",
+         "name":"T&T Trek 2 HD",
+         "codename":"jasmine",
+         "assert":[
+            "jasmine"
+         ]
+      },
+      {
+         "brand":"Huawei",
+         "name":"Nova",
+         "codename":"hwcan",
+         "assert":[
+            "hwcan"
+         ]
+      },
+      {
+         "brand":"OnePlus",
+         "name":"6",
+         "codename":"enchilada",
+         "assert":[
+            "enchilada"
+         ]
+      },
+      {
+         "brand":"Huawei",
+         "name":"Honor 5X",
+         "codename":"kiwi",
+         "assert":[
+            "kiwi"
+         ]
+      },
+      {
+         "brand":"Huawei",
+         "name":"Honor 4X",
+         "codename":"che10",
+         "assert":[
+            "che10"
+         ]
+      },
+      {
+         "brand":"ZTE",
+         "name":"Nubia Z17 Mini",
+         "codename":"nx569j",
+         "assert":[
+            "nx569j"
+         ]
+      },
+      {
+         "brand":"Wileyfox",
+         "name":"Swift 2",
+         "codename":"marmite",
+         "assert":[
+            "marmite"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Mi Note 3",
+         "codename":"jason",
+         "assert":[
+            "jason"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Mi 8 Lite",
+         "codename":"platina",
+         "assert":[
+            "platina"
+         ]
+      },
+      {
+         "brand":"Huawei",
+         "name":"Nova Plus",
+         "codename":"hwmla",
+         "assert":[
+            "hwmla"
+         ]
+      },
+      {
+         "brand":"Google",
+         "name":"Nexus 7",
+         "codename":"flo",
+         "assert":[
+            "flo",
+            "deb"
+         ]
+      },
+      {
+         "brand":"LG",
+         "name":"G4",
+         "codename":"h815",
+         "assert":[
+            "h815"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Redmi 6 Pro",
+         "codename":"sakura",
+         "assert":[
+            "sakura"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Redmi 3 Prime",
+         "codename":"ido",
+         "assert":[
+            "ido",
+            "Ido"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Redmi 5A",
+         "codename":"riva",
+         "assert":[
+            "riva"
+         ]
+      },
+      {
+         "brand":"Motorola",
+         "name":"Moto G5S",
+         "codename":"montana",
+         "assert":[
+            "montana"
+         ]
+      },
+      {
+         "brand":"Smartron",
+         "name":"SRT Phone",
+         "codename":"rimo02a",
+         "assert":[
+            "rimo02a"
+         ]
+      },
+      {
+         "brand":"LG",
+         "name":"G4",
+         "codename":"h811",
+         "assert":[
+            "h811"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Mi Mix 2S",
+         "codename":"polaris",
+         "assert":[
+            "polaris"
+         ]
+      },
+      {
+         "brand":"Google",
+         "name":"Pixel 3 XL",
+         "codename":"crosshatch",
+         "assert":[
+            "crosshatch"
+         ]
+      },
+      {
+         "brand":"Google",
+         "name":"Pixel 3",
+         "codename":"blueline",
+         "assert":[
+            "blueline"
+         ]
+      },
+      {
+         "brand":"YU",
+         "name":"Yureka Black",
+         "codename":"garlic",
+         "assert":[
+            "garlic"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Redmi Note 6 Pro",
+         "codename":"tulip",
+         "assert":[
+            "tulip"
+         ]
+      },
+      {
+         "brand":"CoolPad",
+         "name":"Cool 1",
+         "codename":"cool1",
+         "assert":[
+            "cool1"
+         ]
+      },
+      {
+         "brand":"Smartfren",
+         "name":"Andromax EC",
+         "codename":"C46B2H",
+         "assert":[
+            "C46B2H",
+            "andromax"
+         ]
+      },
+      {
+         "brand":"OnePlus",
+         "name":"6T",
+         "codename":"fajita",
+         "assert":[
+            "fajita"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Mi 8",
+         "codename":"dipper",
+         "assert":[
+            "dipper"
+         ]
+      },
+      {
+         "brand":"LG",
+         "name":"V30",
+         "codename":"h932",
+         "assert":[
+            "h932"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Mi A2",
+         "codename":"jasmine_sprout",
+         "assert":[
+            "jasmine_sprout"
+         ]
+      },
+      {
+         "brand":"Essential",
+         "name":"Essential PH-1",
+         "codename":"mata",
+         "assert":[
+            "mata"
+         ]
+      },
+      {
+         "brand":"Asus",
+         "name":"Zenfone Max Pro M2",
+         "codename":"X01BD",
+         "assert":[
+            "X01BD"
+         ]
+      },
+      {
+         "brand":"Oukitel",
+         "name":"C11 Pro",
+         "codename":"C11_Pro",
+         "assert":[
+            "C11_Pro"
+         ]
+      },
+      {
+         "brand":"Samsung",
+         "name":"Galaxy S3",
+         "codename":"i9300",
+         "assert":[
+            "i9300"
+         ]
+      },
+      {
+         "brand":"Motorola",
+         "name":"Moto Z2 Force",
+         "codename":"nash",
+         "assert":[
+            "nash"
+         ]
+      },
+      {
+         "brand":"Sharp",
+         "name":"Aquos S2",
+         "codename":"SAT",
+         "assert":[
+            "SAT"
+         ]
+      },
+      {
+         "brand":"HTC",
+         "name":"10",
+         "codename":"pme",
+         "assert":[
+            "pme"
+         ]
+      },
+      {
+         "brand":"Nokia",
+         "name":"6.1 Plus/X6",
+         "codename":"DRG",
+         "assert":[
+            "DRG",
+            "DRG_sprout"
+         ]
+      },
+      {
+         "brand":"Nokia",
+         "name":"7 Plus",
+         "codename":"B2N",
+         "assert":[
+            "B2N"
+         ]
+      },
+      {
+         "brand":"Nokia",
+         "name":"6.1",
+         "codename":"PL2",
+         "assert":[
+            "PL2"
+         ]
+      },
+      {
+         "brand":"Lenovo",
+         "name":"Vibe P1",
+         "codename":"passion",
+         "assert":[
+            "passion"
+         ]
+      },
+      {
+         "brand":"Motorola",
+         "name":"Moto E 2015 LTE",
+         "codename":"surnia",
+         "assert":[
+            "surnia"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Mi A2 Lite",
+         "codename":"daisy",
+         "assert":[
+            "daisy"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Mi Max 3",
+         "codename":"nitrogen",
+         "assert":[
+            "nitrogen"
+         ]
+      },
+      {
+         "brand":"ZTE",
+         "name":"ZMax Pro",
+         "codename":"urd",
+         "assert":[
+            "urd"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Redmi Note 7",
+         "codename":"lavender",
+         "assert":[
+            "lavender"
+         ]
+      },
+      {
+         "brand":"GM",
+         "name":"5 Plus",
+         "codename":"shamrock",
+         "assert":[
+            "shamrock"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Redmi Note 7 Pro",
+         "codename":"violet",
+         "assert":[
+            "violet"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Redmi Y3",
+         "codename":"onc",
+         "assert":[
+            "onc"
+         ]
+      },
+      {
+         "brand":"Motorola",
+         "name":"Moto E5 Plus",
+         "codename":"hannah",
+         "assert":[
+            "hannah"
+         ]
+      },
+      {
+         "brand":"CoolPad",
+         "name":"Cool1 Dual",
+         "codename":"c106",
+         "assert":[
+            "c106"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Mi Pad 4",
+         "codename":"clover",
+         "assert":[
+            "clover"
+         ]
+      },
+      {
+         "brand":"ZTE",
+         "name":"Nubia M2",
+         "codename":"nx551j",
+         "assert":[
+            "nx551j"
+         ]
+      },
+      {
+         "brand":"GM",
+         "name":"4G",
+         "codename":"seed",
+         "assert":[
+            "seed"
+         ]
+      },
+      {
+         "brand":"Asus",
+         "name":"Zenfone Go",
+         "codename":"X00AD",
+         "assert":[
+            "X00AD"
+         ]
+      },
+      {
+         "brand":"Google",
+         "name":"Pixel 3a",
+         "codename":"sargo",
+         "assert":[
+            "sargo"
+         ]
+      },
+      {
+         "brand":"Samsung",
+         "name":"Galaxy S9",
+         "codename":"starlte",
+         "assert":[
+            "starlte"
+         ]
+      },
+      {
+         "brand":"Google",
+         "name":"Pixel 2 XL",
+         "codename":"taimen",
+         "assert":[
+            "taimen"
+         ]
+      },
+      {
+         "brand":"Samsung",
+         "name":"Galaxy Note 2",
+         "codename":"n7100",
+         "assert":[
+            "n7100"
+         ]
+      },
+      {
+         "brand":"Motorola",
+         "name":"Moto E5",
+         "codename":"nora",
+         "assert":[
+            "nora"
+         ]
+      },
+      {
+         "brand":"Elephone",
+         "name":"U Pro",
+         "codename":"U_Pro",
+         "assert":[
+            "U_Pro"
+         ]
+      },
+      {
+         "brand":"Realme",
+         "name":"2 Pro",
+         "codename":"RMX1801",
+         "assert":[
+            "RMX1801"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Mi 9T",
+         "codename":"davinci",
+         "assert":[
+            "davinci"
+         ]
+      },
+      {
+         "brand":"LG",
+         "name":"V40",
+         "codename":"judypn",
+         "assert":[
+            "judypn"
+         ]
+      },
+      {
+         "brand":"Samsung",
+         "name":"Galaxy Tab S3",
+         "codename":"gts3lwifi",
+         "assert":[
+            "gts3lwifi"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Redmi S2",
+         "codename":"ysl",
+         "assert":[
+            "ysl"
+         ]
+      },
+      {
+         "brand":"Vertex",
+         "name":"Impress Luck",
+         "codename":"Impress_Luck",
+         "assert":[
+            "Impress_Luck"
+         ]
+      },
+      {
+         "brand":"Sony",
+         "name":"Xperia Z",
+         "codename":"yuga",
+         "assert":[
+            "yuga"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Mi 9",
+         "codename":"cepheus",
+         "assert":[
+            "cepheus"
+         ]
+      },
+      {
+         "brand":"Motorola",
+         "name":"Moto G7 Power",
+         "codename":"ocean",
+         "assert":[
+            "ocean"
+         ]
+      },
+      {
+         "brand":"Realme",
+         "name":"3 Pro",
+         "codename":"rmx1851ex",
+         "assert":[
+            "rmx1851ex"
+         ]
+      },
+      {
+         "brand":"Samsung",
+         "name":"Galaxy A6 Plus",
+         "codename":"a6plte",
+         "assert":[
+            "a6plte"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Redmi Note 8",
+         "codename":"ginkgo",
+         "assert":[
+            "ginkgo",
+            "willow"
+         ]
+      },
+      {
+         "brand":"Prestigio",
+         "name":"Muze G5 LTE",
+         "codename":"PSP5522DUO",
+         "assert":[
+            "PSP5522DUO"
+         ]
+      },
+      {
+         "brand":"Ulephone",
+         "name":"S10 Pro",
+         "codename":"S10_Pro",
+         "assert":[
+            "S10_Pro"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Mi Mix 3 5G",
+         "codename":"andromeda",
+         "assert":[
+            "andromeda"
+         ]
+      },
+      {
+         "brand":"Samsung",
+         "name":"Galaxy Note 7",
+         "codename":"n7000",
+         "assert":[
+            "n7000"
+         ]
+      },
+      {
+         "brand":"Lenovo",
+         "name":"K6 Note",
+         "codename":"karatep",
+         "assert":[
+            "karatep"
+         ]
+      },
+      {
+         "brand":"Motorola",
+         "name":"Moto G6 Play",
+         "codename":"aljeter",
+         "assert":[
+            "aljeter"
+         ]
+      },
+      {
+         "brand":"Realme",
+         "name":"5",
+         "codename":"RMX1911",
+         "assert":[
+            "RMX1911"
+         ]
+      },
+      {
+         "brand":"Realme",
+         "name":"5i",
+         "codename":"RMX2030",
+         "assert":[
+            "RMX2030"
+         ]
+      },
+      {
+         "brand":"Generic",
+         "name":"System Image",
+         "codename":"gsi",
+         "assert":[
+            "gsi",
+            "phhgsi_a64_a",
+            "phhgsi_arm_a",
+            "phhgsi_arm64_a",
+            "phhgsi_arm64_ab",
+            "phhgsi_a64_ab",
+            "treble_arm64_ab",
+            "treble_arm64_a",
+            "treble_arm_a",
+            "treble_a64_ab",
+            "treble_a64_a"
+         ]
+      }
+   ],
+   "blacklist":[
+      "Redmi Note 4",
+      "Musia",
+      "Power",
+      "taco",
+      "nicklaus",
+      "sate",
+      "eagle",
+      "OUKITEL",
+      "osprey Gaming",
+      "osborn",
+      "ysl_arm_aonly",
+      "aosp_shamrock",
+      "MI MAX 3",
+      "Land",
+      "centaur",
+      "Nitrogen",
+      "Andromax C46B2H",
+      "S10+",
+      "YUREKA2",
+      "phhgsi_arm64_ab (GSI)",
+      "leagoo",
+      "ailsa_ii",
+      "nora_8917",
+      "Amber",
+      "E",
+      "ghurobaofficial",
+      "shieldtablet",
+      "m30",
+      "PLE",
+      "Wingtech",
+      "K5Pro",
+      "cereus",
+      "cactus",
+      "Whyred"
+   ]
+}
