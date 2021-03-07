@@ -1,0 +1,26 @@
+{
+   "name": "Zenfone Max Pro M1",
+   "brand": "Asus",
+   "codename": "X00TD",
+   "xda_thread": "https://forum.xda-developers.com/t/official-eleven-dotos-for-whyred-22-02-2021.3900498/",
+   "builds": {
+      "vanilla": [
+         {
+            "datetime": 1612459475,
+            "filename": "dotOS-R-v5.0.0-X00TD-OFFICIAL-20210211-1130.zip",
+            "id": "ee1bd25de8819c0cab4c0ded64b798e5",
+            "romtype": "OFFICIAL",
+            "size": 1666374431,
+            "url": "https://downloads.droidontime.com/dot11/X00TD/vanilla/dotOS-R-v5.0.0-X00TD-OFFICIAL-20210211-1130.zip",
+            "version": "v5.0.0"
+         }
+      ]
+   },
+   "maintainers": [
+      {
+         "_id": "dhimanparas20",
+         "name": "Ken Kaneki",
+         "url": "https://github.com/dhimanparas20"
+      }
+   ]
+}

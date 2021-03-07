@@ -1,4 +1,10 @@
 {
+   "Asus": {
+      "X00TD": "Zenfone Max Pro M1"
+   },
+   "Oneplus": {
+      "oneplus3": "OnePlus 3/3T"
+   },
    "Xiaomi": {
       "davinci": "Mi 9T",
       "mido": "Redmi Note 4",
