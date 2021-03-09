@@ -1,29 +1,29 @@
 {
    "team_members":[
       {
-         "full_name":"Mohan CM",
+         "full_name":"Mohan C M",
          "role":"Founder and Core Developer",
          "github_username":"mohancm"
       },
       {
          "full_name":"Iacob Ionut",
          "role":"UI, UX and Core Developer",
-         "github_username":""
+         "github_username":"IacobIonut01"
       },
       {
          "full_name":"Aswin",
          "role":"Graphic Designer",
-         "github_username":""
+         "github_username":"Aswin8"
       },
       {
          "full_name":"Sipun Ku Mahanta",
          "role":"Developer and Device Maintainers Co-ordinator",
-         "github_username":""
+         "github_username":"Sweeto143"
       },
       {
          "full_name":"Manish Bajpai",
          "role":"UI, UX Designer and Developer",
-         "github_username":""
+         "github_username":"Manishbajpai055"
       }      
    ],
    "honourable_mentions":[
@@ -35,22 +35,22 @@
       {
          "full_name":"Sayan Biswas",
          "role":"UI/UX Developer and Project Co-ordinator",
-         "github_username":""
+         "github_username":"samgrande"
       },
       {
          "full_name":"Amogha Maiya",
          "role":"Server Infrastructure Maintainer",
-         "github_username":""
+         "github_username":"amog787"
       },
       {
          "full_name":"Syahrial Agni Prasetya",
          "role":"Boot Animation Designer",
-         "github_username":""
+         "github_username":"lemniskett"
       },
       {
          "full_name":"Hari Ambadi",
          "role":"Graphics Designer | Core Team",
-         "github_username":""
+         "github_username":"hariambadii"
       }
    ]
 }
