@@ -4,13 +4,53 @@
          "full_name":"Mohan CM",
          "role":"Founder and Core Developer",
          "github_username":"mohancm"
-      }
+      },
+      {
+         "full_name":"Iacob Ionut",
+         "role":"UI, UX and Core Developer",
+         "github_username":""
+      },
+      {
+         "full_name":"Aswin",
+         "role":"Graphic Designer",
+         "github_username":""
+      },
+      {
+         "full_name":"Sipun Ku Mahanta",
+         "role":"Developer and Device Maintainers Co-ordinator",
+         "github_username":""
+      },
+      {
+         "full_name":"Manish Bajpai",
+         "role":"UI, UX Designer and Developer",
+         "github_username":""
+      }      
    ],
    "honourable_mentions":[
       {
          "full_name":"Shreejoy Dash",
          "role":"Backend website developer",
          "github_username":"shreejoy"
+      },
+      {
+         "full_name":"Sayan Biswas",
+         "role":"UI/UX Developer and Project Co-ordinator",
+         "github_username":""
+      },
+      {
+         "full_name":"Amogha Maiya",
+         "role":"Server Infrastructure Maintainer",
+         "github_username":""
+      },
+      {
+         "full_name":"Syahrial Agni Prasetya",
+         "role":"Boot Animation Designer",
+         "github_username":""
+      },
+      {
+         "full_name":"Hari Ambadi",
+         "role":"Graphics Designer | Core Team",
+         "github_username":""
       }
    ]
 }
