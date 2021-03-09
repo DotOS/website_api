@@ -3,14 +3,14 @@
       {
          "full_name":"Mohan CM",
          "role":"Founder and Core Developer",
-         "image_url":"https://myimage.com/mohan"
+         "github_username":"mohancm"
       }
    ],
    "honourable_mentions":[
       {
          "full_name":"Shreejoy Dash",
          "role":"Backend website developer",
-         "image_url":"https://myimage.com/shreejoy"
+         "github_username":"shreejoy"
       }
    ]
 }
