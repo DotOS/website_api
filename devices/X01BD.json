@@ -1,0 +1,37 @@
+{
+   "name": "Zenfone Max Pro M2",
+   "brand": "Asus",
+   "codename": "X01BD",
+   "xda_thread": "https://forum.xda-developers.com/t/dotos-v5-0-0-official-asus-zenfone-max-pro-m2-asus_x01bda.4222499/",
+   "builds": {
+      "gapps": [
+         {
+            "datetime": 1612459475,
+            "filename": "dotOS-R-v5.0.0-X01BD-GAPPS-20210219-1936.zip",
+            "id": "4e21491a4f0aff4249a13b9cea3401a3",
+            "romtype": "OFFICIAL",
+            "size": 1267385917,
+            "url": "https://downloads.droidontime.com/dot11/X01BD/gapps/dotOS-R-v5.0.0-X01BD-GAPPS-20210219-1936.zip",
+            "version": "v5.0.0"
+         }
+      ],
+      "vanilla": [
+         {
+            "datetime": 1613666741,
+            "filename": "dotOS-R-v5.0.0-X01BD-OFFICIAL-20210219-1715.zip",
+            "id": "d7444821722358e13e8d2c4cd01b8abb",
+            "romtype": "OFFICIAL",
+            "size": 836524317,
+            "url": "https://downloads.droidontime.com/dot11/X01BD/vanilla/dotOS-R-v5.0.0-X01BD-OFFICIAL-20210219-1715.zip",
+            "version": "v5.0.0"
+         }
+      ]
+   },
+   "maintainers": [
+      {
+         "_id": "ElectroPerf",
+         "name": "Kunmun",
+         "url": "https://github.com/ElectroPerf"
+      }
+   ]
+}
