@@ -1,0 +1,37 @@
+{
+   "name": "Redmi Note 7 Pro",
+   "brand": "Xiaomi",
+   "codename": "violet",
+   "xda_thread": "https://forum.xda-developers.com/t/rom-11-x-official-dotos-violet.4230215/",
+   "builds": {
+      "gapps": [
+         {
+            "datetime": "1613905350",
+            "filename": "dotOS-R-v5.0.0-violet-GAPPS-20210221-1103.zip",
+            "id": "534e2bfb1df2b40629966a635c30f0e9",
+            "romtype": "GAPPS",
+            "size": "1326539207",
+            "url": "https://downloads.droidontime.com/dot11/violet/gapps/dotOS-R-v5.0.0-violet-GAPPS-20210221-1103.zip",
+            "version": "v5.0.0"
+         }
+      ],
+      "vanilla": [
+         {
+            "datetime": "1613875755",
+            "filename": "dotOS-R-v5.0.0-violet-OFFICIAL-20210221-0251.zip",
+            "id": "b87d4e16f7ef907adbefd9ee707eb39e",
+            "romtype": "OFFICIAL",
+            "size": "919905002",
+            "url": "https://downloads.droidontime.com/dot11/violet/vanilla/dotOS-R-v5.0.0-violet-OFFICIAL-20210221-0251.zip",
+            "version": "v5.0.0"
+         }
+      ]
+   },
+   "maintainers": [
+      {
+         "_id": "Joker-V2",
+         "name": "Nipin NA",
+         "url": "https://github.com/Joker-V2"
+      }
+   ]
+}
