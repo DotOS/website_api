@@ -1,0 +1,37 @@
+{
+   "name": "Redmi Note 5 / 5 Plus",
+   "brand": "Xiaomi",
+   "codename": "vince",
+   "xda_thread": "https://forum.xda-developers.com/t/rom-android-11-dotos-redmi-note-5-5-plus-official-vince.4231307/",
+   "builds": {
+      "gapps": [
+         {
+            "datetime": 1612459475,
+            "filename": "8ee7baa564193f54db013db15b264c7d",
+            "id": "888637d68c2e64ed91f3fda631c9cf52",
+            "romtype": "GAPPS",
+            "size": 1666374431,
+            "url": "https://downloads.droidontime.com/dot11/vince/gapps/dotOS-R-v5.0.0-vince-GAPPS-20210209-1453.zip",
+            "version": "v5.0.0"
+         }
+      ],
+      "vanilla": [
+         {
+            "datetime": 1612459475,
+            "filename": "dotOS-R-v5.0.0-vince-OFFICIAL-20210209-1054.zip",
+            "id": "c225fdc6ed88a12adaaa0910f796ecdc",
+            "romtype": "OFFICIAL",
+            "size": 1666374431,
+            "url": "https://downloads.droidontime.com/dot11/vince/vanilla/dotOS-R-v5.0.0-vince-OFFICIAL-20210209-1054.zip",
+            "version": "v5.0.0"
+         }
+      ]
+   },
+   "maintainers": [
+      {
+         "_id": "aseelps",
+         "name": "Aseel P Sathar",
+         "url": "https://github.com/aseelps"
+      }
+   ]
+}
