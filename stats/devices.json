@@ -584,7 +584,8 @@
          "name":"Le Max 2",
          "codename":"x2",
          "assert":[
-            "x2"
+            "x2",
+            "X2"
          ]
       },
       {
@@ -800,6 +801,14 @@
          ]
       },
       {
+         "brand":"Xiaomi",
+         "name":"Redmi Note 5A Prime",
+         "codename":"ulysse",
+         "assert":[
+            "ulysse"
+         ]
+      },
+      {
          "brand":"Samsung",
          "name":"Galaxy Grand Neo Plus",
          "codename":"grandneove3g",
@@ -836,11 +845,27 @@
       },
       {
          "brand":"Samsung",
+         "name":"Galaxy S9",
+         "codename":"starqltechn",
+         "assert":[
+            "starqltechn"
+         ]
+      },
+      {
+         "brand":"Samsung",
          "name":"Galaxy S9 Plus",
          "codename":"star2ltexx",
          "assert":[
             "star2ltexx",
             "SM-G965F"
+         ]
+      },
+      {
+         "brand":"Samsung",
+         "name":"Galaxy Note 9",
+         "codename":"crownqltechn",
+         "assert":[
+            "crownqltechn"
          ]
       },
       {
@@ -913,6 +938,22 @@
          "codename":"beryllium",
          "assert":[
             "beryllium"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Poco F2 Pro",
+         "codename":"lmi",
+         "assert":[
+            "lmi"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Poco X3",
+         "codename":"surya",
+         "assert":[
+            "surya"
          ]
       },
       {
@@ -1226,6 +1267,22 @@
          ]
       },
       {
+         "brand":"OnePlus",
+         "name":"8/8 Pro",
+         "codename":"instantnoodle",
+         "assert":[
+            "instantnoodle"
+         ]
+      },
+      {
+         "brand":"OnePlus",
+         "name":"8T",
+         "codename":"kebab",
+         "assert":[
+            "kebab"
+         ]
+      },
+      {
          "brand":"Xiaomi",
          "name":"Mi 8",
          "codename":"dipper",
@@ -1236,9 +1293,10 @@
       {
          "brand":"LG",
          "name":"V30",
-         "codename":"h932",
+         "codename":"joan",
          "assert":[
-            "h932"
+            "h932",
+            "joan"
          ]
       },
       {
@@ -1399,7 +1457,16 @@
          "name":"Redmi Y3",
          "codename":"onc",
          "assert":[
-            "onc"
+            "onc",
+            "onclite"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Redmi K30 5G",
+         "codename":"picasso",
+         "assert":[
+            "picasso"
          ]
       },
       {
@@ -1515,11 +1582,28 @@
          ]
       },
       {
+         "brand":"Xiaomi",
+         "name":"Mi 9T Pro",
+         "codename":"raphael",
+         "assert":[
+            "raphael"
+         ]
+      },
+      {
          "brand":"LG",
          "name":"V40",
          "codename":"judypn",
          "assert":[
             "judypn"
+         ]
+      },
+      {
+         "brand":"LG",
+         "name":"V50",
+         "codename":"flashlmdd",
+         "assert":[
+            "flashlmdd",
+            "flashlm"
          ]
       },
       {
@@ -1563,6 +1647,14 @@
          ]
       },
       {
+         "brand":"Xiaomi",
+         "name":"Mi 9 SE",
+         "codename":"grus",
+         "assert":[
+            "grus"
+         ]
+      },
+      {
          "brand":"Motorola",
          "name":"Moto G7 Power",
          "codename":"ocean",
@@ -1571,11 +1663,33 @@
          ]
       },
       {
+         "brand":"Motorola",
+         "name":"Moto G Power",
+         "codename":"sofiar",
+         "assert":[
+            "sofiar",
+            "sofia",
+            "sofiap",
+            "sofiap_ao",
+            "rav",
+            "rav_t"
+         ]
+      },
+      {
+         "brand":"Motorola",
+         "name":"Moto G7 ThinQ",
+         "codename":"judyln",
+         "assert":[
+            "judyln"
+         ]
+      },
+      {
          "brand":"Realme",
          "name":"3 Pro",
-         "codename":"rmx1851ex",
+         "codename":"rmx1851",
          "assert":[
-            "rmx1851ex"
+            "rmx1851ex",
+            "rmx1851"
          ]
       },
       {
@@ -1637,10 +1751,19 @@
       },
       {
          "brand":"Motorola",
-         "name":"Moto G6 Play",
-         "codename":"aljeter",
+         "name":"Moto G6",
+         "codename":"ali",
          "assert":[
-            "aljeter"
+            "ali"
+         ]
+      },
+      {
+         "brand":"Motorola",
+         "name":"Moto G6 Play",
+         "codename":"jeter",
+         "assert":[
+            "aljeter",
+            "jeter"
          ]
       },
       {
@@ -1653,10 +1776,84 @@
       },
       {
          "brand":"Realme",
+         "name":"5 Pro",
+         "codename":"RMX1971",
+         "assert":[
+            "RMX1971"
+         ]
+      },
+      {
+         "brand":"Realme",
          "name":"5i",
          "codename":"RMX2030",
          "assert":[
             "RMX2030"
+         ]
+      },
+      {
+         "brand":"Realme",
+         "name":"6",
+         "codename":"RMX2001",
+         "assert":[
+            "RMX2001"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Mi Note 10/10 Pro",
+         "codename":"tucana",
+         "assert":[
+            "tucana"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Mi Note 10 Lite",
+         "codename":"toco",
+         "assert":[
+            "toco"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Redmi Note 8 Pro",
+         "codename":"begonia",
+         "assert":[
+            "begonia",
+            "begoniain"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Mi Note 10T/10T Pro",
+         "codename":"apollo",
+         "assert":[
+            "apollo",
+            "apolloPro"
+         ]
+      },
+      {
+         "brand":"Meizu",
+         "name":"16",
+         "codename":"m1882",
+         "assert":[
+            "m1882"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Mi 10",
+         "codename":"umi",
+         "assert":[
+            "umi"
+         ]
+      },
+      {
+         "brand":"Xiaomi",
+         "name":"Mi 10 Lite",
+         "codename":"monet",
+         "assert":[
+            "monet"
          ]
       },
       {
@@ -1674,7 +1871,8 @@
             "treble_arm64_a",
             "treble_arm_a",
             "treble_a64_ab",
-            "treble_a64_a"
+            "treble_a64_a",
+            "gsi_arm64_ab"
          ]
       }
    ],
@@ -1712,6 +1910,8 @@
       "K5Pro",
       "cereus",
       "cactus",
-      "Whyred"
+      "Whyred",
+      "lava",
+      "a20"
    ]
 }
