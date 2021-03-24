@@ -1,0 +1,14 @@
+{
+   "name": "Pixel 2",
+   "brand": "Google",
+   "codename": "walleye",
+   "xda_thread": "",
+   "builds": {},
+   "maintainers": [
+      {
+         "_id": "PixelBoot",
+         "name": "PixelBoot",
+         "url": "https://github.com/PixelBoot"
+      }
+   ]
+}

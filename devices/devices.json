@@ -3,6 +3,10 @@
       "X00TD": "Zenfone Max Pro M1",
       "X01BD": "Zenfone Max Pro M2"
    },
+   "Google": {
+      "taimen": "Pixel 2XL",
+      "walleye": "Pixel 2"
+   },
    "Oneplus": {
       "oneplus3": "OnePlus 3/3T"
    },
@@ -10,6 +14,8 @@
       "davinci": "Mi 9T",
       "mido": "Redmi Note 4",
       "rolex": "Redmi 4A",
+      "vince": "Redmi Note 5 / 5 Plus",
+      "violet": "Redmi Note 7 Pro",
       "whyred": "Redmi Note 5 Pro"
    }
 }
