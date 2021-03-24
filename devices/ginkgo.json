@@ -1,0 +1,26 @@
+{
+   "name": "Redmi Note 8",
+   "brand": "Xiaomi",
+   "codename": "ginkgo",
+   "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-dotos-v5-0-aosp-2021-02-18.4233715/",
+   "builds": {
+      "vanilla": [
+         {
+            "datetime": "1613875755",
+            "filename": "dotOS-R-v5.0.0-ginkgo-OFFICIAL-20210218-1018.zip",
+            "id": "060e4b8013a4ae06bed14b3029a9ae46",
+            "romtype": "OFFICIAL",
+            "size": "919905002",
+            "url": "https://downloads.droidontime.com/dot11/ginkgo/vanilla/dotOS-R-v5.0.0-ginkgo-OFFICIAL-20210218-1018.zip",
+            "version": "v5.0.0"
+         }
+      ]
+   },
+   "maintainers": [
+      {
+         "_id": "Introdructor",
+         "name": "Yash Kachave",
+         "url": "https://github.com/Introdructor"
+      }
+   ]
+}
