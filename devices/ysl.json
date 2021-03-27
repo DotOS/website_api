@@ -1,0 +1,14 @@
+{
+   "name": "Redmi S2",
+   "brand": "Xiaomi",
+   "codename": "ysl",
+   "xda_thread": "https://forum.xda-developers.com/t/dotos-5-0.4233041/",
+   "builds": {},
+   "maintainers": [
+      {
+         "_id": "MiDoNaSR",
+         "name": "MoHaMeD NaSR",
+         "url": "https://github.com/MiDoNaSR545"
+      }
+   ]
+}
