@@ -1,0 +1,14 @@
+{
+   "name": "Poco F1",
+   "brand": "Xiaomi",
+   "codename": "beryllium",
+   "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-16-02-2021-dot-os-for-the-xiaomi-poco-f1.4234317/",
+   "builds": {},
+   "maintainers": [
+      {
+         "_id": "Notakbuzz",
+         "name": "Slayer",
+         "url": "https://github.com/notakbuzz"
+      }
+   ]
+}
