@@ -1,0 +1,14 @@
+{
+   "name": "Oneplus 5",
+   "brand": "Oneplus",
+   "codename": "cheeseburger",
+   "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-dotos-5-0-oneplus-5-t-official-22-mar-2021.4233475/",
+   "builds": {},
+   "maintainers": [
+      {
+         "_id": "karthik990",
+         "name": "Karthik N",
+         "url": "https://github.com/karthik990"
+      }
+   ]
+}
