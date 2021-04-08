@@ -1,0 +1,14 @@
+{
+   "name": "Mi A2",
+   "brand": "Xiaomi",
+   "codename": "jasmine_sprout",
+   "xda_thread": "https://forum.xda-developers.com/t/stable-official-20210322-dotos-5-0-for-mi-a2-jasmine_sprout.4250683/",
+   "builds": {},
+   "maintainers": [
+      {
+         "_id": "TechWiz007",
+         "name": "Bhargav Gajare",
+         "url": "https://github.com/TechWiz007"
+      }
+   ]
+}
