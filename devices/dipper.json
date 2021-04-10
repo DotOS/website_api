@@ -1,0 +1,37 @@
+{
+   "name": "Xiaomi 8",
+   "brand": "Xiaomi",
+   "codename": "dipper",
+   "xda_thread": "https://forum.xda-developers.com/t/rom-official-stable-r-dotos-5-0-0-19-02-2021.4230437/",
+   "builds": {
+      "gapps": [
+         {
+            "datetime": 1613666741,
+            "filename": "dotOS-R-v5.0.0-dipper-GAPPS-20210219-0152.zip",
+            "id": "42b32efd8b8e795f66b5182fe725fb02",
+            "romtype": "GAPPS",
+            "size": 1288490188,
+            "url": "https://downloads.droidontime.com/dot11/dipper/gapps/dotOS-R-v5.0.0-dipper-GAPPS-20210219-0152.zip",
+            "version": "v5.0.0"
+         }
+      ],
+      "vanilla": [
+         {
+            "datetime": 1613666741,
+            "filename": "dotOS-R-v5.0.0-dipper-OFFICIAL-20210219-0223.zip",
+            "id": "e3ec3c8ea1f39ba5d1e6ccdebee5bccf",
+            "romtype": "OFFICIAL",
+            "size": 864026624,
+            "url": "https://downloads.droidontime.com/dot11/dipper/vanilla/dotOS-R-v5.0.0-dipper-OFFICIAL-20210219-0223.zip",
+            "version": "v5.0.0"
+         }
+      ]
+   },
+   "maintainers": [
+      {
+         "_id": "KyuoFoxHuyu",
+         "name": "Kyuofox",
+         "url": "https://github.com/KyuoFoxHuyu"
+      }
+   ]
+}
