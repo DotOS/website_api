@@ -2,28 +2,28 @@
    "name": "Redmi Note 4",
    "brand": "Xiaomi",
    "codename": "mido",
-   "xda_thread": "https://forum.xda-developers.com/t/rom-android-11-dotos-redmi-note-4-official-mido.4230293/",
+   "xda_thread": "https://forum.xda-developers.com/t/rom-android-11-dotos-5-0-1-redmi-note-4-official-mido-13-04-2021.4230293/",
    "builds": {
       "gapps": [
          {
-            "datetime": 1612459475,
-            "filename": "dotOS-R-v5.0.0-mido-GAPPS-20210207-1956.zip",
-            "id": "5b8c16a210485da80826f50379c17030",
+            "datetime": "1618324744",
+            "filename": "dotOS-R-v5.0.1-mido-GAPPS-20210413-1440.zip",
+            "id": "6267513a9cf3c637ecbf14dbfc1e824a",
             "romtype": "GAPPS",
-            "size": 1666374431,
-            "url": "https://downloads.droidontime.com/dot11/mido/gapps/dotOS-R-v5.0.0-mido-GAPPS-20210207-1956.zip",
-            "version": "v5.0.0"
+            "size": "1066454058",
+            "url": "https://downloads.droidontime.com/dot11/mido/gapps/dotOS-R-v5.0.1-mido-GAPPS-20210413-1440.zip/",
+            "version": "v5.0.1"
          }
       ],
       "vanilla": [
          {
-            "datetime": 1612459475,
-            "filename": "dotOS-R-v5.0.0-mido-OFFICIAL-20210207-1930.zip",
-            "id": "92b47e0e5489e52077e51c6dadd8af5e",
+            "datetime": "1618323916",
+            "filename": "dotOS-R-v5.0.1-mido-OFFICIAL-20210413-1426.zip",
+            "id": "1ff355ad59de57e40e0ae843be795c22",
             "romtype": "OFFICIAL",
-            "size": 1666374431,
-            "url": "https://downloads.droidontime.com/dot11/mido/vanilla/dotOS-R-v5.0.0-mido-OFFICIAL-20210207-1930.zip",
-            "version": "v5.0.0"
+            "size": "653272355",
+            "url": "https://downloads.droidontime.com/dot11/mido/vanilla/dotOS-R-v5.0.1-mido-OFFICIAL-20210413-1426.zip",
+            "version": "v5.0.1"
          }
       ]
    },
