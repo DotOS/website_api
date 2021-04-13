@@ -3,7 +3,19 @@
    "brand": "Xiaomi",
    "codename": "beryllium",
    "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-16-02-2021-dot-os-for-the-xiaomi-poco-f1.4234317/",
-   "builds": {},
+   "builds": {
+      "gapps": [
+         {
+            "datetime": "1618198710",
+            "filename": "dotOS-R-v5.0.1-beryllium-GAPPS-20210412-0341.zip",
+            "id": "4b1d8e236b89ed8e068bb33c007c4f0e",
+            "romtype": "GAPPS",
+            "size": "1244985335",
+            "url": "https://downloads.droidontime.com/dot11/beryllium/gapps/dotOS-R-v5.0.1-beryllium-GAPPS-20210412-0341.zip",
+            "version": "v5.0.1"
+         }
+      ]
+   },
    "maintainers": [
       {
          "_id": "Notakbuzz",
