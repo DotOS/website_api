@@ -2,28 +2,28 @@
    "name": "Mi 9T",
    "brand": "Xiaomi",
    "codename": "davinci",
-   "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-dotos-v5-0-aosp-2020-18-02.4230253/",
+   "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-dotos-v5-0-1-aosp-2021-12-04.4230253/",
    "builds": {
       "gapps": [
          {
-            "datetime": 1612459475,
-            "filename": "dotOS-R-v5.0.0-davinci-GAPPS-20210218-1647.zip",
-            "id": "888637d68c2e64ed91f3fda631c9cf52",
+            "datetime": "1618254217",
+            "filename": "dotOS-R-v5.0.1-davinci-GAPPS-20210412-1905.zip",
+            "id": "c9b45f3a756bb84a9cc7ce2ffe10da7d",
             "romtype": "GAPPS",
-            "size": 1666374431,
-            "url": "https://downloads.droidontime.com/dot11/davinci/gapps/dotOS-R-v5.0.0-davinci-GAPPS-20210218-1647.zip",
-            "version": "v5.0.0"
+            "size": "1738274132",
+            "url": "https://sourceforge.net/projects/dotos-downloads/files/dot11/davinci/gapps/dotOS-R-v5.0.1-davinci-GAPPS-20210412-1905.zip/download",
+            "version": "v5.0.1"
          }
       ],
       "vanilla": [
          {
-            "datetime": 1612459475,
-            "filename": "dotOS-R-v5.0.0-davinci-OFFICIAL-20210218-1710.zip",
-            "id": "58443b6b7c3bd068f5ac4223f3d02516",
+            "datetime": "1618255759",
+            "filename": "dotOS-R-v5.0.1-davinci-OFFICIAL-20210412-1930.zip",
+            "id": "0304bc40ee9e6a17ad067d0ccf3271c2",
             "romtype": "OFFICIAL",
-            "size": 1666374431,
-            "url": "https://downloads.droidontime.com/dot11/davinci/vanilla/dotOS-R-v5.0.0-davinci-OFFICIAL-20210218-1710.zip",
-            "version": "v5.0.0"
+            "size": "1265707191",
+            "url": "https://sourceforge.net/projects/dotos-downloads/files/dot11/davinci/vanilla/dotOS-R-v5.0.1-davinci-OFFICIAL-20210412-1930.zip/download",
+            "version": "v5.0.1"
          }
       ]
    },
@@ -32,11 +32,6 @@
          "_id": "hack64",
          "name": "Marco Rizzo",
          "url": "https://github.com/hack64"
-      },
-      {
-         "_id": "shreejoy",
-         "name": "Shreejoy Dash",
-         "url": "https://github.com/shreejoy"
       }
    ]
 }
