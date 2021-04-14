@@ -2,8 +2,20 @@
    "name": "Z5s",
    "brand": "Lenovo",
    "codename": "jd2019",
-   "xda_thread": "https://forum.xda-developers.com/t/rom-11-dotos-r-v5-0-unofficial-for-lenovo-z5s-jd2019-26-2-2021.4230967/",
-   "builds": {},
+   "xda_thread": "https://forum.xda-developers.com/t/rom-11-dotos-r-v5-0-1-official-for-lenovo-z5s-jd2019-13-04-2021.4230967/",
+   "builds": {
+      "gapps": [
+         {
+            "datetime": "1618275136",
+            "filename": "dotOS-R-v5.0.1-jd2019-GAPPS-20210413-0052.zip",
+            "id": "344731a9ca302520925ae7e3df56101d",
+            "romtype": "GAPPS",
+            "size": "1034865154",
+            "url": "https://downloads.droidontime.com/dot11/jd2019/gapps/dotOS-R-v5.0.1-jd2019-GAPPS-20210413-0052.zip",
+            "version": "v5.0.1"
+         }
+      ]
+   },
    "maintainers": [
       {
          "_id": "HsyHusker",
