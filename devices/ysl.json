@@ -3,7 +3,30 @@
    "brand": "Xiaomi",
    "codename": "ysl",
    "xda_thread": "https://forum.xda-developers.com/t/dotos-5-0.4233041/",
-   "builds": {},
+   "builds": {
+      "gapps": [
+         {
+            "datetime": "1618259534",
+            "filename": "dotOS-R-v5.0.1-ysl-GAPPS-20210412-1956.zip",
+            "id": "8318cf4719f2edef8e164d5b4f626d48",
+            "romtype": "GAPPS",
+            "size": "1164524255",
+            "url": "https://downloads.droidontime.com/dot11/ysl/gapps/dotOS-R-v5.0.1-ysl-GAPPS-20210412-1956.zip",
+            "version": "v5.0.1"
+         }
+      ],
+      "vanilla": [
+         {
+            "datetime": "1618259534",
+            "filename": "dotOS-R-v5.0.1-ysl-OFFICIAL-20210412-2035.zip",
+            "id": "08221567e6b3e78a973cfa6dd6b64baf",
+            "romtype": "OFFICIAL",
+            "size": "750036111",
+            "url": "https://downloads.droidontime.com/dot11/ysl/vanilla/dotOS-R-v5.0.1-ysl-OFFICIAL-20210412-2035.zip",
+            "version": "v5.0.1"
+         }
+      ]
+   },
    "maintainers": [
       {
          "_id": "MiDoNaSR",
