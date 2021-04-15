@@ -1,0 +1,26 @@
+{
+   "name": "Redmi Note 7/7s",
+   "brand": "Xiaomi",
+   "codename": "lavender",
+   "xda_thread": "https://forum.xda-developers.com/t/rom-aosp-dotos-5-0-1-xiaomi-redmi-note-7-7s-lavender-official.4262291/",
+   "builds": {
+      "vanilla": [
+         {
+            "datetime": "1618367170",
+            "filename": "dotOS-R-v5.0.1-lavender-OFFICIAL-20210414-0226.zip",
+            "id": "2a66cd1d785f084f766f53f718547d13",
+            "romtype": "OFFICIAL",
+            "size": "898428070",
+            "url": "https://downloads.droidontime.com/dot11/lavender/vanilla/dotOS-R-v5.0.1-lavender-OFFICIAL-20210414-0226.zip",
+            "version": "v5.0.1"
+         }
+      ]
+   },
+   "maintainers": [
+      {
+         "_id": "CHRISL7",
+         "name": "Wanderson R",
+         "url": "https://github.com/chrisw444"
+      }
+   ]
+}
