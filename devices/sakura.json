@@ -3,7 +3,30 @@
    "brand": "Xiaomi",
    "codename": "sakura",
    "xda_thread": "https://forum.xda-developers.com/t/rom-android-11-dotos-redmi-6-pro-official-sakura.4231767/",
-   "builds": {},
+   "builds": {
+      "gapps": [
+         {
+            "datetime": "1618430887",
+            "filename": "dotOS-R-v5.0.1-sakura-GAPPS-20210414-2010.zip",
+            "id": "9512efe81a7cd0fb6ec9a0dbfe72c604",
+            "romtype": "GAPPS",
+            "size": "1168136168",
+            "url": "https://downloads.droidontime.com/dot11/sakura/gapps/dotOS-R-v5.0.1-sakura-GAPPS-20210414-2010.zip",
+            "version": "v5.0.1"
+         }
+      ],
+      "vanilla": [
+         {
+            "datetime": "1618424526",
+            "filename": "dotOS-R-v5.0.1-sakura-OFFICIAL-20210414-1824.zip",
+            "id": "c72daf6788870ee87952a9710adc4b57",
+            "romtype": "OFFICIAL",
+            "size": "759173311",
+            "url": "https://downloads.droidontime.com/dot11/sakura/vanilla/dotOS-R-v5.0.1-sakura-OFFICIAL-20210414-1824.zip",
+            "version": "v5.0.1"
+         }
+      ]
+   },
    "maintainers": [
       {
          "_id": "geopd",
