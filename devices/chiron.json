@@ -1,0 +1,37 @@
+{
+   "name": "Mi Mix 2",
+   "brand": "Xiaomi",
+   "codename": "chiron",
+   "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-dotos-v5-0.4245535",
+   "builds": {
+      "gapps": [
+         {
+            "datetime": "1618402022",
+            "filename": "dotOS-R-v5.0.1-chiron-GAPPS-20210414-1207.zip",
+            "id": "937a2a270f51f21eb0992fca8b14c88c",
+            "romtype": "GAPPS",
+            "size": "1105541599",
+            "url": "https://downloads.droidontime.com/dot11/chiron/gapps/dotOS-R-v5.0.1-chiron-GAPPS-20210414-1207.zip",
+            "version": "v5.0.1"
+         }
+      ],
+      "vanilla": [
+         {
+            "datetime": "1618421388",
+            "filename": "dotOS-R-v5.0.1-chiron-20210414-1731.zip",
+            "id": "ee7af991eb06f7ee26b22905525b1dc0",
+            "romtype": "OFFICIAL",
+            "size": "696652421",
+            "url": "https://downloads.droidontime.com/dot11/chiron/vanilla/dotOS-R-v5.0.1-chiron-20210414-1731.zip",
+            "version": "v5.0.1"
+         }
+      ]
+   },
+   "maintainers": [
+      {
+         "_id": "WhiterWalt",
+         "name": "WhiterWalt",
+         "url": "https://github.com/WhiterWalt"
+      }
+   ]
+}
