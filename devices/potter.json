@@ -3,7 +3,19 @@
    "brand": "Motorola",
    "codename": "potter",
    "xda_thread": "https://forum.xda-developers.com/t/rom-11-dotos-5-0-1-for-potter-official.4261731/",
-   "builds": {},
+   "builds": {
+      "vanilla": [
+         {
+            "datetime": 1618584737,
+            "filename": "dotOS-R-v5.0.1-potter-OFFICIAL-20210416-1453.zip",
+            "id": "257d83d23064928d69239198587f7f0c",
+            "romtype": "OFFICIAL",
+            "size": 691434194,
+            "url": "https://downloads.droidontime.com/dot11/potter/vanilla/dotOS-R-v5.0.1-potter-OFFICIAL-20210416-1453.zip",
+            "version": "v5.0.1"
+         }
+      ]
+   },
    "maintainers": [
       {
          "_id": "zjunior06",
