@@ -3,7 +3,30 @@
    "brand": "Oneplus",
    "codename": "dumpling",
    "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-dotos-5-0-oneplus-5-t-official-22-mar-2021.4233475/",
-   "builds": {},
+   "builds": {
+      "gapps": [
+         {
+            "datetime": "1618540823",
+            "filename": "dotOS-R-v5.0.1-dumpling-GAPPS-20210416-0242.zip",
+            "id": "b66bd704cc6cefcf5e082818dd9a506d",
+            "romtype": "GAPPS",
+            "size": "1173776407",
+            "url": "https://downloads.droidontime.com/dot11/dumpling/gapps/dotOS-R-v5.0.1-dumpling-GAPPS-20210416-0242.zip",
+            "version": "v5.0.1"
+         }
+      ],
+      "vanilla": [
+         {
+            "datetime": "1618536510",
+            "filename": "dotOS-R-v5.0.1-dumpling-OFFICIAL-20210416-0130.zip",
+            "id": "655ae7c31842100d5ed543d80d417e43",
+            "romtype": "OFFICIAL",
+            "size": "758040980",
+            "url": "https://downloads.droidontime.com/dot11/dumpling/vanilla/dotOS-R-v5.0.1-dumpling-OFFICIAL-20210416-0130.zip",
+            "version": "v5.0.1"
+         }
+      ]
+   },
    "maintainers": [
       {
          "_id": "karthik990",

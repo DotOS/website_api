@@ -3,7 +3,30 @@
    "brand": "Oneplus",
    "codename": "cheeseburger",
    "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-dotos-5-0-oneplus-5-t-official-22-mar-2021.4233475/",
-   "builds": {},
+   "builds": {
+      "gapps": [
+         {
+            "datetime": "1618544351",
+            "filename": "dotOS-R-v5.0.1-cheeseburger-GAPPS-20210416-0340.zip",
+            "id": "6918ef785625e949f181a611e301e82f",
+            "romtype": "GAPPS",
+            "size": "1173620174",
+            "url": "https://downloads.droidontime.com/dot11/cheeseburger/gapps/dotOS-R-v5.0.1-cheeseburger-GAPPS-20210416-0340.zip",
+            "version": "v5.0.1"
+         }
+      ],
+      "vanilla": [
+         {
+            "datetime": "1618543767",
+            "filename": "dotOS-R-v5.0.1-cheeseburger-OFFICIAL-20210416-0331.zip",
+            "id": "9ebaac243a56d88e78ed78db534cc01b",
+            "romtype": "OFFICIAL",
+            "size": "757889144",
+            "url": "https://downloads.droidontime.com/dot11/cheeseburger/vanilla/dotOS-R-v5.0.1-cheeseburger-OFFICIAL-20210416-0331.zip",
+            "version": "v5.0.1"
+         }
+      ]
+   },
    "maintainers": [
       {
          "_id": "karthik990",
