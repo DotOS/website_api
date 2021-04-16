@@ -1,0 +1,26 @@
+{
+   "name": "OnePlus 6T",
+   "brand": "Oneplus",
+   "codename": "fajita",
+   "xda_thread": "https://forum.xda-developers.com/t/rom-11-official-dotos-5-0-1-fajita.4257317/",
+   "builds": {
+      "vanilla": [
+         {
+            "datetime": 1618598000,
+            "filename": "dotOS-R-v5.0.1-fajita-OFFICIAL-20210416-1838.zip",
+            "id": "cdf5fccdfa57dee0f1873fe3081bdd96",
+            "romtype": "OFFICIAL",
+            "size": 715614488,
+            "url": "https://downloads.droidontime.com/dot11/fajita/vanilla/dotOS-R-v5.0.1-fajita-OFFICIAL-20210416-1838.zip",
+            "version": "v5.0.1"
+         }
+      ]
+   },
+   "maintainers": [
+      {
+         "_id": "sevralt",
+         "name": "Alexander Chycherin",
+         "url": "https://github.com/sevralt"
+      }
+   ]
+}
