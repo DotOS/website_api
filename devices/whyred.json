@@ -2,17 +2,17 @@
    "name": "Redmi Note 5 Pro",
    "brand": "Xiaomi",
    "codename": "whyred",
-   "xda_thread": "https://forum.xda-developers.com/t/official-eleven-dotos-for-whyred-22-02-2021.3900498/",
+   "xda_thread": "https://forum.xda-developers.com/t/official-eleven-dotos-for-whyred-16-04-2021.3900498/",
    "builds": {
       "vanilla": [
          {
-            "datetime": 1612459475,
-            "filename": "dotOS-R-v5.0.0-whyred-OFFICIAL-20210222-0243.zip",
-            "id": "79c5b0175e9cccdeddf4aa3d74bd78e3",
+            "datetime": 1618566516,
+            "filename": "dotOS-R-v5.0.1-whyred-OFFICIAL-20210416-0951.zip",
+            "id": "cbb0cbad25fe6ab4fae9d410e3d6dcc9",
             "romtype": "OFFICIAL",
-            "size": 1666374431,
-            "url": "https://downloads.droidontime.com/dot11/whyred/vanilla/dotOS-R-v5.0.0-whyred-OFFICIAL-20210222-0243.zip",
-            "version": "v5.0.0"
+            "size": 724920190,
+            "url": "https://downloads.droidontime.com/dot11/whyred/vanilla/dotOS-R-v5.0.1-whyred-OFFICIAL-20210416-0951.zip",
+            "version": "v5.0.1"
          }
       ]
    },
