@@ -7,22 +7,22 @@
       "gapps": [
          {
             "datetime": "1618303748",
-            "filename": "dotOS-R-v5.0.1-vince-GAPPS-20210413-0850.zip",
+            "filename": " dotOS-R-v5.0.1-vince-GAPPS-20210417-0432.zip",
             "id": "34c4bb714322228ff0aebfb3a9009996",
             "romtype": "GAPPS",
             "size": "1181279008",
-            "url": "https://downloads.droidontime.com/dot11/vince/gapps/dotOS-R-v5.0.1-vince-GAPPS-20210413-0850.zip",
+            "url": "https://downloads.droidontime.com/dot11/vince/gapps/dotOS-R-v5.0.1-vince-GAPPS-20210417-0432.zip",
             "version": "v5.0.1"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1618299520",
-            "filename": "dotOS-R-v5.0.1-vince-OFFICIAL-20210413-0738.zip",
-            "id": "7d17ff7158707eec2dcb3ee517a41d95",
+            "datetime": "1618635431",
+            "filename": "dotOS-R-v5.0.1-vince-OFFICIAL-20210417-0458.zip",
+            "id": "2308f77f376ffc4f98e87354a623853d",
             "romtype": "OFFICIAL",
-            "size": "771681884",
-            "url": "https://downloads.droidontime.com/dot11/vince/vanilla/dotOS-R-v5.0.1-vince-OFFICIAL-20210413-0738.zip",
+            "size": "771644946",
+            "url": "https://downloads.droidontime.com/dot11/vince/vanilla/dotOS-R-v5.0.1-vince-OFFICIAL-20210417-0458.zip",
             "version": "v5.0.1"
          }
       ]
