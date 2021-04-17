@@ -3,7 +3,30 @@
    "brand": "Xiaomi",
    "codename": "jasmine_sprout",
    "xda_thread": "https://forum.xda-developers.com/t/stable-official-20210322-dotos-5-0-for-mi-a2-jasmine_sprout.4250683/",
-   "builds": {},
+   "builds": {
+      "gapps": [
+         {
+            "datetime": 1618642623,
+            "filename": "dotOS-R-v5.0.1-jasmine_sprout-GAPPS-20210417-0701.zip",
+            "id": "74b3a09477db048cf57e8de6902ffd8c",
+            "romtype": "GAPPS",
+            "size": 1147000797,
+            "url": "https://downloads.droidontime.com/dot11/jasmine_sprout/gapps/dotOS-R-v5.0.1-jasmine_sprout-GAPPS-20210417-0701.zip",
+            "version": "v5.0.1"
+         }
+      ],
+      "vanilla": [
+         {
+            "datetime": 1618645292,
+            "filename": "dotOS-R-v5.0.1-jasmine_sprout-OFFICIAL-20210417-0746.zip",
+            "id": "6699afb55c86fd16fde54ed82df8036b",
+            "romtype": "OFFICIAL",
+            "size": 774887347,
+            "url": "https://downloads.droidontime.com/dot11/jasmine_sprout/vanilla/dotOS-R-v5.0.1-jasmine_sprout-OFFICIAL-20210417-0746.zip",
+            "version": "v5.0.1"
+         }
+      ]
+   },
    "maintainers": [
       {
          "_id": "TechWiz007",
