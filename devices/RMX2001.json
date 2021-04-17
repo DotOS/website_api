@@ -2,28 +2,28 @@
    "name": "Realme 6/6i/6s",
    "brand": "Realme",
    "codename": "RMX2001",
-   "xda_thread": "https://forum.xda-developers.com/t/rom-official-stable-r-realme6-dotos-5-0-0-19-02-2021.4235963/",
+   "xda_thread": "https://forum.xda-developers.com/t/rom-official-stable-r-realme6-update-dotos-5-0-1-17-04-2021.4263399/",
    "builds": {
       "gapps": [
          {
-            "datetime": 1613757900,
-            "filename": "dotOS-R-v5.0.0-RMX2001-OFFICIAL-20210219-1210.zip",
-            "id": "655961efd8928784502c973931a8c3b6",
+            "datetime": 1618647284,
+            "filename": "dotOS-R-v5.0.1-RMX2001-OFFICIAL-20210417-0656.zip",
+            "id": "a7fa2bbe103f213b5cbf97969673d5d8",
             "romtype": "GAPPS",
-            "size": 1395864371,
-            "url": "https://downloads.droidontime.com/dot11/RMX2001/gapps/dotOS-R-v5.0.0-RMX2001-OFFICIAL-20210219-1210.zip",
-            "version": "v5.0.0"
+            "size": 1288490188,
+            "url": "https://downloads.droidontime.com/dot11/RMX2001/gapps/dotOS-R-v5.0.1-RMX2001-OFFICIAL-20210417-0656.zip",
+            "version": "v5.0.1"
          }
       ],
       "vanilla": [
          {
-            "datetime": 1613756700,
-            "filename": "dotOS-R-v5.0.0-RMX2001-OFFICIAL-20210218-2141.zip",
-            "id": "6602f70d470c79078beeba1fdd7dc205",
+            "datetime": 1618649595,
+            "filename": "dotOS-R-v5.0.1-RMX2001-OFFICIAL-20210417-0740.zip",
+            "id": "5d0fbb8301950ea99b042359d46ced11",
             "romtype": "OFFICIAL",
-            "size": 619708416,
-            "url": "https://downloads.droidontime.com/dot11/RMX2001/vanilla/dotOS-R-v5.0.0-RMX2001-OFFICIAL-20210218-2141.zip",
-            "version": "v5.0.0"
+            "size": 644874240,
+            "url": "https://downloads.droidontime.com/dot11/RMX2001/vanilla/dotOS-R-v5.0.1-RMX2001-OFFICIAL-20210417-0740.zip",
+            "version": "v5.0.1"
          }
       ]
    },
