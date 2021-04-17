@@ -4,6 +4,17 @@
    "codename": "fajita",
    "xda_thread": "https://forum.xda-developers.com/t/rom-11-official-dotos-5-0-1-fajita.4257317/",
    "builds": {
+      "gapps": [
+         {
+            "datetime": "1618646433",
+            "filename": "dotOS-R-v5.0.1-fajita-GAPPS-20210417-0801.zip",
+            "id": "2173d5d5c4ba7e152fc216941f50a8d7",
+            "romtype": "GAPPS",
+            "size": "1053247928",
+            "url": "https://downloads.droidontime.com/dot11/fajita/gapps/dotOS-R-v5.0.1-fajita-GAPPS-20210417-0801.zip",
+            "version": "v5.0.1"
+         }
+      ],
       "vanilla": [
          {
             "datetime": 1618598000,
