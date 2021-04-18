@@ -1,0 +1,26 @@
+{
+   "name": "Mi A1",
+   "brand": "Xiaomi",
+   "codename": "tissot",
+   "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-dotos-5-0-1-official-2021-04-16.4261445/",
+   "builds": {
+      "vanilla": [
+         {
+            "datetime": "1618681787",
+            "filename": "dotOS-R-v5.0.1-tissot-OFFICIAL-20210417-1749.zip",
+            "id": "1255335e23546adb26c7fc7621580920",
+            "romtype": "OFFICIAL",
+            "size": "617950797",
+            "url": "https://downloads.droidontime.com/dot11/tissot/vanilla/dotOS-R-v5.0.1-tissot-OFFICIAL-20210417-1749.zip",
+            "version": "v5.0.1"
+         }
+      ]
+   },
+   "maintainers": [
+      {
+         "_id": "Takeshiro04",
+         "name": "Takeshiro Seijuro",
+         "url": "https://github.com/Takeshiro04"
+      }
+   ]
+}

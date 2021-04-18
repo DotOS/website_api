@@ -1,0 +1,37 @@
+{
+   "name": "Poco M2 Pro/Redmi Note 9S/Pro/Pro Max",
+   "brand": "Xiaomi",
+   "codename": "miatoll",
+   "xda_thread": "https://forum.xda-developers.com/t/rom-official-dotos-5-11-0-miatoll-gram-joyeuse-curtana-excalubur.4230793/",
+   "builds": {
+      "gapps": [
+         {
+            "datetime": "1618676010",
+            "filename": "dotOS-R-v5.0.1-miatoll-GAPPS-20210417-1614.zip",
+            "id": "1a6dbb49f61e58afe22f82a97ae4d99e",
+            "romtype": "GAPPS",
+            "size": "1526948077",
+            "url": "https://downloads.droidontime.com/dot11/miatoll/gapps/dotOS-R-v5.0.1-miatoll-GAPPS-20210417-1614.zip",
+            "version": "v5.0.1"
+         }
+      ],
+      "vanilla": [
+         {
+            "datetime": "1618673256",
+            "filename": "dotOS-R-v5.0.1-miatoll-OFFICIAL-20210417-1528.zip",
+            "id": "4d701da4a21f6d95592e17bc2c0265a8",
+            "romtype": "OFFICIAL",
+            "size": "1127525766",
+            "url": "https://downloads.droidontime.com/dot11/miatoll/vanilla/dotOS-R-v5.0.1-miatoll-OFFICIAL-20210417-1528.zip",
+            "version": "v5.0.1"
+         }
+      ]
+   },
+   "maintainers": [
+      {
+         "_id": "ShreehariVaasishta",
+         "name": "Shreehari Vaasishta L",
+         "url": "https://github.com/ShreehariVaasishta"
+      }
+   ]
+}
