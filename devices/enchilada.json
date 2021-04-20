@@ -1,0 +1,26 @@
+{
+   "name": "OnePlus 6",
+   "brand": "Oneplus",
+   "codename": "enchilada",
+   "xda_thread": "https://forum.xda-developers.com/t/rom-unofficial-dotos-5-0-0-enchilada-11-0-0-r_xx.4232243/",
+   "builds": {
+      "vanilla": [
+         {
+            "datetime": 1618766093,
+            "filename": "dotOS-R-v5.0.1-enchilada-OFFICIAL-20210418-1106.zip",
+            "id": "0f5dccd515713bb1fb164badc9288443",
+            "romtype": "OFFICIAL",
+            "size": 675944767,
+            "url": "https://downloads.droidontime.com/dot11/enchilada/vanilla/dotOS-R-v5.0.1-enchilada-OFFICIAL-20210418-1143.zip",
+            "version": "v5.0.1"
+         }
+      ]
+   },
+   "maintainers": [
+      {
+         "_id": "CYB3R0ID694",
+         "name": "Sanket Mhatre",
+         "url": "https://github.com/CYB3R0ID694/"
+      }
+   ]
+}
