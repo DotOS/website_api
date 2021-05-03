@@ -2,28 +2,28 @@
    "name": "Xiaomi 8",
    "brand": "Xiaomi",
    "codename": "dipper",
-   "xda_thread": "https://forum.xda-developers.com/t/rom-official-stable-r-dotos-5-0-0-19-02-2021.4230437/",
+   "xda_thread": "https://forum.xda-developers.com/t/rom-official-stable-r-dotos-5-0-1-03-05-2021.4230437/",
    "builds": {
       "gapps": [
          {
-            "datetime": 1613666741,
-            "filename": "dotOS-R-v5.0.0-dipper-GAPPS-20210219-0152.zip",
-            "id": "42b32efd8b8e795f66b5182fe725fb02",
+            "datetime": 1620002598,
+            "filename": "dotOS-R-v5.0.1-dipper-GAPPS-20210503-0053.zip",
+            "id": "09717f736abf72f40fbfae1dc5acfc54",
             "romtype": "GAPPS",
-            "size": 1288490188,
-            "url": "https://downloads.droidontime.com/dot11/dipper/gapps/dotOS-R-v5.0.0-dipper-GAPPS-20210219-0152.zip",
-            "version": "v5.0.0"
+            "size": 1252831886,
+            "url": "https://downloads.droidontime.com/dot11/dipper/gapps/dotOS-R-v5.0.1-dipper-GAPPS-20210503-0053.zip",
+            "version": "v5.0.1"
          }
       ],
       "vanilla": [
          {
-            "datetime": 1613666741,
-            "filename": "dotOS-R-v5.0.0-dipper-OFFICIAL-20210219-0223.zip",
-            "id": "e3ec3c8ea1f39ba5d1e6ccdebee5bccf",
+            "datetime": 1620000253,
+            "filename": "dotOS-R-v5.0.1-dipper-OFFICIAL-20210503-0006.zip",
+            "id": "920c9ab672b91157f5cb0cb551cbdf3b",
             "romtype": "OFFICIAL",
-            "size": 864026624,
-            "url": "https://downloads.droidontime.com/dot11/dipper/vanilla/dotOS-R-v5.0.0-dipper-OFFICIAL-20210219-0223.zip",
-            "version": "v5.0.0"
+            "size": 839335906,
+            "url": "https://downloads.droidontime.com/dot11/dipper/vanilla/dotOS-R-v5.0.1-dipper-OFFICIAL-20210503-0006.zip",
+            "version": "v5.0.1"
          }
       ]
    },
