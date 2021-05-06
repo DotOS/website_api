@@ -1,0 +1,26 @@
+{
+   "name": "Redmi Note 6 Pro",
+   "brand": "Xiaomi",
+   "codename": "tulip",
+   "xda_thread": "https://forum.xda-developers.com/t/rom-11-official-dotos-5-0-1-tulip.4265211/",
+   "builds": {
+      "vanilla": [
+         {
+            "datetime": "1618868702",
+            "filename": "dotOS-R-v5.0.1-tulip-OFFICIAL-20210419-2149.zip",
+            "id": "9dc985193338b48489e56db2ebe575be",
+            "romtype": "OFFICIAL",
+            "size": "898428070",
+            "url": "https://downloads.droidontime.com/dot11/tulip/vanilla/dotOS-R-v5.0.1-tulip-OFFICIAL-20210419-2149.zip",
+            "version": "v5.0.1"
+         }
+      ]
+   },
+   "maintainers": [
+      {
+         "_id": "jefinhodatnt",
+         "name": "Jeferson L",
+         "url": "https://github.com/jefinhodatnt"
+      }
+   ]
+}
