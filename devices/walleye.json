@@ -2,8 +2,20 @@
    "name": "Pixel 2",
    "brand": "Google",
    "codename": "walleye",
-   "xda_thread": "",
-   "builds": {},
+   "xda_thread": "https://forum.xda-developers.com/t/rom-11-official-dotos-v5-0-1-walleye.4272765/",
+   "builds": {
+      "vanilla": [
+         {
+            "datetime": 1620248805,
+            "filename": "dotOS-R-v5.0.1-walleye-OFFICIAL-20210505-2110.zip",
+            "id": "8d9d26d0e6f055cdf87505513d742f63",
+            "romtype": "OFFICIAL",
+            "size": 714044412,
+            "url": "https://downloads.droidontime.com/dot11/walleye/vanilla/dotOS-R-v5.0.1-walleye-OFFICIAL-20210505-2110.zip",
+            "version": "v5.0.1"
+         }
+      ]
+   },
    "maintainers": [
       {
          "_id": "PixelBoot",

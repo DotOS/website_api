@@ -3,7 +3,19 @@
    "brand": "Google",
    "codename": "taimen",
    "xda_thread": "https://forum.xda-developers.com/t/rom-11-unofficial-dotos-v5-0-0-taimen-24-02-2021.4239583/",
-   "builds": {},
+   "builds": {
+      "vanilla": [
+         {
+            "datetime": 1620242261,
+            "filename": "dotOS-R-v5.0.1-taimen-OFFICIAL-20210505-1931.zip",
+            "id": "944c0bb6977267c7e5a35fa26e081105",
+            "romtype": "OFFICIAL",
+            "size": 721821432,
+            "url": "https://downloads.droidontime.com/dot11/taimen/vanilla/dotOS-R-v5.0.1-taimen-OFFICIAL-20210505-1931.zip",
+            "version": "v5.0.1"
+         }
+      ]
+   },
    "maintainers": [
       {
          "_id": "PixelBoot",
