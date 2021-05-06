@@ -4,6 +4,17 @@
    "codename": "walleye",
    "xda_thread": "https://forum.xda-developers.com/t/rom-11-official-dotos-v5-0-1-walleye.4272765/",
    "builds": {
+      "gapps": [
+         {
+            "datetime": 1620298247,
+            "filename": "dotOS-R-v5.0.1-walleye-GAPPS-20210506-1054.zip",
+            "id": "d2e1f141a2b807eca3d1e9c0bd3dbd60",
+            "romtype": "GAPPS",
+            "size": 1048672179,
+            "url": "https://downloads.droidontime.com/dot11/walleye/gapps/dotOS-R-v5.0.1-walleye-GAPPS-20210506-1054.zip",
+            "version": "v5.0.1"
+         }
+      ],
       "vanilla": [
          {
             "datetime": 1620248805,

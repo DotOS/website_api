@@ -4,6 +4,17 @@
    "codename": "taimen",
    "xda_thread": "https://forum.xda-developers.com/t/rom-11-unofficial-dotos-v5-0-0-taimen-24-02-2021.4239583/",
    "builds": {
+      "gapps": [
+         {
+            "datetime": 1620288992,
+            "filename": "dotOS-R-v5.0.1-taimen-GAPPS-20210506-0819.zip",
+            "id": "99e0cbfc1df8ad4e11209c1d6a1f5ff2",
+            "romtype": "GAPPS",
+            "size": 1055722005,
+            "url": "https://downloads.droidontime.com/dot11/taimen/gapps/dotOS-R-v5.0.1-taimen-GAPPS-20210506-0819.zip",
+            "version": "v5.0.1"
+         }
+      ],
       "vanilla": [
          {
             "datetime": 1620242261,
