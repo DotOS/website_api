@@ -1,0 +1,37 @@
+{
+   "name": "Mi Note 10 Lite",
+   "brand": "Xiaomi",
+   "codename": "toco",
+   "xda_thread": "https://forum.xda-developers.com/t/rom-11-toco-unofficial-dotos-v5-0-1-april-security-patch-22-04-21.4235853/",
+   "builds": {
+      "gapps": [
+         {
+            "datetime": 1620322955,
+            "filename": "dotOS-R-v5.0.1-toco-GAPPS-20210506-1744.zip",
+            "id": "8f00146aaa06d6db479daeb1d6fd72d2",
+            "romtype": "GAPPS",
+            "size": 1463594417,
+            "url": "https://downloads.droidontime.com/dot11/toco/gapps/dotOS-R-v5.0.1-toco-GAPPS-20210506-1744.zip",
+            "version": "v5.0.1"
+         }
+      ],
+      "vanilla": [
+         {
+            "datetime": 1620320754,
+            "filename": "dotOS-R-v5.0.1-toco-OFFICIAL-20210506-1707.zip",
+            "id": "da54061cf29ddd3923caabcf29102a79",
+            "romtype": "OFFICIAL",
+            "size": 1066586519,
+            "url": "https://downloads.droidontime.com/dot11/toco/vanilla/dotOS-R-v5.0.1-toco-OFFICIAL-20210506-1707.zip",
+            "version": "v5.0.1"
+         }
+      ]
+   },
+   "maintainers": [
+      {
+         "_id": "AndroidHQ254",
+         "name": "Dennis Murimi",
+         "url": "https://github.com/AndroidHQ254/"
+      }
+   ]
+}
