@@ -1,0 +1,37 @@
+{
+   "name": "POCO M3 / Redmi 9T nfc/9 Power / note 9 4G",
+   "brand": "Xiaomi",
+   "codename": "juice",
+   "xda_thread": "https://forum.xda-developers.com/t/rom-android-11-dotos-poco-m3-redmi-9t-redmi-9-power-redmi-note-9-4g-juice-official.4279019/",
+   "builds": {
+      "gapps": [
+         {
+            "datetime": "1621169432",
+            "filename": "dotOS-R-v5.0.1-juice-GAPPS-20210516-1250.zip",
+            "id": "34c4bb714322228ff0aebfb3a9009996",
+            "romtype": "GAPPS",
+            "size": "1007421954",
+            "url": "https://downloads.droidontime.com/dot11/juice/gapps/dotOS-R-v5.0.1-juice-GAPPS-20210516-1250.zip",
+            "version": "v5.0.1"
+         }
+      ],
+      "vanilla": [
+         {
+            "datetime": "1618635431",
+            "filename": "dotOS-R-v5.0.1-juice-OFFICIAL-20210516-2007.zip",
+            "id": "2308f77f376ffc4f98e87354a623853d",
+            "romtype": "OFFICIAL",
+            "size": "771644946",
+            "url": "https://downloads.droidontime.com/dot11/juice/vanilla/dotOS-R-v5.0.1-vince-OFFICIAL-20210516-0458.zip",
+            "version": "v5.0.1"
+         }
+      ]
+   },
+   "maintainers": [
+      {
+         "_id": "aseelps",
+         "name": "Aseel P Sathar",
+         "url": "https://github.com/aseelps"
+      }
+   ]
+}
