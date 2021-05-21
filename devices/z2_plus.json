@@ -1,0 +1,14 @@
+{
+   "name": "Z2 Plus",
+   "brand": "ZUK",
+   "codename": "z2_plus",
+   "xda_thread": "https://forum.xda-developers.com/t/rom-11-unofficial-dotos-v5-0-1-for-zuk-z2_plus-r.4232277/",
+   "builds": {},
+   "maintainers": [
+      {
+         "_id": "ReallySnow",
+         "name": "ReallySnow",
+         "url": "https://github.com/ReallySnow"
+      }
+   ]
+}

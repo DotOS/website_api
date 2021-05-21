@@ -11,6 +11,7 @@
       "jd2019": "Z5s"
    },
    "Motorola": {
+      "albus": "Moto Z2 Play",
       "potter": "Moto G5 Plus"
    },
    "Oneplus": {
@@ -59,5 +60,8 @@
       "violet": "Redmi Note 7 Pro",
       "whyred": "Redmi Note 5 Pro",
       "ysl": "Redmi S2"
+   },
+   "ZUK": {
+      "z2_plus": "Z2 Plus"
    }
 }
