@@ -1,0 +1,37 @@
+{
+   "name": "Samsung Galaxy S9+",
+   "brand": "Samsung",
+   "codename": "star2qltechn",
+   "xda_thread": "https://forum.xda-developers.com/t/rom-android-11-dotos-samsunggalaxy-s9-official-starqltechn.4261665/",
+   "builds": {
+      "gapps": [
+         {
+            "datetime": "1618451244",
+            "filename": "dotOS-R-v5.0.1-star2qltechn-GAPPS-20210415-0149.zip",
+            "id": "af2221eec47315b41ea2d0baf41f72f9",
+            "romtype": "GAPPS",
+            "size": "989456218",
+            "url": "https://downloads.droidontime.com/dot11/star2qltechn/gapps/dotOS-R-v5.0.1-star2qltechn-GAPPS-20210415-0149.zip",
+            "version": "v5.0.1"
+         }
+      ],
+      "vanilla": [
+         {
+            "datetime": "1618453726",
+            "filename": "dotOS-R-v5.0.1-star2qltechn-OFFICIAL-20210415-0230.zip",
+            "id": "9ea5c112e2881bb81d00895460b8479f",
+            "romtype": "OFFICIAL",
+            "size": "580518953",
+            "url": "https://downloads.droidontime.com/dot11/star2qltechn/vanilla/dotOS-R-v5.0.1-star2qltechn-OFFICIAL-20210415-0230.zip",
+            "version": "v5.0.1"
+         }
+      ]
+   },
+   "maintainers": [
+      {
+         "_id": "Nyoutaaa",
+         "name": "Nyoutaaa",
+         "url": "https://github.com/Nyoutaaa"
+      }
+   ]
+}

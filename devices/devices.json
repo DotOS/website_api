@@ -28,6 +28,11 @@
       "RMX1921": "Realme XT",
       "RMX2001": "Realme 6/6i/6s"
    },
+   "Samsung": {
+      "crownqltechn": "Samsung Galaxy N9",
+      "star2qltechn": "Samsung Galaxy S9+",
+      "starqltechn": "Samsung Galaxy S9"
+   },
    "Xiaomi": {
       "apollo": "Mi 10T/10T Pro",
       "begonia": "Redmi Note 8 Pro",
