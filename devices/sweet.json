@@ -1,0 +1,14 @@
+{
+   "name": "Redmi Note 10 Pro/Pro Max",
+   "brand": "Xiaomi",
+   "codename": "sweet",
+   "xda_thread": "https://forum.xda-developers.com/t/rom-dotos-android-11-sweet.4271097/",
+   "builds": {},
+   "maintainers": [
+      {
+         "_id": "grewal",
+         "name": "Adarsh Grewal",
+         "url": "https://github.com/AdarshGrewal/"
+      }
+   ]
+}
