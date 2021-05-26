@@ -1,0 +1,14 @@
+{
+   "name": "Oneplus 7T",
+   "brand": "Oneplus",
+   "codename": "hotdogb",
+   "xda_thread": "https://forum.xda-developers.com/t/rom-11-dotos-v5-0-1-gapps.4278983/",
+   "builds": {},
+   "maintainers": [
+      {
+         "_id": "matt0301",
+         "name": "Matheus Vieira",
+         "url": "https://github.com/matt0301/"
+      }
+   ]
+}
