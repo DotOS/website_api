@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1618733393",
-            "filename": "dotOS-R-v5.0.1-mido-GAPPS-20210418-0811.zip",
-            "id": "cb08d2717b78252f65e8acef2eb5ea1e",
+            "datetime": "1622147611",
+            "filename": "dotOS-R-v5.1-mido-GAPPS-20210527-2028.zip",
+            "id": "f98eb975a0f7857157ad40161e52403f",
             "romtype": "GAPPS",
-            "size": "1062548134",
-            "url": "https://downloads.droidontime.com/dot11/mido/gapps/dotOS-R-v5.0.1-mido-GAPPS-20210418-0811.zip",
-            "version": "v5.0.1"
+            "size": "1133733085",
+            "url": "https://downloads.droidontime.com/dot11/mido/gapps/dotOS-R-v5.1-mido-GAPPS-20210527-2028.zip",
+            "version": "v5.1"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1618730672",
-            "filename": "dotOS-R-v5.0.1-mido-OFFICIAL-20210418-0725.zip",
-            "id": "b12bb534dfb918e03065c181a8cd17fa",
+            "datetime": "1622146545",
+            "filename": "dotOS-R-v5.1-mido-OFFICIAL-20210527-1938.zip",
+            "id": "f5bf6c3e7afe24cc9e1938b7efdfb0bb",
             "romtype": "OFFICIAL",
-            "size": "653318676",
-            "url": "https://downloads.droidontime.com/dot11/mido/vanilla/dotOS-R-v5.0.1-mido-OFFICIAL-20210418-0725.zip",
-            "version": "v5.0.1"
+            "size": "684900395",
+            "url": "https://downloads.droidontime.com/dot11/mido/vanilla/dotOS-R-v5.1-mido-OFFICIAL-20210527-1938.zip",
+            "version": "v5.1"
          }
       ]
    },
