@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "",
-            "filename": "",
-            "id": "",
-            "romtype": "",
-            "size": "",
-            "url": "",
-            "version": ""
+            "datetime": "1622234654",
+            "filename": "dotOS-R-v5.1-tissot-GAPPS-20210528-2040.zip",
+            "id": "dc4a21c3d4b34e6715a6e0138d61d512",
+            "romtype": "GAPPS",
+            "size": "1038228137",
+            "url": "https://downloads.droidontime.com/dot11/tissot/gapps/dotOS-R-v5.1-tissot-GAPPS-20210528-2040.zip",
+            "version": "v5.1"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1618681787",
-            "filename": "dotOS-R-v5.0.1-tissot-OFFICIAL-20210417-1749.zip",
-            "id": "1255335e23546adb26c7fc7621580920",
+            "datetime": "1622233647",
+            "filename": "dotOS-R-v5.1-tissot-OFFICIAL-20210528-1951.zip",
+            "id": "79bc41cb44290ffcaa88386641d3c5dd",
             "romtype": "OFFICIAL",
-            "size": "617950797",
-            "url": "https://downloads.droidontime.com/dot11/tissot/vanilla/dotOS-R-v5.0.1-tissot-OFFICIAL-20210417-1749.zip",
-            "version": "v5.0.1"
+            "size": "648164376",
+            "url": "https://downloads.droidontime.com/dot11/tissot/vanilla/dotOS-R-v5.1-tissot-OFFICIAL-20210528-1951.zip",
+            "version": "v5.1"
          }
       ]
    },
