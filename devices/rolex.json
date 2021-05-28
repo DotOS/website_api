@@ -4,6 +4,17 @@
    "codename": "rolex",
    "xda_thread": "https://forum.xda-developers.com/t/rom-unified-dotos-official-redmi4a-5a-v5-0-0.4231155/",
    "builds": {
+      "gapps": [
+         {
+            "datetime": "",
+            "filename": "",
+            "id": "",
+            "romtype": "",
+            "size": "",
+            "url": "",
+            "version": ""
+         }
+      ],
       "vanilla": [
          {
             "datetime": "1618341499",
