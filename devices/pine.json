@@ -3,7 +3,30 @@
    "brand": "Xiaomi",
    "codename": "pine",
    "xda_thread": "",
-   "builds": {},
+   "builds": {
+      "gapps": [
+         {
+            "datetime": "",
+            "filename": "",
+            "id": "",
+            "romtype": "",
+            "size": "",
+            "url": "",
+            "version": ""
+         }
+      ],
+      "vanilla": [
+         {
+            "datetime": "",
+            "filename": "",
+            "id": "",
+            "romtype": "",
+            "size": "",
+            "url": "",
+            "version": ""
+         }
+      ]
+   },
    "maintainers": [
       {
          "_id": "AOiSPdev",

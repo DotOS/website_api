@@ -3,7 +3,30 @@
    "brand": "Xiaomi",
    "codename": "apollo",
    "xda_thread": "",
-   "builds": {},
+   "builds": {
+      "gapps": [
+         {
+            "datetime": "1622157529",
+            "filename": "dotOS-R-v5.1-apollo-GAPPS-20210527-2310.zip",
+            "id": "b1d1e68cfe78170631568756d0d3395e",
+            "romtype": "GAPPS",
+            "size": "1616278172",
+            "url": "https://downloads.droidontime.com/dot11/apollo/gapps/dotOS-R-v5.1-apollo-GAPPS-20210527-2310.zip",
+            "version": "v5.1"
+         }
+      ],
+      "vanilla": [
+         {
+            "datetime": "1622155625",
+            "filename": "dotOS-R-v5.1-apollo-OFFICIAL-20210527-2206.zip",
+            "id": "2b1a0eea8b8521248eded2d7a9bbe329",
+            "romtype": "OFFICIAL",
+            "size": "1182464414",
+            "url": "https://downloads.droidontime.com/dot11/apollo/vanilla/dotOS-R-v5.1-apollo-OFFICIAL-20210527-2206.zip",
+            "version": "v5.1"
+         }
+      ]
+   },
    "maintainers": [
       {
          "_id": "ejbtrd",
