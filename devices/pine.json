@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "",
-            "filename": "",
-            "id": "",
-            "romtype": "",
-            "size": "",
-            "url": "",
-            "version": ""
+            "datetime": "1622209399",
+            "filename": "dotOS-R-v5.1-pine-GAPPS-20210528-1336.zip",
+            "id": "230685504810aeffa5eeb9a7c9e1a615",
+            "romtype": "GAPPS",
+            "size": "1294674338",
+            "url": "https://downloads.droidontime.com/dot11/pine/gapps/dotOS-R-v5.1-pine-GAPPS-20210528-1336.zip",
+            "version": "v5.1"
          }
       ],
       "vanilla": [
          {
-            "datetime": "",
-            "filename": "",
-            "id": "",
-            "romtype": "",
-            "size": "",
-            "url": "",
-            "version": ""
+            "datetime": "1622207840",
+            "filename": "dotOS-R-v5.1-pine-OFFICIAL-20210528-1238.zip",
+            "id": "0523b2a45cd392b8c3a6dfaed7cb05d5",
+            "romtype": "OFFICIAL",
+            "size": "855086281",
+            "url": "https://downloads.droidontime.com/dot11/pine/vanilla/dotOS-R-v5.1-pine-OFFICIAL-20210528-1238.zip",
+            "version": "v5.1"
          }
       ]
    },
