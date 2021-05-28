@@ -4,6 +4,17 @@
    "codename": "tissot",
    "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-dotos-5-0-1-official-2021-04-16.4261445/",
    "builds": {
+      "gapps": [
+         {
+            "datetime": "",
+            "filename": "",
+            "id": "",
+            "romtype": "",
+            "size": "",
+            "url": "",
+            "version": ""
+         }
+      ],
       "vanilla": [
          {
             "datetime": "1618681787",

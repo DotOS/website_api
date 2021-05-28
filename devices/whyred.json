@@ -4,6 +4,17 @@
    "codename": "whyred",
    "xda_thread": "https://forum.xda-developers.com/t/official-eleven-dotos-for-whyred-16-04-2021.3900498/",
    "builds": {
+      "gapps": [
+         {
+            "datetime": "",
+            "filename": "",
+            "id": "",
+            "romtype": "",
+            "size": "",
+            "url": "",
+            "version": ""
+         }
+      ],
       "vanilla": [
          {
             "datetime": 1618566516,

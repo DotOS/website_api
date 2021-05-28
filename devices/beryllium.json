@@ -14,6 +14,17 @@
             "url": "https://downloads.droidontime.com/dot11/beryllium/gapps/dotOS-R-v5.0.1-beryllium-GAPPS-20210412-0341.zip",
             "version": "v5.0.1"
          }
+      ],
+      "vanilla": [
+         {
+            "datetime": "",
+            "filename": "",
+            "id": "",
+            "romtype": "",
+            "size": "",
+            "url": "",
+            "version": ""
+         }
       ]
    },
    "maintainers": [

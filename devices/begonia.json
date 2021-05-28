@@ -4,15 +4,26 @@
    "codename": "begonia",
    "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-0-dotos-v5-0-official-begonia-begoniain-non-cfw-2021-02-08.4229621/",
    "builds": {
+      "gapps": [
+         {
+            "datetime": "1622162950",
+            "filename": "dotOS-R-v5.1-begonia-GAPPS-20210528-0042.zip",
+            "id": "8f169adff8d3d1e261c556def9547a9a",
+            "romtype": "GAPPS",
+            "size": "1437735160",
+            "url": "https://downloads.droidontime.com/dot11/begonia/gapps/dotOS-R-v5.1-begonia-GAPPS-20210528-0042.zip",
+            "version": "v5.1"
+         }
+      ],
       "vanilla": [
          {
-            "datetime": 1618474700,
-            "filename": "dotOS-R-v5.0.1-begonia-OFFICIAL-20210415-0819.zip",
-            "id": "1f1da50e1f41e3f9e295931d4901ea04",
+            "datetime": "1622161471",
+            "filename": "dotOS-R-v5.1-begonia-OFFICIAL-20210527-2345.zip",
+            "id": "b1ef4b73a7bf81f495a9306a1635d04c",
             "romtype": "OFFICIAL",
-            "size": 951796149,
-            "url": "https://downloads.droidontime.com/dot11/begonia/vanilla/dotOS-R-v5.0.1-begonia-OFFICIAL-20210415-0819.zip",
-            "version": "v5.0.1"
+            "size": "983187870",
+            "url": "https://downloads.droidontime.com/dot11/begonia/vanilla/dotOS-R-v5.1-begonia-OFFICIAL-20210527-2345.zip",
+            "version": "v5.1"
          }
       ]
    },

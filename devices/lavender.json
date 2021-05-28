@@ -4,6 +4,17 @@
    "codename": "lavender",
    "xda_thread": "https://forum.xda-developers.com/t/rom-aosp-dotos-5-0-1-xiaomi-redmi-note-7-7s-lavender-official.4262291/",
    "builds": {
+      "gapps": [
+         {
+            "datetime": "",
+            "filename": "",
+            "id": "",
+            "romtype": "",
+            "size": "",
+            "url": "",
+            "version": ""
+         }
+      ],
       "vanilla": [
          {
             "datetime": "1618367170",
