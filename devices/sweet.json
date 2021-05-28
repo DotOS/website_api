@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "",
-            "filename": "",
-            "id": "",
-            "romtype": "",
-            "size": "",
-            "url": "",
-            "version": ""
+            "datetime": "1622229986",
+            "filename": "dotOS-R-v5.1-sweet-GAPPS-20210528-1920.zip",
+            "id": "5ff55b85c52a258c31bf2a92b95c8c63",
+            "romtype": "GAPPS",
+            "size": "1137527229",
+            "url": "https://downloads.droidontime.com/dot11/sweet/gapps/dotOS-R-v5.1-sweet-GAPPS-20210528-1920.zip",
+            "version": "v5.1"
          }
       ],
       "vanilla": [
          {
-            "datetime": "",
-            "filename": "",
-            "id": "",
-            "romtype": "",
-            "size": "",
-            "url": "",
-            "version": ""
+            "datetime": "1622228579",
+            "filename": "dotOS-R-v5.1-sweet-OFFICIAL-20210528-1826.zip",
+            "id": "c6d78011af566b2087a8d983df119115",
+            "romtype": "OFFICIAL",
+            "size": "663931828",
+            "url": "https://downloads.droidontime.com/dot11/sweet/vanilla/dotOS-R-v5.1-sweet-OFFICIAL-20210528-1826.zip",
+            "version": "v5.1"
          }
       ]
    },
