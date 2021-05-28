@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1618544351",
-            "filename": "dotOS-R-v5.0.1-cheeseburger-GAPPS-20210416-0340.zip",
-            "id": "6918ef785625e949f181a611e301e82f",
+            "datetime": "1622169072",
+            "filename": "dotOS-R-v5.1-cheeseburger-GAPPS-20210528-0221.zip",
+            "id": "500262edc906eda89b5a5e099f04ec5f",
             "romtype": "GAPPS",
-            "size": "1173620174",
-            "url": "https://downloads.droidontime.com/dot11/cheeseburger/gapps/dotOS-R-v5.0.1-cheeseburger-GAPPS-20210416-0340.zip",
-            "version": "v5.0.1"
+            "size": "1224226784",
+            "url": "https://downloads.droidontime.com/dot11/cheeseburger/gapps/dotOS-R-v5.1-cheeseburger-GAPPS-20210528-0221.zip",
+            "version": "v5.1"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1618543767",
-            "filename": "dotOS-R-v5.0.1-cheeseburger-OFFICIAL-20210416-0331.zip",
-            "id": "9ebaac243a56d88e78ed78db534cc01b",
+            "datetime": "1622167471",
+            "filename": "dotOS-R-v5.1-cheeseburger-OFFICIAL-20210528-0126.zip",
+            "id": "2d7e1c8ff36911e3dc610c4a85555a95",
             "romtype": "OFFICIAL",
-            "size": "757889144",
-            "url": "https://downloads.droidontime.com/dot11/cheeseburger/vanilla/dotOS-R-v5.0.1-cheeseburger-OFFICIAL-20210416-0331.zip",
-            "version": "v5.0.1"
+            "size": "767084462",
+            "url": "https://downloads.droidontime.com/dot11/cheeseburger/vanilla/dotOS-R-v5.1-cheeseburger-OFFICIAL-20210528-0126.zip",
+            "version": "v5.1"
          }
       ]
    },
