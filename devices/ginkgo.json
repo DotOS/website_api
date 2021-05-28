@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "",
-            "filename": "",
-            "id": "",
-            "romtype": "",
-            "size": "",
-            "url": "",
-            "version": ""
+            "datetime": "1622189030",
+            "filename": "dotOS-R-v5.1-ginkgo-GAPPS-20210528-0756.zip",
+            "id": "72a9e78a18e814adcfb62c9ca6c846f6",
+            "romtype": "GAPPS",
+            "size": "1361466267",
+            "url": "https://downloads.droidontime.com/dot11/ginkgo/gapps/dotOS-R-v5.1-ginkgo-GAPPS-20210528-0756.zip",
+            "version": "v5.1"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1618271901",
-            "filename": "dotOS-R-v5.0.1-ginkgo-OFFICIAL-20210412-2358.zip",
-            "id": "9eefd2625890a87dab6c795f6c19a6f7",
+            "datetime": "1622187496",
+            "filename": "dotOS-R-v5.1-ginkgo-OFFICIAL-20210528-0658.zip",
+            "id": "c97963c5dce99bfac56117eb023eed0f",
             "romtype": "OFFICIAL",
-            "size": "931346276",
-            "url": "https://downloads.droidontime.com/dot11/ginkgo/vanilla/dotOS-R-v5.0.1-ginkgo-OFFICIAL-20210412-2358.zip",
-            "version": "v5.0.1"
+            "size": "907017001",
+            "url": "https://downloads.droidontime.com/dot11/ginkgo/vanilla/dotOS-R-v5.1-ginkgo-OFFICIAL-20210528-0658.zip",
+            "version": "v5.1"
          }
       ]
    },
