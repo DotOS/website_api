@@ -4,6 +4,17 @@
    "codename": "X00TD",
    "xda_thread": "https://forum.xda-developers.com/t/official-eleven-dotos-for-whyred-22-02-2021.3900498/",
    "builds": {
+      "gapps": [
+         {
+            "datetime": "1622291106",
+            "filename": "dotOS-R-v5.1-X00TD-GAPPS-20210529-1219.zip",
+            "id": "a527620c46652a3220cecfec496a3d55",
+            "romtype": "GAPPS",
+            "size": "1172124796",
+            "url": "https://downloads.droidontime.com/dot11/X00TD/gapps/dotOS-R-v5.1-X00TD-GAPPS-20210529-1219.zip",
+            "version": "v5.1"
+         }
+      ],
       "vanilla": [
          {
             "datetime": "1622289958",
