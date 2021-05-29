@@ -1,0 +1,37 @@
+{
+   "name": "Arm64 A/B",
+   "brand": "Android",
+   "codename": "GSI",
+   "xda_thread": "#",
+   "builds": {
+      "gapps": [
+         {
+            "datetime": "1622308737",
+            "filename": "dotOS-R-v5.1-arm64_gapps-GAPPS-OFFICIAL.img.xz",
+            "id": "3800de8f6afd9768035af12138cbbf8c",
+            "romtype": "GAPPS",
+            "size": "1133733085",
+            "url": "https://downloads.droidontime.com/dot11/gsi_images/gapps/dotOS-R-v5.1-arm64_gapps-GAPPS-OFFICIAL.img.xz",
+            "version": "v5.1"
+         }
+      ],
+      "vanilla": [
+         {
+            "datetime": "1622308737",
+            "filename": "dotOS-R-v5.1-arm64-vanilla-OFFICIAL.img.xz",
+            "id": "43e398f833717044e22d6788ac7b451c",
+            "romtype": "OFFICIAL",
+            "size": "705600000",
+            "url": "https://downloads.droidontime.com/dot11/gsi_images/vanilla/dotOS-R-v5.1-arm64-vanilla-OFFICIAL.img.xz",
+            "version": "v5.1"
+         }
+      ]
+   },
+   "maintainers": [
+      {
+         "_id": "community",
+         "name": "Community Maintained",
+         "url": "https://github.com/mohancm/"
+      }
+   ]
+}

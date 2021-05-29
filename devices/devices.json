@@ -1,4 +1,7 @@
 {
+   "Android": {
+      "GSI": "Arm64 A/B"
+   },
    "Asus": {
       "X00TD": "Zenfone Max Pro M1",
       "X01BD": "Zenfone Max Pro M2"
