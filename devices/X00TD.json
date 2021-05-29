@@ -6,13 +6,13 @@
    "builds": {
       "vanilla": [
          {
-            "datetime": 1612459475,
-            "filename": "dotOS-R-v5.0.0-X00TD-OFFICIAL-20210211-1130.zip",
-            "id": "ee1bd25de8819c0cab4c0ded64b798e5",
+            "datetime": "1622289958",
+            "filename": "dotOS-R-v5.1-X00TD-OFFICIAL-20210529-1129.zip",
+            "id": "84045c2a0784ffc98e71838a2e8ea7ba",
             "romtype": "OFFICIAL",
-            "size": 1666374431,
-            "url": "https://downloads.droidontime.com/dot11/X00TD/vanilla/dotOS-R-v5.0.0-X00TD-OFFICIAL-20210211-1130.zip",
-            "version": "v5.0.0"
+            "size": "742357565",
+            "url": "https://downloads.droidontime.com/dot11/X00TD/vanilla/dotOS-R-v5.1-X00TD-OFFICIAL-20210529-1129.zip",
+            "version": "v5.1"
          }
       ]
    },
