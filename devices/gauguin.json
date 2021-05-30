@@ -3,7 +3,30 @@
    "brand": "Xiaomi",
    "codename": "gauguin",
    "xda_thread": "",
-   "builds": {},
+   "builds": {
+      "gapps": [
+         {
+            "datetime": "1622406636",
+            "filename": "dotOS-R-v5.1-gauguin-GAPPS-20210530-2024.zip",
+            "id": "c0c73f487efbb9c2a1542cd08171e58e",
+            "romtype": "GAPPS",
+            "size": "1190878174",
+            "url": "https://downloads.droidontime.com/dot11/gauguin/gapps/dotOS-R-v5.1-gauguin-GAPPS-20210530-2024.zip",
+            "version": "v5.1"
+         }
+      ],
+      "vanilla": [
+         {
+            "datetime": "1622405223",
+            "filename": "dotOS-R-v5.1-gauguin-OFFICIAL-20210530-1931.zip",
+            "id": "bbc0a1c1a128f9f3803463334079d24e",
+            "romtype": "OFFICIAL",
+            "size": "704241213",
+            "url": "https://downloads.droidontime.com/dot11/gauguin/vanilla/dotOS-R-v5.1-gauguin-OFFICIAL-20210530-1931.zip",
+            "version": "v5.1"
+         }
+      ]
+   },
    "maintainers": [
       {
          "_id": "DtHnAme",
