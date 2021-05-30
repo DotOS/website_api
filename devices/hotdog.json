@@ -1,0 +1,37 @@
+{
+   "name": "Oneplus 7T Pro",
+   "brand": "Oneplus",
+   "codename": "hotdog",
+   "xda_thread": "#",
+   "builds": {
+      "gapps": [
+         {
+            "datetime": "1622192594",
+            "filename": "dotOS-R-v5.1-hotdogb-OFFICIAL-20210528-0826.zip",
+            "id": "6aeb69397b34ebe89b880b7d7d28aec1",
+            "romtype": "GAPPS",
+            "size": "864685070",
+            "url": "https://downloads.droidontime.com/dot11/hotdogb/vanilla/dotOS-R-v5.1-hotdogb-OFFICIAL-20210528-0826.zip",
+            "version": "v5.1"
+         }
+      ],
+      "vanilla": [
+         {
+            "datetime": "1622192594",
+            "filename": "dotOS-R-v5.1-hotdogb-OFFICIAL-20210528-0826.zip",
+            "id": "6aeb69397b34ebe89b880b7d7d28aec1",
+            "romtype": "OFFICIAL",
+            "size": "864685070",
+            "url": "https://downloads.droidontime.com/dot11/hotdogb/vanilla/dotOS-R-v5.1-hotdogb-OFFICIAL-20210528-0826.zip",
+            "version": "v5.1"
+         }
+      ]
+   },
+   "maintainers": [
+      {
+         "_id": "mohan",
+         "name": "Mohan C M",
+         "url": "https://github.com/mohancm"
+      }
+   ]
+}
