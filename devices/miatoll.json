@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1618676010",
-            "filename": "dotOS-R-v5.0.1-miatoll-GAPPS-20210417-1614.zip",
-            "id": "1a6dbb49f61e58afe22f82a97ae4d99e",
+            "datetime": "1622458154",
+            "filename": "dotOS-R-v5.1-miatoll-GAPPS-20210531-1041.zip",
+            "id": "8df4454047a08520404bf98226531a02",
             "romtype": "GAPPS",
-            "size": "1526948077",
-            "url": "https://downloads.droidontime.com/dot11/miatoll/gapps/dotOS-R-v5.0.1-miatoll-GAPPS-20210417-1614.zip",
-            "version": "v5.0.1"
+            "size": "1573337538",
+            "url": "https://downloads.droidontime.com/dot11/miatoll/gapps/dotOS-R-v5.1-miatoll-GAPPS-20210531-1041.zip",
+            "version": "v5.1"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1618673256",
-            "filename": "dotOS-R-v5.0.1-miatoll-OFFICIAL-20210417-1528.zip",
-            "id": "4d701da4a21f6d95592e17bc2c0265a8",
+            "datetime": "1622456329",
+            "filename": "dotOS-R-v5.1-miatoll-OFFICIAL-20210531-0939.zip",
+            "id": "aab07309c7e5860bd69be4286f7977a8",
             "romtype": "OFFICIAL",
-            "size": "1127525766",
-            "url": "https://downloads.droidontime.com/dot11/miatoll/vanilla/dotOS-R-v5.0.1-miatoll-OFFICIAL-20210417-1528.zip",
-            "version": "v5.0.1"
+            "size": "1180313852",
+            "url": "https://downloads.droidontime.com/dot11/miatoll/vanilla/dotOS-R-v5.1-miatoll-OFFICIAL-20210531-0939.zip",
+            "version": "v5.1"
          }
       ]
    },
