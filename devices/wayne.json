@@ -1,0 +1,14 @@
+{
+   "name": "Mi 6X",
+   "brand": "Xiaomi",
+   "codename": "wayne",
+   "xda_thread": "https://forum.xda-developers.com/t/rom-11-official-dotos-mi-6x-wayne.4232501/",
+   "builds": {},
+   "maintainers": [
+      {
+         "_id": "RonaldSt",
+         "name": "Ronald Santos",
+         "url": "https://github.com/ronald-b"
+      }
+   ]
+}
