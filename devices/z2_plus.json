@@ -3,7 +3,30 @@
    "brand": "ZUK",
    "codename": "z2_plus",
    "xda_thread": "https://forum.xda-developers.com/t/rom-11-unofficial-dotos-v5-0-1-for-zuk-z2_plus-r.4232277/",
-   "builds": {},
+   "builds": {
+      "gapps": [
+         {
+            "datetime": "",
+            "filename": "",
+            "id": "",
+            "romtype": "GAPPS",
+            "size": "0",
+            "url": "https://downloads.droidontime.com/dot11/z2_plus/gapps/",
+            "version": "v5.1"
+         }
+      ],
+      "vanilla": [
+         {
+            "datetime": "",
+            "filename": "",
+            "id": "",
+            "romtype": "OFFICIAL",
+            "size": "0",
+            "url": "https://downloads.droidontime.com/dot11/z2_plus/vanilla/",
+            "version": "v5.1"
+         }
+      ]
+   },
    "maintainers": [
       {
          "_id": "ReallySnow",
