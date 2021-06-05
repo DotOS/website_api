@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1618451244",
-            "filename": "dotOS-R-v5.0.1-star2qltechn-GAPPS-20210415-0149.zip",
-            "id": "af2221eec47315b41ea2d0baf41f72f9",
+            "datetime": "1622905038",
+            "filename": "dotOS-R-v5.1-starqltechn-GAPPS-20210605-1452.zip",
+            "id": "c03e58cda180a14ddfacf0b497938bcc",
             "romtype": "GAPPS",
-            "size": "989456218",
-            "url": "https://downloads.droidontime.com/dot11/starqltechn/gapps/dotOS-R-v5.0.1-star2qltechn-GAPPS-20210415-0149.zip",
-            "version": "v5.0.1"
+            "size": "1044634300",
+            "url": "https://downloads.droidontime.com/dot11/starqltechn/gapps/dotOS-R-v5.1-starqltechn-GAPPS-20210605-1452.zip",
+            "version": "v5.1"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1618453726",
-            "filename": "dotOS-R-v5.0.1-starqltechn-OFFICIAL-20210414-2221.zip",
-            "id": "9ea5c112e2881bb81d00895460b8479f",
+            "datetime": "1622903905",
+            "filename": "dotOS-R-v5.1-starqltechn-OFFICIAL-20210605-1404.zip",
+            "id": "655a9e44feae03da300cfa6d14a5ff79",
             "romtype": "OFFICIAL",
-            "size": "580518953",
-            "url": "https://downloads.droidontime.com/dot11/starqltechn/vanilla/dotOS-R-v5.0.1-starqltechn-OFFICIAL-20210414-2221.zip",
-            "version": "v5.0.1"
+            "size": "611070831",
+            "url": "https://downloads.droidontime.com/dot11/starqltechn/vanilla/dotOS-R-v5.1-starqltechn-OFFICIAL-20210605-1404.zip",
+            "version": "v5.1"
          }
       ]
    },

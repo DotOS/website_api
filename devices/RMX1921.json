@@ -3,7 +3,30 @@
    "brand": "Realme",
    "codename": "RMX1921",
    "xda_thread": "https://forum.xda-developers.com/t/dotos-v5-0-0-rmx1921.4243945/",
-   "builds": {},
+   "builds": {
+      "gapps": [
+         {
+            "datetime": "1622400262",
+            "filename": "dotOS-R-v5.1-hotdog-OFFICIAL-20210530-1807.zip",
+            "id": "ccdd27c5f03b6f9931a36071a905145d",
+            "romtype": "OFFICIAL",
+            "size": "900591884",
+            "url": "https://downloads.droidontime.com/dot11/hotdog/vanilla/dotOS-R-v5.1-hotdog-OFFICIAL-20210530-1807.zip",
+            "version": "v5.1"
+         }
+      ],
+      "vanilla": [
+         {
+            "datetime": "1622400262",
+            "filename": "dotOS-R-v5.1-hotdog-OFFICIAL-20210530-1807.zip",
+            "id": "ccdd27c5f03b6f9931a36071a905145d",
+            "romtype": "OFFICIAL",
+            "size": "900591884",
+            "url": "https://downloads.droidontime.com/dot11/hotdog/vanilla/dotOS-R-v5.1-hotdog-OFFICIAL-20210530-1807.zip",
+            "version": "v5.1"
+         }
+      ]
+   },
    "maintainers": [
       {
          "_id": "Deepak5310",
