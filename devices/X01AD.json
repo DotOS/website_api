@@ -1,0 +1,14 @@
+{
+   "name": "Zenfone Max M2",
+   "brand": "Asus",
+   "codename": "X01AD",
+   "xda_thread": "https://forum.xda-developers.com/t/rom-unofficial-11-0-x01ad-dotos-5-0-1.4223541/",
+   "builds": {},
+   "maintainers": [
+      {
+         "_id": "Nguyenhung9x",
+         "name": "Nguyenhung9xdev",
+         "url": "https://github.com/nguyenhung9x2020"
+      }
+   ]
+}

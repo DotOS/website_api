@@ -4,6 +4,7 @@
    },
    "Asus": {
       "X00TD": "Zenfone Max Pro M1",
+      "X01AD": "Zenfone Max M2",
       "X01BD": "Zenfone Max Pro M2"
    },
    "Google": {
@@ -17,9 +18,6 @@
       "albus": "Moto Z2 Play",
       "potter": "Moto G5 Plus"
    },
-   "OnePlus": {
-      "kebab": "OnePlus 8T"
-   },
    "Oneplus": {
       "cheeseburger": "Oneplus 5",
       "dumpling": "Oneplus 5T",
@@ -27,6 +25,7 @@
       "fajita": "OnePlus 6T",
       "hotdog": "Oneplus 7T Pro",
       "hotdogb": "Oneplus 7T",
+      "kebab": "OnePlus 8T",
       "oneplus3": "OnePlus 3/3T"
    },
    "POCO": {
