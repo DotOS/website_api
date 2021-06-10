@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": 1622259276,
-            "filename": "dotOS-R-v5.1-whyred-GAPPS-20210529-0329.zip",
-            "id": "e231929bc31152be391a633987a58d41",
+            "datetime": 1623358741,
+            "filename": "dotOS-R-v5.1.1-whyred-GAPPS-20210610-2053.zip",
+            "id": "984dabc5808d050948e1470e59bac837",
             "romtype": "GAPPS",
-            "size": 1190384283,
-            "url": "https://downloads.droidontime.com/dot11/whyred/gapps/dotOS-R-v5.1-whyred-GAPPS-20210529-0329.zip",
-            "version": "v5.1"
+            "size": 1197132142,
+            "url": "https://downloads.droidontime.com/dot11/whyred/gapps/dotOS-R-v5.1.1-whyred-GAPPS-20210610-2053.zip",
+            "version": "v5.1.1"
          }
       ],
       "vanilla": [
          {
-            "datetime": 1622258174,
-            "filename": "dotOS-R-v5.1-whyred-OFFICIAL-20210529-0240.zip",
-            "id": "2d510a4d18b4f597429c75c39939dd35",
+            "datetime": 1623357595,
+            "filename": "dotOS-R-v5.1.1-whyred-OFFICIAL-20210610-2004.zip",
+            "id": "21a2acfa139625b8b80f3cdab09f0be8",
             "romtype": "OFFICIAL",
-            "size": 756502427,
-            "url": "https://downloads.droidontime.com/dot11/whyred/vanilla/dotOS-R-v5.1-whyred-OFFICIAL-20210529-0240.zip",
-            "version": "v5.1"
+            "size": 763020783,
+            "url": "https://downloads.droidontime.com/dot11/whyred/vanilla/dotOS-R-v5.1.1-whyred-OFFICIAL-20210610-2004.zip",
+            "version": "v5.1.1"
          }
       ]
    },
