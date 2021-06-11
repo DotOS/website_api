@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1622277632",
-            "filename": "dotOS-R-v5.1-enchilada-GAPPS-20210529-0836.zip",
-            "id": "e263bdf635705dbaabeb54150407543a",
+            "datetime": "1623398457",
+            "filename": "dotOS-R-v5.1.1-enchilada-GAPPS-20210611-0756.zip",
+            "id": "6f561d2386ff1e18f7486af49b11261a",
             "romtype": "GAPPS",
-            "size": "1098357151",
-            "url": "https://downloads.droidontime.com/dot11/enchilada/gapps/dotOS-R-v5.1-enchilada-GAPPS-20210529-0836.zip",
-            "version": "v5.1"
+            "size": "1103834368",
+            "url": "https://downloads.droidontime.com/dot11/enchilada/gapps/dotOS-R-v5.1.1-enchilada-GAPPS-20210611-0756.zip",
+            "version": "v5.1.1"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1622276254",
-            "filename": "dotOS-R-v5.1-enchilada-OFFICIAL-20210529-0740.zip",
-            "id": "32132b9ab389def3432eceea35bd8950",
+            "datetime": "1623397372",
+            "filename": "dotOS-R-v5.1.1-enchilada-OFFICIAL-20210611-0705.zip",
+            "id": "3131afdfba7a9d4c2ec6f86b37996f38",
             "romtype": "OFFICIAL",
-            "size": "712362543",
-            "url": "https://downloads.droidontime.com/dot11/enchilada/vanilla/dotOS-R-v5.1-enchilada-OFFICIAL-20210529-0740.zip",
-            "version": "v5.1"
+            "size": "718060340",
+            "url": "https://downloads.droidontime.com/dot11/enchilada/vanilla/dotOS-R-v5.1.1-enchilada-OFFICIAL-20210611-0705.zip",
+            "version": "v5.1.1"
          }
       ]
    },
