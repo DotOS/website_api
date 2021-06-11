@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1622157529",
-            "filename": "dotOS-R-v5.1-apollo-GAPPS-20210527-2310.zip",
-            "id": "b1d1e68cfe78170631568756d0d3395e",
+            "datetime": "1623369187",
+            "filename": "dotOS-R-v5.1.1-apollo-GAPPS-20210610-2344.zip",
+            "id": "80ed93e954df9dbb0e15d18ea69596ba",
             "romtype": "GAPPS",
-            "size": "1616278172",
-            "url": "https://downloads.droidontime.com/dot11/apollo/gapps/dotOS-R-v5.1-apollo-GAPPS-20210527-2310.zip",
-            "version": "v5.1"
+            "size": "1609627786",
+            "url": "https://downloads.droidontime.com/dot11/apollo/gapps/dotOS-R-v5.1.1-apollo-GAPPS-20210610-2344.zip",
+            "version": "v5.1.1"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1622155625",
-            "filename": "dotOS-R-v5.1-apollo-OFFICIAL-20210527-2206.zip",
-            "id": "2b1a0eea8b8521248eded2d7a9bbe329",
+            "datetime": "1623367187",
+            "filename": "dotOS-R-v5.1.1-apollo-OFFICIAL-20210610-2238.zip",
+            "id": "ee708691f314cf097acb616d0a78dd68",
             "romtype": "OFFICIAL",
-            "size": "1182464414",
-            "url": "https://downloads.droidontime.com/dot11/apollo/vanilla/dotOS-R-v5.1-apollo-OFFICIAL-20210527-2206.zip",
-            "version": "v5.1"
+            "size": "1191068421",
+            "url": "https://downloads.droidontime.com/dot11/apollo/vanilla/dotOS-R-v5.1.1-apollo-OFFICIAL-20210610-2238.zip",
+            "version": "v5.1.1"
          }
       ]
    },
