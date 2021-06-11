@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1622913343",
-            "filename": "dotOS-R-v5.1-crownqltechn-GAPPS-20210605-1708.zip",
-            "id": "271d61d48acf8f9cb097c4861fc32b22",
+            "datetime": "1623383252",
+            "filename": "dotOS-R-v5.1.1-crownqltechn-GAPPS-20210611-0342.zip",
+            "id": "f8e5f4f4a1662fc8faadbdc4b041f0c0",
             "romtype": "GAPPS",
-            "size": "1046808710",
-            "url": "https://downloads.droidontime.com/dot11/crownqltechn/gapps/dotOS-R-v5.1-crownqltechn-GAPPS-20210605-1708.zip",
-            "version": "v5.1"
+            "size": "1048168983",
+            "url": "https://downloads.droidontime.com/dot11/crownqltechn/gapps/dotOS-R-v5.1.1-crownqltechn-GAPPS-20210611-0342.zip",
+            "version": "v5.1.1"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1622912165",
-            "filename": "dotOS-R-v5.1-crownqltechn-OFFICIAL-20210605-1622.zip",
-            "id": "d7a68fdf378a4ee26dc871ecfafe9aac",
+            "datetime": "1623382243",
+            "filename": "dotOS-R-v5.1.1-crownqltechn-OFFICIAL-20210611-0255.zip",
+            "id": "42680c5a1748fc59700dd3a44d5bef65",
             "romtype": "OFFICIAL",
-            "size": "613371488",
-            "url": "https://downloads.droidontime.com/dot11/crownqltechn/vanilla/dotOS-R-v5.1-crownqltechn-OFFICIAL-20210605-1622.zip",
-            "version": "v5.1"
+            "size": "614547513",
+            "url": "https://downloads.droidontime.com/dot11/crownqltechn/vanilla/dotOS-R-v5.1.1-crownqltechn-OFFICIAL-20210611-0255.zip",
+            "version": "v5.1.1"
          }
       ]
    },
