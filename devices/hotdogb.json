@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1622193720",
-            "filename": "dotOS-R-v5.1-hotdogb-GAPPS-20210528-0917.zip",
-            "id": "109e9f9f0a4f32302c3ff6bfad15803c",
+            "datetime": "1623621662",
+            "filename": "dotOS-R-v5.1.1-hotdogb-GAPPS-20210613-2156.zip",
+            "id": "f3ae0fc4c813394bbff884dd4b11b6db",
             "romtype": "GAPPS",
-            "size": "1270613999",
-            "url": "https://downloads.droidontime.com/dot11/hotdogb/gapps/dotOS-R-v5.1-hotdogb-GAPPS-20210528-0917.zip",
-            "version": "v5.1"
+            "size": "1274097340",
+            "url": "https://downloads.droidontime.com/dot11/hotdogb/gapps/dotOS-R-v5.1.1-hotdogb-GAPPS-20210613-2156.zip",
+            "version": "v5.1.1"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1622192594",
-            "filename": "dotOS-R-v5.1-hotdogb-OFFICIAL-20210528-0826.zip",
-            "id": "6aeb69397b34ebe89b880b7d7d28aec1",
+            "datetime": "1623620468",
+            "filename": "dotOS-R-v5.1.1-hotdogb-OFFICIAL-20210613-2102.zip",
+            "id": "374beb0ed590c70fa6973d440c146b02",
             "romtype": "OFFICIAL",
-            "size": "864685070",
-            "url": "https://downloads.droidontime.com/dot11/hotdogb/vanilla/dotOS-R-v5.1-hotdogb-OFFICIAL-20210528-0826.zip",
-            "version": "v5.1"
+            "size": "874544345",
+            "url": "https://downloads.droidontime.com/dot11/hotdogb/vanilla/dotOS-R-v5.1.1-hotdogb-OFFICIAL-20210613-2102.zip",
+            "version": "v5.1.1"
          }
       ]
    },
