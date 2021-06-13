@@ -6,23 +6,23 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1623378814",
-            "filename": "dotOS-R-v5.1.1-beryllium-GAPPS-20210611-0226.zip",
-            "id": "ae160f80e5f7a6f12980a495f1f6bc0e",
+            "datetime": "1623568439",
+            "filename": "dotOS-R-v5.1.1-beryllium-GAPPS-20210613-0707.zip",
+            "id": "3b12dc7b7908c49933d62584396d4be5",
             "romtype": "GAPPS",
-            "size": "1334076378",
-            "url": "https://downloads.droidontime.com/dot11/beryllium/gapps/dotOS-R-v5.1.1-beryllium-GAPPS-20210611-0226.zip",
+            "size": "1333605349",
+            "url": "https://downloads.droidontime.com/dot11/beryllium/gapps/dotOS-R-v5.1.1-beryllium-GAPPS-20210613-0707.zip",
             "version": "v5.1.1"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1623377414",
-            "filename": "dotOS-R-v5.1.1-beryllium-OFFICIAL-20210611-0131.zip",
-            "id": "8b2c4c06c81ef6d31f56666df244cfdc",
+            "datetime": "1623566943",
+            "filename": "dotOS-R-v5.1.1-beryllium-OFFICIAL-20210613-0609.zip",
+            "id": "b0b0586a957b371fdbce639f50090878",
             "romtype": "OFFICIAL",
-            "size": "895124712",
-            "url": "https://downloads.droidontime.com/dot11/beryllium/vanilla/dotOS-R-v5.1.1-beryllium-OFFICIAL-20210611-0131.zip",
+            "size": "894500584",
+            "url": "https://downloads.droidontime.com/dot11/beryllium/vanilla/dotOS-R-v5.1.1-beryllium-OFFICIAL-20210613-0609.zip",
             "version": "v5.1.1"
          }
       ]
