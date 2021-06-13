@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1622179199",
-            "filename": "dotOS-R-v5.1-dumpling-GAPPS-20210528-0514.zip",
-            "id": "6560b4107acebf5c1d321b3f2265cc24",
+            "datetime": "1623593514",
+            "filename": "dotOS-R-v5.1.1-dumpling-GAPPS-20210613-1406.zip",
+            "id": "e95d5475ddef987560e0eaa481cc57ca",
             "romtype": "GAPPS",
-            "size": "1224018129",
-            "url": "https://downloads.droidontime.com/dot11/dumpling/gapps/dotOS-R-v5.1-dumpling-GAPPS-20210528-0514.zip",
-            "version": "v5.1"
+            "size": "1199320360",
+            "url": "https://downloads.droidontime.com/dot11/dumpling/gapps/dotOS-R-v5.1.1-dumpling-GAPPS-20210613-1406.zip",
+            "version": "v5.1.1"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1622178020",
-            "filename": "dotOS-R-v5.1-dumpling-OFFICIAL-20210528-0422.zip",
-            "id": "4072ce0e97a73def9bb15750104fabb4",
+            "datetime": "1623592226",
+            "filename": "dotOS-R-v5.1.1-dumpling-OFFICIAL-20210613-1310.zip",
+            "id": "25fd2237537c983f6a014daabd93c7aa",
             "romtype": "OFFICIAL",
-            "size": "767251779",
-            "url": "https://downloads.droidontime.com/dot11/dumpling/vanilla/dotOS-R-v5.1-dumpling-OFFICIAL-20210528-0422.zip",
-            "version": "v5.1"
+            "size": "757817210",
+            "url": "https://downloads.droidontime.com/dot11/dumpling/vanilla/dotOS-R-v5.1.1-dumpling-OFFICIAL-20210613-1310.zip",
+            "version": "v5.1.1"
          }
       ]
    },
