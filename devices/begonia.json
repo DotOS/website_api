@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1623563716",
-            "filename": "dotOS-R-v5.1.1-begonia-GAPPS-20210613-0548.zip",
-            "id": "",
+            "datetime": "1622162950",
+            "filename": "dotOS-R-v5.1-begonia-GAPPS-20210528-0042.zip",
+            "id": "8f169adff8d3d1e261c556def9547a9a",
             "romtype": "GAPPS",
-            "size": "",
-            "url": "https://downloads.droidontime.com/dot11/begonia/gapps/dotOS-R-v5.1.1-begonia-GAPPS-20210613-0548.zip",
-            "version": "v5.1.1"
+            "size": "1437735160",
+            "url": "https://downloads.droidontime.com/dot11/begonia/gapps/dotOS-R-v5.1-begonia-GAPPS-20210528-0042.zip",
+            "version": "v5.1"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1623562708",
-            "filename": "dotOS-R-v5.1.1-begonia-OFFICIAL-20210613-0457.zip",
-            "id": "",
+            "datetime": "1622161471",
+            "filename": "dotOS-R-v5.1-begonia-OFFICIAL-20210527-2345.zip",
+            "id": "b1ef4b73a7bf81f495a9306a1635d04c",
             "romtype": "OFFICIAL",
-            "size": "",
-            "url": "https://downloads.droidontime.com/dot11/begonia/vanilla/dotOS-R-v5.1.1-begonia-OFFICIAL-20210613-0457.zip",
-            "version": "v5.1.1"
+            "size": "983187870",
+            "url": "https://downloads.droidontime.com/dot11/begonia/vanilla/dotOS-R-v5.1-begonia-OFFICIAL-20210527-2345.zip",
+            "version": "v5.1"
          }
       ]
    },
