@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1622286654",
-            "filename": "dotOS-R-v5.1-walleye-GAPPS-20210529-1106.zip",
-            "id": "6d6e3a6db6ad2bfbab1424732e221bf7",
+            "datetime": "1623706551",
+            "filename": "dotOS-R-v5.1.1-walleye-GAPPS-20210614-2131.zip",
+            "id": "80b1c90cbbe90eef3e8c232939fb7f3e",
             "romtype": "GAPPS",
-            "size": "1097193312",
-            "url": "https://downloads.droidontime.com/dot11/walleye/gapps/dotOS-R-v5.1-walleye-GAPPS-20210529-1106.zip",
-            "version": "v5.1"
+            "size": "1145448398",
+            "url": "https://downloads.droidontime.com/dot11/walleye/gapps/dotOS-R-v5.1.1-walleye-GAPPS-20210614-2131.zip",
+            "version": "v5.1.1"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1622285684",
-            "filename": "dotOS-R-v5.1-walleye-OFFICIAL-20210529-1018.zip",
-            "id": "0b3976c01f8122be3b02650166196290",
+            "datetime": "1623705577",
+            "filename": "dotOS-R-v5.1.1-walleye-OFFICIAL-20210614-2041.zip",
+            "id": "e12af36bd18077629d4b33050166777c",
             "romtype": "OFFICIAL",
-            "size": "742440845",
-            "url": "https://downloads.droidontime.com/dot11/walleye/vanilla/dotOS-R-v5.1-walleye-OFFICIAL-20210529-1018.zip",
-            "version": "v5.1"
+            "size": "747532785",
+            "url": "https://downloads.droidontime.com/dot11/walleye/vanilla/dotOS-R-v5.1.1-walleye-OFFICIAL-20210614-2041.zip",
+            "version": "v5.1.1"
          }
       ]
    },
