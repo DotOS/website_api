@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1622218257",
-            "filename": "dotOS-R-v5.1-rolex-GAPPS-20210528-1605.zip",
-            "id": "171f23ee3702c694ee525a44a92dbdf3",
+            "datetime": "1623658056",
+            "filename": "dotOS-R-v5.1.1-rolex-GAPPS-20210614-0802.zip",
+            "id": "657dbcc54b838b72330139ad99c0c5f1",
             "romtype": "GAPPS",
-            "size": "1116357501",
-            "url": "https://downloads.droidontime.com/dot11/rolex/gapps/dotOS-R-v5.1-rolex-GAPPS-20210528-1605.zip",
-            "version": "v5.1"
+            "size": "1128857056",
+            "url": "https://downloads.droidontime.com/dot11/rolex/gapps/dotOS-R-v5.1.1-rolex-GAPPS-20210614-0802.zip",
+            "version": "v5.1.1"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1622217164",
-            "filename": "dotOS-R-v5.1-rolex-OFFICIAL-20210528-1515.zip",
-            "id": "636239fc0b606c20c04b3d5e45764677",
+            "datetime": "1623656968",
+            "filename": "dotOS-R-v5.1.1-rolex-OFFICIAL-20210614-0710.zip",
+            "id": "a794617518b6bfcdb097868aafc20b68",
             "romtype": "OFFICIAL",
-            "size": "677026423",
-            "url": "https://downloads.droidontime.com/dot11/rolex/vanilla/dotOS-R-v5.1-rolex-OFFICIAL-20210528-1515.zip",
-            "version": "v5.1"
+            "size": "685241784",
+            "url": "https://downloads.droidontime.com/dot11/rolex/vanilla/dotOS-R-v5.1.1-rolex-OFFICIAL-20210614-0710.zip",
+            "version": "v5.1.1"
          }
       ]
    },
