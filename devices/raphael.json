@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1623074299",
-            "filename": "dotOS-R-v5.1-raphael-GAPPS-20210607-1352.zip",
-            "id": "6ac2fbd1048b55794a361d8639540e2f",
+            "datetime": "1623653396",
+            "filename": "dotOS-R-v5.1.1-raphael-GAPPS-20210614-0644.zip",
+            "id": "03b5b69e2e55602b9c804c684ee43a9c",
             "romtype": "GAPPS",
-            "size": "1197679391",
-            "url": "https://downloads.droidontime.com/dot11/raphael/gapps/dotOS-R-v5.1-raphael-GAPPS-20210607-1352.zip",
-            "version": "v5.1"
+            "size": "1203156912",
+            "url": "https://downloads.droidontime.com/dot11/raphael/gapps/dotOS-R-v5.1.1-raphael-GAPPS-20210614-0644.zip",
+            "version": "v5.1.1"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1623073032",
-            "filename": "dotOS-R-v5.1-raphael-OFFICIAL-20210607-1302.zip",
-            "id": "59ae9b8bf242691dba0dace1df08e66e",
+            "datetime": "1623652157",
+            "filename": "dotOS-R-v5.1.1-raphael-OFFICIAL-20210614-0552.zip",
+            "id": "4a539f5fd05f281c6e0d8e1aee1755b5",
             "romtype": "OFFICIAL",
-            "size": "793360839",
-            "url": "https://downloads.droidontime.com/dot11/raphael/vanilla/dotOS-R-v5.1-raphael-OFFICIAL-20210607-1302.zip",
-            "version": "v5.1"
+            "size": "794264047",
+            "url": "https://downloads.droidontime.com/dot11/raphael/vanilla/dotOS-R-v5.1.1-raphael-OFFICIAL-20210614-0552.zip",
+            "version": "v5.1.1"
          }
       ]
    },
