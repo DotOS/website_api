@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1622239659",
-            "filename": "dotOS-R-v5.1-toco-GAPPS-20210528-2200.zip",
-            "id": "a626ab3df85c9486baee13bcd4ce6564",
+            "datetime": "1623686249",
+            "filename": "dotOS-R-v5.1.1-toco-GAPPS-20210614-1549.zip",
+            "id": "330b67dca05421f70b691839d91d3a45",
             "romtype": "GAPPS",
-            "size": "1517296564",
-            "url": "https://downloads.droidontime.com/dot11/toco/gapps/dotOS-R-v5.1-toco-GAPPS-20210528-2200.zip",
-            "version": "v5.1"
+            "size": "1530869866",
+            "url": "https://downloads.droidontime.com/dot11/toco/gapps/dotOS-R-v5.1.1-toco-GAPPS-20210614-1549.zip",
+            "version": "v5.1.1"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1622238008",
-            "filename": "dotOS-R-v5.1-toco-OFFICIAL-20210528-2100.zip",
-            "id": "aca9384f3d1fb658abf4719ab3c7e54a",
+            "datetime": "1623684583",
+            "filename": "dotOS-R-v5.1.1-toco-OFFICIAL-20210614-1447.zip",
+            "id": "42cdd12e44e091cc712765c40ad17db3",
             "romtype": "OFFICIAL",
-            "size": "1099212528",
-            "url": "https://downloads.droidontime.com/dot11/toco/vanilla/dotOS-R-v5.1-toco-OFFICIAL-20210528-2100.zip",
-            "version": "v5.1"
+            "size": "1108244620",
+            "url": "https://downloads.droidontime.com/dot11/toco/vanilla/dotOS-R-v5.1.1-toco-OFFICIAL-20210614-1447.zip",
+            "version": "v5.1.1"
          }
       ]
    },
