@@ -6,23 +6,23 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1623583149",
-            "filename": "dotOS-R-v5.1.1-davinci-GAPPS-20210613-1111.zip",
-            "id": "0b3c7e43ee9e07ee3d1c5175b8fb7799",
+            "datetime": "1623736922",
+            "filename": "dotOS-R-v5.1.1-davinci-GAPPS-20210615-0554.zip",
+            "id": "d448ae65c99a7f282f0c32c6cd1e4702",
             "romtype": "GAPPS",
-            "size": "1804265549",
-            "url": "https://downloads.droidontime.com/dot11/davinci/gapps/dotOS-R-v5.1.1-davinci-GAPPS-20210613-1111.zip",
+            "size": "1807506828",
+            "url": "https://downloads.droidontime.com/dot11/davinci/gapps/dotOS-R-v5.1.1-davinci-GAPPS-20210615-0554.zip",
             "version": "v5.1.1"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1623581438",
-            "filename": "dotOS-R-v5.1.1-davinci-OFFICIAL-20210613-1009.zip",
-            "id": "91d269db9d91a433ad294f71debdd4fe",
+            "datetime": "1623735320",
+            "filename": "dotOS-R-v5.1.1-davinci-OFFICIAL-20210615-0454.zip",
+            "id": "6cb3a379e551f0e381bff60e1b25c429",
             "romtype": "OFFICIAL",
-            "size": "1306739594",
-            "url": "https://downloads.droidontime.com/dot11/davinci/vanilla/dotOS-R-v5.1.1-davinci-OFFICIAL-20210613-1009.zip",
+            "size": "1304966950",
+            "url": "https://downloads.droidontime.com/dot11/davinci/vanilla/dotOS-R-v5.1.1-davinci-OFFICIAL-20210615-0454.zip",
             "version": "v5.1.1"
          }
       ]
