@@ -6,23 +6,23 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1622198584",
-            "filename": "dotOS-R-v5.1-lavender-GAPPS-20210528-1036.zip",
-            "id": "9ce9a5276be952c1e3b46ca40e370600",
+            "datetime": "1623795297",
+            "filename": "dotOS-R-v5.1.1-lavender-GAPPS-20210615-2208.zip",
+            "id": "463f03fcc5b37214ebf8bc5dd0ebb3e6",
             "romtype": "GAPPS",
-            "size": "1409429033",
-            "url": "https://downloads.droidontime.com/dot11/lavender/gapps/dotOS-R-v5.1-lavender-GAPPS-20210528-1036.zip",
-            "version": "v5.1"
+            "size": "1407844245",
+            "url": "https://downloads.droidontime.com/dot11/lavender/gapps/dotOS-R-v5.1.1-lavender-GAPPS-20210615-2208.zip",
+            "version": "v5.1.1"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1623630241",
-            "filename": "dotOS-R-v5.1.1-lavender-OFFICIAL-20210613-2345.zip",
-            "id": "f4971abfbb4262ceea1365d3b43548ea",
+            "datetime": "1623793840",
+            "filename": "dotOS-R-v5.1.1-lavender-OFFICIAL-20210615-2111.zip",
+            "id": "ce1d1843a8e07c002fc5a015258b6042",
             "romtype": "OFFICIAL",
-            "size": "964723184",
-            "url": "https://downloads.droidontime.com/dot11/lavender/vanilla/dotOS-R-v5.1.1-lavender-OFFICIAL-20210613-2345.zip",
+            "size": "964515090",
+            "url": "https://downloads.droidontime.com/dot11/lavender/vanilla/dotOS-R-v5.1.1-lavender-OFFICIAL-20210615-2111.zip",
             "version": "v5.1.1"
          }
       ]
