@@ -1,0 +1,14 @@
+{
+   "name": "Pixel 3a",
+   "brand": "Google",
+   "codename": "sargo",
+   "xda_thread": "https://forum.xda-developers.com/t/https://forum.xda-developers.com/t/rom-android-11-sargo-dotos-v5-x-unofficial.4288297/",
+   "builds": {},
+   "maintainers": [
+      {
+         "_id": "zapmicro",
+         "name": "Martin",
+         "url": "https://github.com/zapmicro"
+      }
+   ]
+}
