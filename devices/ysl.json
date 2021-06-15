@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1622310550",
-            "filename": "dotOS-R-v5.1-ysl-GAPPS-20210529-1740.zip",
-            "id": "b1d74e41856d71ba3f6c1a50b1ca6419",
+            "datetime": "1623721953",
+            "filename": "dotOS-R-v5.1.1-ysl-GAPPS-20210615-0143.zip",
+            "id": "bd72718a53e624f24f7af8cc782ba3e4",
             "romtype": "GAPPS",
-            "size": "1177271431",
-            "url": "https://downloads.droidontime.com/dot11/ysl/gapps/dotOS-R-v5.1-ysl-GAPPS-20210529-1740.zip",
-            "version": "v5.1"
+            "size": "1187743237",
+            "url": "https://downloads.droidontime.com/dot11/ysl/gapps/dotOS-R-v5.1.1-ysl-GAPPS-20210615-0143.zip",
+            "version": "v5.1.1"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1622308737",
-            "filename": "dotOS-R-v5.1-ysl-OFFICIAL-20210529-1640.zip",
-            "id": "3f1cb659ea22496080696a8c32dac270",
+            "datetime": "1623720397",
+            "filename": "dotOS-R-v5.1.1-ysl-OFFICIAL-20210615-0047.zip",
+            "id": "cb4c740a2bbf0c8ec3035c937eae1a19",
             "romtype": "OFFICIAL",
-            "size": "742453431",
-            "url": "https://downloads.droidontime.com/dot11/ysl/vanilla/dotOS-R-v5.1-ysl-OFFICIAL-20210529-1640.zip",
-            "version": "v5.1"
+            "size": "748842245",
+            "url": "https://downloads.droidontime.com/dot11/ysl/vanilla/dotOS-R-v5.1.1-ysl-OFFICIAL-20210615-0047.zip",
+            "version": "v5.1.1"
          }
       ]
    },
