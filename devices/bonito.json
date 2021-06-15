@@ -3,7 +3,30 @@
    "brand": "Google",
    "codename": "bonito",
    "xda_thread": "https://forum.xda-developers.com/t/https://forum.xda-developers.com/t/rom-android-11-bonito-dotos-v5-x-unofficial.4288615/",
-   "builds": {},
+   "builds": {
+      "gapps": [
+         {
+            "datetime": "1623785476",
+            "filename": "dotOS-R-v5.1.1-bonito-GAPPS-20210615-1925.zip",
+            "id": "356cb89c6d6c6e5dde24ae5c4cc10a87",
+            "romtype": "GAPPS",
+            "size": "1288986425",
+            "url": "https://downloads.droidontime.com/dot11/bonito/gapps/dotOS-R-v5.1.1-bonito-GAPPS-20210615-1925.zip",
+            "version": "v5.1.1"
+         }
+      ],
+      "vanilla": [
+         {
+            "datetime": "1623784008",
+            "filename": "dotOS-R-v5.1.1-bonito-OFFICIAL-20210615-1827.zip",
+            "id": "99b0ba068acc7a54a24b1f12dc363aab",
+            "romtype": "OFFICIAL",
+            "size": "857857208",
+            "url": "https://downloads.droidontime.com/dot11/bonito/vanilla/dotOS-R-v5.1.1-bonito-OFFICIAL-20210615-1827.zip",
+            "version": "v5.1.1"
+         }
+      ]
+   },
    "maintainers": [
       {
          "_id": "zapmicro",
