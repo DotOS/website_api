@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1622223475",
-            "filename": "dotOS-R-v5.1-sakura-GAPPS-20210528-1732.zip",
-            "id": "225a8ceb5fc3499b0d1e131c7117d2a2",
+            "datetime": "1623731659",
+            "filename": "dotOS-R-v5.1.1-sakura-GAPPS-20210615-0429.zip",
+            "id": "da278aac6fe2ec4dddb71a5df1ce2627",
             "romtype": "GAPPS",
-            "size": "1223608718",
-            "url": "https://downloads.droidontime.com/dot11/sakura/gapps/dotOS-R-v5.1-sakura-GAPPS-20210528-1732.zip",
-            "version": "v5.1"
+            "size": "1219430325",
+            "url": "https://downloads.droidontime.com/dot11/sakura/gapps/dotOS-R-v5.1.1-sakura-GAPPS-20210615-0429.zip",
+            "version": "v5.1.1"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1622222220",
-            "filename": "dotOS-R-v5.1-sakura-OFFICIAL-20210528-1630.zip",
-            "id": "19a118b23e177851560e9922b542d010",
+            "datetime": "1623730535",
+            "filename": "dotOS-R-v5.1.1-sakura-OFFICIAL-20210615-0336.zip",
+            "id": "e57a3009b2c735a2cb7b2f4df57d68a6",
             "romtype": "OFFICIAL",
-            "size": "789567140",
-            "url": "https://downloads.droidontime.com/dot11/sakura/vanilla/dotOS-R-v5.1-sakura-OFFICIAL-20210528-1630.zip",
-            "version": "v5.1"
+            "size": "776914391",
+            "url": "https://downloads.droidontime.com/dot11/sakura/vanilla/dotOS-R-v5.1.1-sakura-OFFICIAL-20210615-0336.zip",
+            "version": "v5.1.1"
          }
       ]
    },
