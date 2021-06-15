@@ -6,23 +6,23 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1622295531",
-            "filename": "dotOS-R-v5.1-oneplus3-GAPPS-20210529-1333.zip",
-            "id": "5145eb0c92b7adeffff5c146a3c9c738",
+            "datetime": "1623741514",
+            "filename": "dotOS-R-v5.1.1-oneplus3-GAPPS-20210615-0713.zip",
+            "id": "118e18cfa75fa5b5b4b1abd023f5e7ab",
             "romtype": "GAPPS",
-            "size": "1151397048",
-            "url": "https://downloads.droidontime.com/dot11/oneplus3/gapps/dotOS-R-v5.1-oneplus3-GAPPS-20210529-1333.zip",
-            "version": "v5.1"
+            "size": "1162282363",
+            "url": "https://downloads.droidontime.com/dot11/oneplus3/gapps/dotOS-R-v5.1.1-oneplus3-GAPPS-20210615-0713.zip",
+            "version": "v5.1.1"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1623633546",
-            "filename": "dotOS-R-v5.1.1-oneplus3-OFFICIAL-20210614-0045.zip",
-            "id": "0fd6985ebaf18b664cf3d4b8abd59e66",
+            "datetime": "1623740384",
+            "filename": "dotOS-R-v5.1.1-oneplus3-OFFICIAL-20210615-0626.zip",
+            "id": "f86900b81daf7b69a6af58673a90870d",
             "romtype": "OFFICIAL",
-            "size": "716636574",
-            "url": "https://downloads.droidontime.com/dot11/oneplus3/vanilla/dotOS-R-v5.1.1-oneplus3-OFFICIAL-20210614-0045.zip",
+            "size": "716617703",
+            "url": "https://downloads.droidontime.com/dot11/oneplus3/vanilla/dotOS-R-v5.1.1-oneplus3-OFFICIAL-20210615-0626.zip",
             "version": "v5.1.1"
          }
       ]
