@@ -4,15 +4,26 @@
    "codename": "tulip",
    "xda_thread": "https://forum.xda-developers.com/t/rom-11-official-dotos-5-0-1-tulip.4265211/",
    "builds": {
+      "gapps": [
+         {
+            "datetime": "1623828397",
+            "filename": "dotOS-R-v5.1.1-tulip-GAPPS-20210616-0721.zip",
+            "id": "5b892aa1e35191634ebb6a3eaeeceb62",
+            "romtype": "GAPPS",
+            "size": "1252679291",
+            "url": "https://downloads.droidontime.com/dot11/tulip/gapps/dotOS-R-v5.1.1-tulip-GAPPS-20210616-0721.zip",
+            "version": "v5.1.1"
+         }
+      ],
       "vanilla": [
          {
-            "datetime": "1618868702",
-            "filename": "dotOS-R-v5.0.1-tulip-OFFICIAL-20210419-2149.zip",
-            "id": "9dc985193338b48489e56db2ebe575be",
+            "datetime": "1623827121",
+            "filename": "dotOS-R-v5.1.1-tulip-OFFICIAL-20210616-0627.zip",
+            "id": "b8349003c91d4c2e1747c54dff0b1a47",
             "romtype": "OFFICIAL",
-            "size": "898428070",
-            "url": "https://downloads.droidontime.com/dot11/tulip/vanilla/dotOS-R-v5.0.1-tulip-OFFICIAL-20210419-2149.zip",
-            "version": "v5.0.1"
+            "size": "818161626",
+            "url": "https://downloads.droidontime.com/dot11/tulip/vanilla/dotOS-R-v5.1.1-tulip-OFFICIAL-20210616-0627.zip",
+            "version": "v5.1.1"
          }
       ]
    },
