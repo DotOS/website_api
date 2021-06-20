@@ -1,5 +1,5 @@
 {
-   "name": "Arm64 A/B",
+   "name": "GSI - Arm64 A/B",
    "brand": "Android",
    "codename": "arm64",
    "xda_thread": "#",
@@ -27,5 +27,11 @@
          }
       ]
    },
-   "maintainers": []
+   "maintainers": [
+      {
+         "_id": "community",
+         "name": "Community Maintained",
+         "url": "https://github.com/mohancm/"
+      }
+   ]
 }

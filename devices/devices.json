@@ -1,8 +1,8 @@
 {
    "Android": {
-      "a64": "A64 A/B",
-      "arm": "Arm A/B",
-      "arm64": "Arm64 A/B"
+      "a64": "GSI - A64 A/B",
+      "arm": "GSI - Arm A/B",
+      "arm64": "GSI - Arm64 A/B"
    },
    "Asus": {
       "X00TD": "Zenfone Max Pro M1",

@@ -1,5 +1,5 @@
 {
-   "name": "A64 A/B",
+   "name": "GSI - A64 A/B",
    "brand": "Android",
    "codename": "a64",
    "xda_thread": "#",
@@ -16,5 +16,11 @@
          }
       ]
    },
-   "maintainers": []
+   "maintainers": [
+      {
+         "_id": "community",
+         "name": "Community Maintained",
+         "url": "https://github.com/mohancm/"
+      }
+   ]
 }

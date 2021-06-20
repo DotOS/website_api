@@ -1,5 +1,5 @@
 {
-   "name": "Arm A/B",
+   "name": "GSI - Arm A/B",
    "brand": "Android",
    "codename": "arm",
    "xda_thread": "#",
@@ -16,5 +16,11 @@
          }
       ]
    },
-   "maintainers": []
+   "maintainers": [
+      {
+         "_id": "community",
+         "name": "Community Maintained",
+         "url": "https://github.com/mohancm/"
+      }
+   ]
 }
