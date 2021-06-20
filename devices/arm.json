@@ -1,0 +1,20 @@
+{
+   "name": "Arm A/B",
+   "brand": "Android",
+   "codename": "arm",
+   "xda_thread": "#",
+   "builds": {
+      "vanilla": [
+         {
+            "datetime": "1624190469",
+            "filename": "dotOS-R-v5.1.1-arm-vanilla-OFFICIAL.img.xz",
+            "id": "b3345765503a1fb9f42000af02abc62f",
+            "romtype": "OFFICIAL",
+            "size": "512933796",
+            "url": "https://downloads.droidontime.com/dot11/gsi_images/arm/vanilla/dotOS-R-v5.1.1-arm-vanilla-OFFICIAL.img.xz",
+            "version": "v5.1.1"
+         }
+      ]
+   },
+   "maintainers": []
+}

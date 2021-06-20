@@ -1,0 +1,20 @@
+{
+   "name": "A64 A/B",
+   "brand": "Android",
+   "codename": "a64",
+   "xda_thread": "#",
+   "builds": {
+      "vanilla": [
+         {
+            "datetime": "1624190469",
+            "filename": "dotOS-R-v5.1.1-a64-vanilla-OFFICIAL.img.xz",
+            "id": "708c48163776f4048d90accd8cf5d11f",
+            "romtype": "OFFICIAL",
+            "size": "504558852",
+            "url": "https://downloads.droidontime.com/dot11/gsi_images/a64/vanilla/dotOS-R-v5.1.1-a64-vanilla-OFFICIAL.img.xz",
+            "version": "v5.1.1"
+         }
+      ]
+   },
+   "maintainers": []
+}
