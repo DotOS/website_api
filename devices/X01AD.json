@@ -3,7 +3,30 @@
    "brand": "Asus",
    "codename": "X01AD",
    "xda_thread": "https://forum.xda-developers.com/t/rom-unofficial-11-0-x01ad-dotos-5-0-1.4223541/",
-   "builds": {},
+   "builds": {
+      "gapps": [
+         {
+            "datetime": "1624283412",
+            "filename": "dotOS-R-v5.1.1-X01AD-GAPPS-20210621-1345.zip",
+            "id": "36472c7e1b29a4f7491d15e04510dd7a",
+            "romtype": "GAPPS",
+            "size": "1144112862",
+            "url": "https://downloads.droidontime.com/dot11/X01AD/gapps/dotOS-R-v5.1.1-X01AD-GAPPS-20210621-1345.zip",
+            "version": "v5.1.1"
+         }
+      ],
+      "vanilla": [
+         {
+            "datetime": "1624282245",
+            "filename": "dotOS-R-v5.1.1-X01AD-OFFICIAL-20210621-1251.zip",
+            "id": "1d7d9be3e5ac9273f4863311e83e94eb",
+            "romtype": "OFFICIAL",
+            "size": "704812031",
+            "url": "https://downloads.droidontime.com/dot11/X01AD/vanilla/dotOS-R-v5.1.1-X01AD-OFFICIAL-20210621-1251.zip",
+            "version": "v5.1.1"
+         }
+      ]
+   },
    "maintainers": [
       {
          "_id": "Nguyenhung9x",
