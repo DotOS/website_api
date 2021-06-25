@@ -1,0 +1,14 @@
+{
+   "name": "Mi Note 3",
+   "brand": "Xiaomi",
+   "codename": "jason",
+   "xda_thread": "https://forum.xda-developers.com/t/rom-11-unofficial-dotos-v5-1-1-aosp-jason.4268815/",
+   "builds": {},
+   "maintainers": [
+      {
+         "_id": "enweazudaniel",
+         "name": "Enweazu Daniel",
+         "url": "https://github.com/enweazudaniel"
+      }
+   ]
+}
