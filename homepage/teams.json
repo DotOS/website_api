@@ -2,22 +2,22 @@
 	"team_members": [
 		{
 			"full_name": "Mohan C M",
-			"role": "Founder and Core Developer",
+			"role": "Founder & Core Developer",
 			"github_username": "mohancm"
 		},
 		{
 			"full_name": "Iacob Ionut",
-			"role": "UI, UX and Core Developer",
+			"role": "UI/UX & Core Developer",
 			"github_username": "IacobIonut01"
 		},
 		{
 			"full_name": "Sipun Ku Mahanta",
-			"role": "Developer and Device Maintainers Co-ordinator",
+			"role": "Device Maintainers Coordinator & Developer",
 			"github_username": "Sweeto143"
 		},
 		{
 			"full_name": "Manish Bajpai",
-			"role": "UI, UX Designer and Developer",
+			"role": "UI/UX Designer & Developer",
 			"github_username": "Manishbajpai055"
 		},
 		{
@@ -34,7 +34,7 @@
 		},
 		{
 			"full_name": "Sayan Biswas",
-			"role": "UI/UX Developer and Project Co-ordinator",
+			"role": "UI/UX Developer & Project Coordinator",
 			"github_username": "samgrande"
 		},
 		{
@@ -54,7 +54,7 @@
 		},
 		{
 			"full_name": "Aswin",
-			"role": "Graphic Designer",
+			"role": "Graphics Designer",
 			"github_username": "Aswin8"
 		}
 	]
