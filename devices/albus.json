@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1623551988",
-            "filename": "dotOS-R-v5.1.1-albus-GAPPS-20210613-0234.zip",
-            "id": "1ffebc1ec69ee4392d3ad82062328b50",
+            "datetime": "1626554489",
+            "filename": "dotOS-R-v5.1.2-albus-GAPPS-20210717-2035.zip",
+            "id": "ac9f8d68edac53cfbbef9a111719ed23",
             "romtype": "GAPPS",
-            "size": "1257741354",
-            "url": "https://downloads.droidontime.com/dot11/albus/gapps/dotOS-R-v5.1.1-albus-GAPPS-20210613-0234.zip",
-            "version": "v5.1.1"
+            "size": "1262299490",
+            "url": "https://downloads.droidontime.com/dot11/albus/gapps/dotOS-R-v5.1.2-albus-GAPPS-20210717-2035.zip",
+            "version": "v5.1.2"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1623550654",
-            "filename": "dotOS-R-v5.1.1-albus-OFFICIAL-20210613-0139.zip",
-            "id": "4ce4b6b967ad9e85ad9db55e5983bf62",
+            "datetime": "1626553269",
+            "filename": "dotOS-R-v5.1.2-albus-OFFICIAL-20210717-1942.zip",
+            "id": "3dd4ede5d929414bca7c4bac7d2586eb",
             "romtype": "OFFICIAL",
-            "size": "765446146",
-            "url": "https://downloads.droidontime.com/dot11/albus/vanilla/dotOS-R-v5.1.1-albus-OFFICIAL-20210613-0139.zip",
-            "version": "v5.1.1"
+            "size": "765724419",
+            "url": "https://downloads.droidontime.com/dot11/albus/vanilla/dotOS-R-v5.1.2-albus-OFFICIAL-20210717-1942.zip",
+            "version": "v5.1.2"
          }
       ]
    },
