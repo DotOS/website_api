@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1624394805",
-            "filename": "dotOS-R-v5.1.1-surya-GAPPS-20210622-2040.zip",
-            "id": "f4601ed10c6c7a6ad98a8a20087b880d",
+            "datetime": "1626649043",
+            "filename": "dotOS-R-v5.1.2-surya-GAPPS-20210718-2251.zip",
+            "id": "112a1b68317f54b1f4e36672d3b10bb0",
             "romtype": "GAPPS",
-            "size": "1159368674",
-            "url": "https://downloads.droidontime.com/dot11/surya/gapps/dotOS-R-v5.1.1-surya-GAPPS-20210622-2040.zip",
-            "version": "v5.1.1"
+            "size": "1159476671",
+            "url": "https://downloads.droidontime.com/dot11/surya/gapps/dotOS-R-v5.1.2-surya-GAPPS-20210718-2251.zip",
+            "version": "v5.1.2"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1624393354",
-            "filename": "dotOS-R-v5.1.1-surya-OFFICIAL-20210622-1942.zip",
-            "id": "27bcb3f0e33cbee63683396876864be9",
+            "datetime": "1626647700",
+            "filename": "dotOS-R-v5.1.2-surya-OFFICIAL-20210718-2155.zip",
+            "id": "7519da7a640d0b479593ca3746a5a002",
             "romtype": "OFFICIAL",
-            "size": "768060419",
-            "url": "https://downloads.droidontime.com/dot11/surya/vanilla/dotOS-R-v5.1.1-surya-OFFICIAL-20210622-1942.zip",
-            "version": "v5.1.1"
+            "size": "768279142",
+            "url": "https://downloads.droidontime.com/dot11/surya/vanilla/dotOS-R-v5.1.2-surya-OFFICIAL-20210718-2155.zip",
+            "version": "v5.1.2"
          }
       ]
    },
