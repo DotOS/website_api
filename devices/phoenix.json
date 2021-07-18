@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1623638860",
-            "filename": "dotOS-R-v5.1.1-phoenix-GAPPS-20210614-0240.zip",
-            "id": "700f3d2b3e63634d05bed76d2abe7966",
+            "datetime": "1626615433",
+            "filename": "dotOS-R-v5.1.2-phoenix-GAPPS-20210718-1329.zip",
+            "id": "148092af460b064386926d78f236358b",
             "romtype": "GAPPS",
-            "size": "1463052840",
-            "url": "https://downloads.droidontime.com/dot11/phoenix/gapps/dotOS-R-v5.1.1-phoenix-GAPPS-20210614-0240.zip",
-            "version": "v5.1.1"
+            "size": "1464087799",
+            "url": "https://downloads.droidontime.com/dot11/phoenix/gapps/dotOS-R-v5.1.2-phoenix-GAPPS-20210718-1329.zip",
+            "version": "v5.1.2"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1623637173",
-            "filename": "dotOS-R-v5.1.1-phoenix-OFFICIAL-20210614-0138.zip",
-            "id": "3c5dc28c425ec267251763529c4f6119",
+            "datetime": "1626613794",
+            "filename": "dotOS-R-v5.1.2-phoenix-OFFICIAL-20210718-1228.zip",
+            "id": "2c48d3d713f234395db852b999bd5eb3",
             "romtype": "OFFICIAL",
-            "size": "1019673546",
-            "url": "https://downloads.droidontime.com/dot11/phoenix/vanilla/dotOS-R-v5.1.1-phoenix-OFFICIAL-20210614-0138.zip",
-            "version": "v5.1.1"
+            "size": "1020809978",
+            "url": "https://downloads.droidontime.com/dot11/phoenix/vanilla/dotOS-R-v5.1.2-phoenix-OFFICIAL-20210718-1228.zip",
+            "version": "v5.1.2"
          }
       ]
    },
