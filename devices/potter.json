@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1623648779",
-            "filename": "dotOS-R-v5.1.1-potter-GAPPS-20210614-0527.zip",
-            "id": "6a81774af9ca1dd676c8424e709b97a7",
+            "datetime": "1626628016",
+            "filename": "dotOS-R-v5.1.2-potter-GAPPS-20210718-1701.zip",
+            "id": "32f9191994438f95785533c4419371f6",
             "romtype": "GAPPS",
-            "size": "1169935287",
-            "url": "https://downloads.droidontime.com/dot11/potter/gapps/dotOS-R-v5.1.1-potter-GAPPS-20210614-0527.zip",
-            "version": "v5.1.1"
+            "size": "1169973352",
+            "url": "https://downloads.droidontime.com/dot11/potter/gapps/dotOS-R-v5.1.2-potter-GAPPS-20210718-1701.zip",
+            "version": "v5.1.2"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1623647634",
-            "filename": "dotOS-R-v5.1.1-potter-OFFICIAL-20210614-0440.zip",
-            "id": "6eab9cd05b708112eda7fa8079edcfa4",
+            "datetime": "1626626879",
+            "filename": "dotOS-R-v5.1.2-potter-OFFICIAL-20210718-1609.zip",
+            "id": "ff5cb1ddc1b898ead51d920d1370e378",
             "romtype": "OFFICIAL",
-            "size": "731673833",
-            "url": "https://downloads.droidontime.com/dot11/potter/vanilla/dotOS-R-v5.1.1-potter-OFFICIAL-20210614-0440.zip",
-            "version": "v5.1.1"
+            "size": "731905040",
+            "url": "https://downloads.droidontime.com/dot11/potter/vanilla/dotOS-R-v5.1.2-potter-OFFICIAL-20210718-1609.zip",
+            "version": "v5.1.2"
          }
       ]
    },
