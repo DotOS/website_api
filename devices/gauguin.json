@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1623606976",
-            "filename": "dotOS-R-v5.1.1-gauguin-GAPPS-20210613-1750.zip",
-            "id": "8b9403fb6b03737a95a85fa68ec75e0c",
+            "datetime": "1626598012",
+            "filename": "dotOS-R-v5.1.2-gauguin-GAPPS-20210718-0840.zip",
+            "id": "3c3cd6510e7b4f27e94c992c2bb47f8a",
             "romtype": "GAPPS",
-            "size": "1192095725",
-            "url": "https://downloads.droidontime.com/dot11/gauguin/gapps/dotOS-R-v5.1.1-gauguin-GAPPS-20210613-1750.zip",
-            "version": "v5.1.1"
+            "size": "1196771650",
+            "url": "https://downloads.droidontime.com/dot11/gauguin/gapps/dotOS-R-v5.1.2-gauguin-GAPPS-20210718-0840.zip",
+            "version": "v5.1.2"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1623605622",
-            "filename": "dotOS-R-v5.1.1-gauguin-OFFICIAL-20210613-1655.zip",
-            "id": "1446c5e2aaf53f96edc19208cc5b7b75",
+            "datetime": "1626596682",
+            "filename": "dotOS-R-v5.1.2-gauguin-OFFICIAL-20210718-0746.zip",
+            "id": "96c2e6e7c025eea8559387ad2e6eb9db",
             "romtype": "OFFICIAL",
-            "size": "705095984",
-            "url": "https://downloads.droidontime.com/dot11/gauguin/vanilla/dotOS-R-v5.1.1-gauguin-OFFICIAL-20210613-1655.zip",
-            "version": "v5.1.1"
+            "size": "705665791",
+            "url": "https://downloads.droidontime.com/dot11/gauguin/vanilla/dotOS-R-v5.1.2-gauguin-OFFICIAL-20210718-0746.zip",
+            "version": "v5.1.2"
          }
       ]
    },
