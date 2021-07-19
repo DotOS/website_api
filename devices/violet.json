@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1623701983",
-            "filename": "dotOS-R-v5.1.1-violet-GAPPS-20210614-2012.zip",
-            "id": "15777e400802d6632b400f6104a36f69",
+            "datetime": "1626674250",
+            "filename": "dotOS-R-v5.1.2-violet-GAPPS-20210719-0550.zip",
+            "id": "c7e4787048ec94919439b21b8c75fe9d",
             "romtype": "GAPPS",
-            "size": "1376535242",
-            "url": "https://downloads.droidontime.com/dot11/violet/gapps/dotOS-R-v5.1.1-violet-GAPPS-20210614-2012.zip",
-            "version": "v5.1.1"
+            "size": "1526691008",
+            "url": "https://downloads.droidontime.com/dot11/violet/gapps/dotOS-R-v5.1.2-violet-GAPPS-20210719-0550.zip",
+            "version": "v5.1.2"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1623700573",
-            "filename": "dotOS-R-v5.1.1-violet-OFFICIAL-20210614-1915.zip",
-            "id": "10ff6c6b9e86ccdee6c5f3c0bfd92577",
+            "datetime": "1626672713",
+            "filename": "dotOS-R-v5.1.2-violet-OFFICIAL-20210719-0450.zip",
+            "id": "2eacf8ce7a345f8ed958ac8b129781fb",
             "romtype": "OFFICIAL",
-            "size": "936825319",
-            "url": "https://downloads.droidontime.com/dot11/violet/vanilla/dotOS-R-v5.1.1-violet-OFFICIAL-20210614-1915.zip",
-            "version": "v5.1.1"
+            "size": "1087635367",
+            "url": "https://downloads.droidontime.com/dot11/violet/vanilla/dotOS-R-v5.1.2-violet-OFFICIAL-20210719-0450.zip",
+            "version": "v5.1.2"
          }
       ]
    },
