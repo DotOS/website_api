@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1623711939",
-            "filename": "dotOS-R-v5.1.1-wayne-GAPPS-20210614-2253.zip",
-            "id": "1fcdd61093e0ad5509532c9f401f7c58",
+            "datetime": "1626684337",
+            "filename": "dotOS-R-v5.1.2-wayne-GAPPS-20210719-0833.zip",
+            "id": "6c7dbc2e68f709c5f65a0fa60c4e29bf",
             "romtype": "GAPPS",
-            "size": "1300040985",
-            "url": "https://downloads.droidontime.com/dot11/wayne/gapps/dotOS-R-v5.1.1-wayne-GAPPS-20210614-2253.zip",
-            "version": "v5.1.1"
+            "size": "1299994057",
+            "url": "https://downloads.droidontime.com/dot11/wayne/gapps/dotOS-R-v5.1.2-wayne-GAPPS-20210719-0833.zip",
+            "version": "v5.1.2"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1623710012",
-            "filename": "dotOS-R-v5.1.1-wayne-OFFICIAL-20210614-2154.zip",
-            "id": "44add9ffa8ac133cc50e69686f3e1b86",
+            "datetime": "1626682321",
+            "filename": "dotOS-R-v5.1.2-wayne-OFFICIAL-20210719-0732.zip",
+            "id": "82af5a9b56655e8985045c646384efd4",
             "romtype": "OFFICIAL",
-            "size": "861822509",
-            "url": "https://downloads.droidontime.com/dot11/wayne/vanilla/dotOS-R-v5.1.1-wayne-OFFICIAL-20210614-2154.zip",
-            "version": "v5.1.1"
+            "size": "861916714",
+            "url": "https://downloads.droidontime.com/dot11/wayne/vanilla/dotOS-R-v5.1.2-wayne-OFFICIAL-20210719-0732.zip",
+            "version": "v5.1.2"
          }
       ]
    },
