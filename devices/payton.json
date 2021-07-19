@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1623790513",
-            "filename": "dotOS-R-v5.1.1-payton-GAPPS-20210615-2051.zip",
-            "id": "2bd2450d7952355a23447f2933d697f0",
+            "datetime": "1626723057",
+            "filename": "dotOS-R-v5.1.2-payton-GAPPS-20210719-1927.zip",
+            "id": "000a581d81613ac911316ecf8a1601f3",
             "romtype": "GAPPS",
-            "size": "1088840116",
-            "url": "https://downloads.droidontime.com/dot11/payton/gapps/dotOS-R-v5.1.1-payton-GAPPS-20210615-2051.zip",
-            "version": "v5.1.1"
+            "size": "1080681889",
+            "url": "https://downloads.droidontime.com/dot11/payton/gapps/dotOS-R-v5.1.2-payton-GAPPS-20210719-1927.zip",
+            "version": "v5.1.2"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1623789534",
-            "filename": "dotOS-R-v5.1.1-payton-OFFICIAL-20210615-2000.zip",
-            "id": "df45d61bfcc67ce0a9e1d85129c6cf95",
+            "datetime": "1626722100",
+            "filename": "dotOS-R-v5.1.2-payton-OFFICIAL-20210719-1836.zip",
+            "id": "ccd2b9c277ec481f1bc3b3bb26076b6e",
             "romtype": "OFFICIAL",
-            "size": "694964555",
-            "url": "https://downloads.droidontime.com/dot11/payton/vanilla/dotOS-R-v5.1.1-payton-OFFICIAL-20210615-2000.zip",
-            "version": "v5.1.1"
+            "size": "687361432",
+            "url": "https://downloads.droidontime.com/dot11/payton/vanilla/dotOS-R-v5.1.2-payton-OFFICIAL-20210719-1836.zip",
+            "version": "v5.1.2"
          }
       ]
    },
