@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1623676590",
-            "filename": "dotOS-R-v5.1.1-taimen-GAPPS-20210614-1312.zip",
-            "id": "d60cdc945b502f94e6f329038f0f5ab3",
+            "datetime": "1626653570",
+            "filename": "dotOS-R-v5.1.2-taimen-GAPPS-20210719-0008.zip",
+            "id": "fa9b325a36918355e9188444254ec056",
             "romtype": "GAPPS",
-            "size": "1148392081",
-            "url": "https://downloads.droidontime.com/dot11/taimen/gapps/dotOS-R-v5.1.1-taimen-GAPPS-20210614-1312.zip",
-            "version": "v5.1.1"
+            "size": "1151011246",
+            "url": "https://downloads.droidontime.com/dot11/taimen/gapps/dotOS-R-v5.1.2-taimen-GAPPS-20210719-0008.zip",
+            "version": "v5.1.2"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1623675523",
-            "filename": "dotOS-R-v5.1.1-taimen-OFFICIAL-20210614-1220.zip",
-            "id": "1ff96e3e604f7411d8ac32d10699427b",
+            "datetime": "1626652580",
+            "filename": "dotOS-R-v5.1.2-taimen-OFFICIAL-20210718-2317.zip",
+            "id": "915774764a0ba49277c1c3a685786a1e",
             "romtype": "OFFICIAL",
-            "size": "750821762",
-            "url": "https://downloads.droidontime.com/dot11/taimen/vanilla/dotOS-R-v5.1.1-taimen-OFFICIAL-20210614-1220.zip",
-            "version": "v5.1.1"
+            "size": "753541426",
+            "url": "https://downloads.droidontime.com/dot11/taimen/vanilla/dotOS-R-v5.1.2-taimen-OFFICIAL-20210718-2317.zip",
+            "version": "v5.1.2"
          }
       ]
    },
