@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1623588546",
-            "filename": "dotOS-R-v5.1.1-dipper-GAPPS-20210613-1242.zip",
-            "id": "d1b4c2b288c95f84f1f957444c49f89a",
+            "datetime": "1626736941",
+            "filename": "dotOS-R-v5.1.2-dipper-GAPPS-20210719-2316.zip",
+            "id": "e356351524e3f88c71b38f1373fb3c6e",
             "romtype": "GAPPS",
-            "size": "1347662657",
-            "url": "https://downloads.droidontime.com/dot11/dipper/gapps/dotOS-R-v5.1.1-dipper-GAPPS-20210613-1242.zip",
-            "version": "v5.1.1"
+            "size": "1353766998",
+            "url": "https://downloads.droidontime.com/dot11/dipper/gapps/dotOS-R-v5.1.2-dipper-GAPPS-20210719-2316.zip",
+            "version": "v5.1.2"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1623587053",
-            "filename": "dotOS-R-v5.1.1-dipper-OFFICIAL-20210613-1143.zip",
-            "id": "0d3746dc5ff9bbb4f312b9bb2c6a6267",
+            "datetime": "1626735552",
+            "filename": "dotOS-R-v5.1.2-dipper-OFFICIAL-20210719-2219.zip",
+            "id": "fb579cf25647595a79f39f86e779a868",
             "romtype": "OFFICIAL",
-            "size": "908965914",
-            "url": "https://downloads.droidontime.com/dot11/dipper/vanilla/dotOS-R-v5.1.1-dipper-OFFICIAL-20210613-1143.zip",
-            "version": "v5.1.1"
+            "size": "910639081",
+            "url": "https://downloads.droidontime.com/dot11/dipper/vanilla/dotOS-R-v5.1.2-dipper-OFFICIAL-20210719-2219.zip",
+            "version": "v5.1.2"
          }
       ]
    },
