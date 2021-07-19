@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1623818921",
-            "filename": "dotOS-R-v5.1.1-sargo-GAPPS-20210616-0442.zip",
-            "id": "948970ef673e66e66868c4b8f943e94c",
+            "datetime": "1626718386",
+            "filename": "dotOS-R-v5.1.2-sargo-GAPPS-20210719-1807.zip",
+            "id": "73dfefd68ec24634b811477bd649784c",
             "romtype": "GAPPS",
-            "size": "1289568660",
-            "url": "https://downloads.droidontime.com/dot11/sargo/gapps/dotOS-R-v5.1.1-sargo-GAPPS-20210616-0442.zip",
-            "version": "v5.1.1"
+            "size": "1289824615",
+            "url": "https://downloads.droidontime.com/dot11/sargo/gapps/dotOS-R-v5.1.2-sargo-GAPPS-20210719-1807.zip",
+            "version": "v5.1.2"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1623817400",
-            "filename": "dotOS-R-v5.1.1-sargo-OFFICIAL-20210616-0344.zip",
-            "id": "7bf53144d8db5b35f866e79129509551",
+            "datetime": "1626716993",
+            "filename": "dotOS-R-v5.1.2-sargo-OFFICIAL-20210719-1710.zip",
+            "id": "00254fab203f38dab8a639c51f01f173",
             "romtype": "OFFICIAL",
-            "size": "858335650",
-            "url": "https://downloads.droidontime.com/dot11/sargo/vanilla/dotOS-R-v5.1.1-sargo-OFFICIAL-20210616-0344.zip",
-            "version": "v5.1.1"
+            "size": "858439340",
+            "url": "https://downloads.droidontime.com/dot11/sargo/vanilla/dotOS-R-v5.1.2-sargo-OFFICIAL-20210719-1710.zip",
+            "version": "v5.1.2"
          }
       ]
    },
