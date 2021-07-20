@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1624283412",
-            "filename": "dotOS-R-v5.1.1-X01AD-GAPPS-20210621-1345.zip",
-            "id": "36472c7e1b29a4f7491d15e04510dd7a",
+            "datetime": "1626823843",
+            "filename": "dotOS-R-v5.1.2-X01AD-GAPPS-20210720-2325.zip",
+            "id": "5412f9918f808ed650fabe3f7d27c5e5",
             "romtype": "GAPPS",
-            "size": "1144112862",
-            "url": "https://downloads.droidontime.com/dot11/X01AD/gapps/dotOS-R-v5.1.1-X01AD-GAPPS-20210621-1345.zip",
-            "version": "v5.1.1"
+            "size": "1144118565",
+            "url": "https://downloads.droidontime.com/dot11/X01AD/gapps/dotOS-R-v5.1.2-X01AD-GAPPS-20210720-2325.zip",
+            "version": "v5.1.2"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1624282245",
-            "filename": "dotOS-R-v5.1.1-X01AD-OFFICIAL-20210621-1251.zip",
-            "id": "1d7d9be3e5ac9273f4863311e83e94eb",
+            "datetime": "1626822785",
+            "filename": "dotOS-R-v5.1.2-X01AD-OFFICIAL-20210720-2233.zip",
+            "id": "4d36d9f2ad10329ac3da34766d1a4bdc",
             "romtype": "OFFICIAL",
-            "size": "704812031",
-            "url": "https://downloads.droidontime.com/dot11/X01AD/vanilla/dotOS-R-v5.1.1-X01AD-OFFICIAL-20210621-1251.zip",
-            "version": "v5.1.1"
+            "size": "705048729",
+            "url": "https://downloads.droidontime.com/dot11/X01AD/vanilla/dotOS-R-v5.1.2-X01AD-OFFICIAL-20210720-2233.zip",
+            "version": "v5.1.2"
          }
       ]
    },
