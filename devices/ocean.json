@@ -1,0 +1,14 @@
+{
+   "name": "Moto G7 Power",
+   "brand": "Motorola",
+   "codename": "ocean",
+   "xda_thread": "https://forum.xda-developers.com/t/rom-11-dotos-v5-1-1-unofficial.4297075/",
+   "builds": {},
+   "maintainers": [
+      {
+         "_id": "Naxo79",
+         "name": "Ignacio Garcia",
+         "url": "https://github.com/Naxo79"
+      }
+   ]
+}
