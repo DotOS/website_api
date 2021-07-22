@@ -1,0 +1,14 @@
+{
+   "name": "Redmi 8A Dual",
+   "brand": "Xiaomi",
+   "codename": "olivewood",
+   "xda_thread": "https://forum.xda-developers.com/t/rom-android11-redmi-8a-dual-dot-os-unofficial-02-07-2021.4270865/",
+   "builds": {},
+   "maintainers": [
+      {
+         "_id": "shield44",
+         "name": "Android404",
+         "url": "https://github.com/shield44"
+      }
+   ]
+}
