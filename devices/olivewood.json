@@ -3,7 +3,30 @@
    "brand": "Xiaomi",
    "codename": "olivewood",
    "xda_thread": "https://forum.xda-developers.com/t/rom-android11-redmi-8a-dual-dot-os-unofficial-02-07-2021.4270865/",
-   "builds": {},
+   "builds": {
+      "gapps": [
+         {
+            "datetime": "1627789920",
+            "filename": "dotOS-R-v5.1.2-olivewood-GAPPS-20210801-0344.zip",
+            "id": "ecbc3375c5e73ce592458fe42e955c9e",
+            "romtype": "GAPPS",
+            "size": "1333158407",
+            "url": "https://downloads.droidontime.com/dot11/olivewood/gapps/dotOS-R-v5.1.2-olivewood-GAPPS-20210801-0344.zip",
+            "version": "v5.1.2"
+         }
+      ],
+      "vanilla": [
+         {
+            "datetime": "1627788379",
+            "filename": "dotOS-R-v5.1.2-olivewood-OFFICIAL-20210801-0244.zip",
+            "id": "453c2426f80bea62c2c2db6f424763e2",
+            "romtype": "OFFICIAL",
+            "size": "888820224",
+            "url": "https://downloads.droidontime.com/dot11/olivewood/vanilla/dotOS-R-v5.1.2-olivewood-OFFICIAL-20210801-0244.zip",
+            "version": "v5.1.2"
+         }
+      ]
+   },
    "maintainers": [
       {
          "_id": "shield44",
