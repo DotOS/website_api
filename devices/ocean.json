@@ -3,7 +3,30 @@
    "brand": "Motorola",
    "codename": "ocean",
    "xda_thread": "https://forum.xda-developers.com/t/rom-11-dotos-v5-1-1-unofficial.4297075/",
-   "builds": {},
+   "builds": {
+      "gapps": [
+         {
+            "datetime": "1627784143",
+            "filename": "dotOS-R-v5.1.2-ocean-GAPPS-20210801-0212.zip",
+            "id": "fe93a0126af8f04935a9899807b92a01",
+            "romtype": "GAPPS",
+            "size": "1069887197",
+            "url": "https://downloads.droidontime.com/dot11/ocean/gapps/dotOS-R-v5.1.2-ocean-GAPPS-20210801-0212.zip",
+            "version": "v5.1.2"
+         }
+      ],
+      "vanilla": [
+         {
+            "datetime": "1627783200",
+            "filename": "dotOS-R-v5.1.2-ocean-OFFICIAL-20210801-0121.zip",
+            "id": "282e3fc7ff647f05af8a89111e2940f2",
+            "romtype": "OFFICIAL",
+            "size": "684080113",
+            "url": "https://downloads.droidontime.com/dot11/ocean/vanilla/dotOS-R-v5.1.2-ocean-OFFICIAL-20210801-0121.zip",
+            "version": "v5.1.2"
+         }
+      ]
+   },
    "maintainers": [
       {
          "_id": "Naxo79",
