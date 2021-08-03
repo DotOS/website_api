@@ -1825,11 +1825,11 @@
       },
       {
          "brand":"Xiaomi",
-         "name":"Mi Note 10T/10T Pro",
+         "name":"Mi 10T/10T Pro",
          "codename":"apollo",
          "assert":[
             "apollo",
-            "apolloPro"
+            "apollopro"
          ]
       },
       {
