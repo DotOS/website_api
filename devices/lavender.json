@@ -2,7 +2,7 @@
    "name": "Redmi Note 7/7s",
    "brand": "Xiaomi",
    "codename": "lavender",
-   "xda_thread": "https://forum.xda-developers.com/t/rom-aosp-dotos-5-0-1-xiaomi-redmi-note-7-7s-lavender-official.4262291/",
+   "xda_thread": "https://forum.xda-developers.com/t/rom-aosp-dotos-5-x-xiaomi-redmi-note-7-7s-lavender-official.4313249/",
    "builds": {
       "gapps": [
          {
@@ -29,9 +29,9 @@
    },
    "maintainers": [
       {
-         "_id": "zaidkhan0997",
-         "name": "Zaid Khan",
-         "url": "https://github.com/zaidkhan0997"
+         "_id": "ririxichan",
+         "name": "ririxi",
+         "url": "https://github.com/ririxidev"
       }
    ]
 }
