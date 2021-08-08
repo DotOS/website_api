@@ -1,0 +1,14 @@
+{
+   "name": "Oneplus 7 Pro",
+   "brand": "Oneplus",
+   "codename": "guacamole",
+   "xda_thread": "https://forum.xda-developers.com/t/rom-unofficial-11-x-guacamole-dotos.4313767/",
+   "builds": {},
+   "maintainers": [
+      {
+         "_id": "GeorgeDachamp",
+         "name": "GeorgeDachamp",
+         "url": "https://github.com/GeorgeDachamp"
+      }
+   ]
+}

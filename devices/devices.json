@@ -5,6 +5,7 @@
       "arm64": "GSI - Arm64 A/B"
    },
    "Asus": {
+      "X00QD": "Zenfone 5",
       "X00TD": "Zenfone Max Pro M1",
       "X01AD": "Zenfone Max M2",
       "X01BD": "Zenfone Max Pro M2"
@@ -29,6 +30,7 @@
       "dumpling": "Oneplus 5T",
       "enchilada": "OnePlus 6",
       "fajita": "OnePlus 6T",
+      "guacamole": "Oneplus 7 Pro",
       "hotdog": "Oneplus 7T Pro",
       "hotdogb": "Oneplus 7T",
       "kebab": "OnePlus 8T",
@@ -69,6 +71,7 @@
       "pine": "Redmi 7A",
       "raphael": "Redmi K20 Pro",
       "rolex": "Redmi 4A/5a",
+      "rosy": "Redmi 5",
       "sakura": "Redmi 6 Pro",
       "sweet": "Redmi Note 10 Pro/Pro Max",
       "tissot": "Mi A1",
