@@ -1,0 +1,14 @@
+{
+   "name": "Zenfone 5",
+   "brand": "Asus",
+   "codename": "X00QD",
+   "xda_thread": "https://forum.xda-developers.com/t/rom-android-11-dotos-5-1-2-for-asus-zenfone-5-2018-unofficial-x00qd.4231549/",
+   "builds": {},
+   "maintainers": [
+      {
+         "_id": "henricaodopao",
+         "name": "Henrique Ferreira",
+         "url": "https://github.com/henricaodopao"
+      }
+   ]
+}
