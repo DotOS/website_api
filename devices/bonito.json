@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1626713274",
-            "filename": "dotOS-R-v5.1.2-bonito-GAPPS-20210719-1641.zip",
-            "id": "778e7cc4467377c83d3e2816cdbeb744",
+            "datetime": "1628465884",
+            "filename": "dotOS-R-v5.1.3-bonito-GAPPS-20210808-2331.zip",
+            "id": "30de9913e88f5ecf41bee09d9c1a2d02",
             "romtype": "GAPPS",
-            "size": "1289459369",
-            "url": "https://downloads.droidontime.com/dot11/bonito/gapps/dotOS-R-v5.1.2-bonito-GAPPS-20210719-1641.zip",
-            "version": "v5.1.2"
+            "size": "1289488512",
+            "url": "https://downloads.droidontime.com/dot11/bonito/gapps/dotOS-R-v5.1.3-bonito-GAPPS-20210808-2331.zip",
+            "version": "v5.1.3"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1626711903",
-            "filename": "dotOS-R-v5.1.2-bonito-OFFICIAL-20210719-1545.zip",
-            "id": "aa1cbf09fa899370c1149f513b6128ad",
+            "datetime": "1628464479",
+            "filename": "dotOS-R-v5.1.3-bonito-OFFICIAL-20210808-2235.zip",
+            "id": "627ed7a4ccd794bdad009593e428b4a3",
             "romtype": "OFFICIAL",
-            "size": "858023538",
-            "url": "https://downloads.droidontime.com/dot11/bonito/vanilla/dotOS-R-v5.1.2-bonito-OFFICIAL-20210719-1545.zip",
-            "version": "v5.1.2"
+            "size": "858016890",
+            "url": "https://downloads.droidontime.com/dot11/bonito/vanilla/dotOS-R-v5.1.3-bonito-OFFICIAL-20210808-2235.zip",
+            "version": "v5.1.3"
          }
       ]
    },
