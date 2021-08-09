@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1627899782",
-            "filename": "dotOS-R-v5.1.2-jason-GAPPS-20210802-1017.zip",
-            "id": "54f3bdfc1f0315e8f866043e40ca1f23",
+            "datetime": "1628528879",
+            "filename": "dotOS-R-v5.1.3-jason-GAPPS-20210809-1702.zip",
+            "id": "a6fea3c07a3aa41cb3d4c77059dbada2",
             "romtype": "GAPPS",
-            "size": "1253480932",
-            "url": "https://downloads.droidontime.com/dot11/jason/gapps/dotOS-R-v5.1.2-jason-GAPPS-20210802-1017.zip",
-            "version": "v5.1.2"
+            "size": "1253678658",
+            "url": "https://downloads.droidontime.com/dot11/jason/gapps/dotOS-R-v5.1.3-jason-GAPPS-20210809-1702.zip",
+            "version": "v5.1.3"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1627898597",
-            "filename": "dotOS-R-v5.1.2-jason-OFFICIAL-20210802-0922.zip",
-            "id": "616386c8734a043662149a5c64c826e2",
+            "datetime": "1628527741",
+            "filename": "dotOS-R-v5.1.3-jason-OFFICIAL-20210809-1609.zip",
+            "id": "50a2c0af7feaf1b47d649cdc1f743872",
             "romtype": "OFFICIAL",
-            "size": "819398483",
-            "url": "https://downloads.droidontime.com/dot11/jason/vanilla/dotOS-R-v5.1.2-jason-OFFICIAL-20210802-0922.zip",
-            "version": "v5.1.2"
+            "size": "819436493",
+            "url": "https://downloads.droidontime.com/dot11/jason/vanilla/dotOS-R-v5.1.3-jason-OFFICIAL-20210809-1609.zip",
+            "version": "v5.1.3"
          }
       ]
    },
