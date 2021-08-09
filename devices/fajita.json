@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1626819379",
-            "filename": "dotOS-R-v5.1.2-fajita-GAPPS-20210720-2211.zip",
-            "id": "56f6675bb408a111f80893dfc7ecf906",
+            "datetime": "1628500484",
+            "filename": "dotOS-R-v5.1.3-fajita-GAPPS-20210809-0909.zip",
+            "id": "4bef3385e4c7a48e448c7e78bbb198e8",
             "romtype": "GAPPS",
-            "size": "1116292741",
-            "url": "https://downloads.droidontime.com/dot11/fajita/gapps/dotOS-R-v5.1.2-fajita-GAPPS-20210720-2211.zip",
-            "version": "v5.1.2"
+            "size": "1116368373",
+            "url": "https://downloads.droidontime.com/dot11/fajita/gapps/dotOS-R-v5.1.3-fajita-GAPPS-20210809-0909.zip",
+            "version": "v5.1.3"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1626818167",
-            "filename": "dotOS-R-v5.1.2-fajita-OFFICIAL-20210720-2119.zip",
-            "id": "acb69848345329b421ab99b7687bb2bd",
+            "datetime": "1628499215",
+            "filename": "dotOS-R-v5.1.3-fajita-OFFICIAL-20210809-0817.zip",
+            "id": "b48ac66ffc56c25b290f3f966aa1f273",
             "romtype": "OFFICIAL",
-            "size": "752328827",
-            "url": "https://downloads.droidontime.com/dot11/fajita/vanilla/dotOS-R-v5.1.2-fajita-OFFICIAL-20210720-2119.zip",
-            "version": "v5.1.2"
+            "size": "752313967",
+            "url": "https://downloads.droidontime.com/dot11/fajita/vanilla/dotOS-R-v5.1.3-fajita-OFFICIAL-20210809-0817.zip",
+            "version": "v5.1.3"
          }
       ]
    },
