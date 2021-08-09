@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1626814810",
-            "filename": "dotOS-R-v5.1.2-jasmine_sprout-GAPPS-20210720-2055.zip",
-            "id": "afca7da2a250726e3acd94917dcd58bd",
+            "datetime": "1628524305",
+            "filename": "dotOS-R-v5.1.3-jasmine_sprout-GAPPS-20210809-1547.zip",
+            "id": "92ea301e01963d265103b814cd992618",
             "romtype": "GAPPS",
-            "size": "1259492259",
-            "url": "https://downloads.droidontime.com/dot11/jasmine_sprout/gapps/dotOS-R-v5.1.2-jasmine_sprout-GAPPS-20210720-2055.zip",
-            "version": "v5.1.2"
+            "size": "1259480497",
+            "url": "https://downloads.droidontime.com/dot11/jasmine_sprout/gapps/dotOS-R-v5.1.3-jasmine_sprout-GAPPS-20210809-1547.zip",
+            "version": "v5.1.3"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1626813787",
-            "filename": "dotOS-R-v5.1.2-jasmine_sprout-OFFICIAL-20210720-2005.zip",
-            "id": "8490e75668958e8641a5fa934bb73154",
+            "datetime": "1628523153",
+            "filename": "dotOS-R-v5.1.3-jasmine_sprout-OFFICIAL-20210809-1454.zip",
+            "id": "e06299137475c19c3b82c2698f9fbb5a",
             "romtype": "OFFICIAL",
-            "size": "808682899",
-            "url": "https://downloads.droidontime.com/dot11/jasmine_sprout/vanilla/dotOS-R-v5.1.2-jasmine_sprout-OFFICIAL-20210720-2005.zip",
-            "version": "v5.1.2"
+            "size": "808730223",
+            "url": "https://downloads.droidontime.com/dot11/jasmine_sprout/vanilla/dotOS-R-v5.1.3-jasmine_sprout-OFFICIAL-20210809-1454.zip",
+            "version": "v5.1.3"
          }
       ]
    },
