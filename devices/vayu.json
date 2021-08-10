@@ -6,24 +6,24 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1627401546",
-            "filename": "dotOS-R-v5.1.2-vayu-GAPPS-20210727-1551.zip",
-            "id": "431832178237c544582d5586155d95a3",
+            "datetime": "1628620788",
+            "filename": "dotOS-R-v5.1.3-vayu-GAPPS-20210810-1832.zip",
+            "id": "8ad5f0707740479cc50d3b45ab9e050f",
             "romtype": "GAPPS",
-            "size": "1528315599",
-            "url": "https://downloads.droidontime.com/dot11/vayu/gapps/dotOS-R-v5.1.2-vayu-GAPPS-20210727-1551.zip",
-            "version": "v5.1.2"
+            "size": "1526235979",
+            "url": "https://downloads.droidontime.com/dot11/vayu/gapps/dotOS-R-v5.1.3-vayu-GAPPS-20210810-1832.zip",
+            "version": "v5.1.3"
          }
       ],
       "vanilla": [
          {
-            "datetime": "1627399857",
-            "filename": "dotOS-R-v5.1.2-vayu-OFFICIAL-20210727-1448.zip",
-            "id": "be8740033573162a3d9d43d9fd90c961",
+            "datetime": "1628619100",
+            "filename": "dotOS-R-v5.1.3-vayu-OFFICIAL-20210810-1729.zip",
+            "id": "7aa08fd38489e58b4649936ea2633650",
             "romtype": "OFFICIAL",
-            "size": "1105799005",
-            "url": "https://downloads.droidontime.com/dot11/vayu/vanilla/dotOS-R-v5.1.2-vayu-OFFICIAL-20210727-1448.zip",
-            "version": "v5.1.2"
+            "size": "1103466985",
+            "url": "https://downloads.droidontime.com/dot11/vayu/vanilla/dotOS-R-v5.1.3-vayu-OFFICIAL-20210810-1729.zip",
+            "version": "v5.1.3"
          }
       ]
    },
