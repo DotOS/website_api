@@ -6,13 +6,13 @@
    "builds": {
       "gapps": [
          {
-            "datetime": "1624190469",
-            "filename": "dotOS-R-v5.1.1-arm64-gapps-OFFICIAL.img.xz",
-            "id": "474b3000771bd71efa7c3a23a962a884",
+            "datetime": "1628949431",
+            "filename": "dotOS-R-v5.1.3-arm64-GAPPS-OFFICIAL.img.xz",
+            "id": "c90d2c7ecd9579d792aeeb5e9514af9c",
             "romtype": "GAPPS",
-            "size": "1083805956",
-            "url": "https://downloads.droidontime.com/dot11/gsi_images/arm64/gapps/dotOS-R-v5.1.1-arm64-gapps-OFFICIAL.img.xz",
-            "version": "v5.1.1"
+            "size": "1122826188",
+            "url": "https://downloads.droidontime.com/dot11/gsi_images/arm64/gapps/dotOS-R-v5.1.3-arm64-GAPPS-OFFICIAL.img.xz",
+            "version": "v5.1.3"
          }
       ],
       "vanilla": [
