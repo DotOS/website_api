@@ -17,13 +17,13 @@
       ],
       "vanilla": [
          {
-            "datetime": "1624190469",
-            "filename": "dotOS-R-v5.1.1-arm64-vanilla-OFFICIAL.img.xz",
-            "id": "3ca870bfc8e697294d1ad6f07c2c4d56",
+            "datetime": "1628949431",
+            "filename": "dotOS-R-v5.1.3-arm64-VANILLA-OFFICIAL.img.xz",
+            "id": "1e7d7372f8c51ec2e669c37eb5fd0451",
             "romtype": "OFFICIAL",
-            "size": "711538684",
-            "url": "https://downloads.droidontime.com/dot11/gsi_images/arm64/vanilla/dotOS-R-v5.1.1-arm64-vanilla-OFFICIAL.img.xz",
-            "version": "v5.1.1"
+            "size": "739897820",
+            "url": "https://downloads.droidontime.com/dot11/gsi_images/arm64/vanilla/dotOS-R-v5.1.3-arm64-VANILLA-OFFICIAL.img.xz",
+            "version": "v5.1.3"
          }
       ]
    },
