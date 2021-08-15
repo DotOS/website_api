@@ -1,37 +1,62 @@
 {
-   "name": "Redmi Note 7/7s",
-   "brand": "Xiaomi",
-   "codename": "lavender",
-   "xda_thread": "https://forum.xda-developers.com/t/rom-aosp-dotos-5-x-xiaomi-redmi-note-7-7s-lavender-official.4313249/",
-   "builds": {
-      "gapps": [
-         {
-            "datetime": "1628533845",
-            "filename": "dotOS-R-v5.1.3-lavender-GAPPS-20210809-1824.zip",
-            "id": "84e98ee1e2e5712e96e4e16daa659fc6",
-            "romtype": "GAPPS",
-            "size": "1415112277",
-            "url": "https://downloads.droidontime.com/dot11/lavender/gapps/dotOS-R-v5.1.3-lavender-GAPPS-20210809-1824.zip",
-            "version": "v5.1.3"
-         }
-      ],
-      "vanilla": [
-         {
-            "datetime": "1628532437",
-            "filename": "dotOS-R-v5.1.3-lavender-OFFICIAL-20210809-1727.zip",
-            "id": "a09d7e88eb7b53030914aea947ee077b",
-            "romtype": "OFFICIAL",
-            "size": "904921464",
-            "url": "https://downloads.droidontime.com/dot11/lavender/vanilla/dotOS-R-v5.1.3-lavender-OFFICIAL-20210809-1727.zip",
-            "version": "v5.1.3"
-         }
-      ]
-   },
-   "maintainers": [
-      {
-         "_id": "ririxichan",
-         "name": "ririxi",
-         "url": "https://github.com/ririxidev"
-      }
-   ]
+	"codenames": "lavender",
+	"deviceName": "Redmi Note 7",
+	"brand": "Xiaomi",
+	"ota": true,
+	"deviceChangelog": [
+		{
+			"timestamp": 5151515151515,
+			"changes": ["Fixed device", "Fixed device"]
+		},
+		{
+			"timestamp": 2652643566346,
+			"changes": [
+				"Fixed device",
+				"Fixed device",
+				"Fixed device",
+				"Fixed device"
+			]
+		}
+	],
+	"releases": [
+		{
+			"type": "gapps",
+			"generateDate": 3535353535353,
+			"fileName": "gapps.zip",
+			"url": "<download link>",
+			"requireCleanFlash": true,
+			"size": 14141414141,
+			"version": "v5.2",
+			"latest": true
+		},
+		{
+			"type": "vanilla",
+			"generateDate": 3535353535353,
+			"fileName": "vanilla.zip",
+			"url": "<download link>",
+			"requireCleanFlash": true,
+			"size": 14141414141,
+			"version": "v5.2",
+			"latest": true
+		},
+		{
+			"type": "gapps",
+			"generateDate": 3535353535353,
+			"fileName": "gapps.zip",
+			"url": "<download link>",
+			"requireCleanFlash": false,
+			"size": 14141414141,
+			"version": "v5.1.2",
+			"deviceChangelog": null,
+			"latest": false
+		}
+	],
+	"maintainer": {
+		"name": "ririxi",
+		"profileURL": "https://github.com/ririxdev"
+	},
+	"links": {
+		"xda": "https://xda-developers.com/",
+		"telegram": "https://telegram.com/"
+	}
 }

@@ -1,0 +1,57 @@
+{
+	"data": [
+		{
+			"codenames": "lavender",
+			"deviceName": "Redmi Note 7",
+			"brand": "Xiaomi"
+		},
+		{
+			"codenames": "mido",
+			"deviceName": "Redmi Note 4",
+			"brand": "Xiaomi"
+		},
+		{
+			"codenames": ["a7xeltexx", "a7xelte", "a5y17lte"],
+			"deviceName": "Galaxy A7 (2016)",
+			"brand": "Samsung"
+		}
+	],
+	"blacklist": [
+		"Redmi Note 4",
+		"Musia",
+		"Power",
+		"taco",
+		"nicklaus",
+		"sate",
+		"eagle",
+		"OUKITEL",
+		"osprey Gaming",
+		"osborn",
+		"ysl_arm_aonly",
+		"aosp_shamrock",
+		"MI MAX 3",
+		"Land",
+		"centaur",
+		"Nitrogen",
+		"Andromax C46B2H",
+		"S10+",
+		"YUREKA2",
+		"phhgsi_arm64_ab (GSI)",
+		"leagoo",
+		"ailsa_ii",
+		"nora_8917",
+		"Amber",
+		"E",
+		"ghurobaofficial",
+		"shieldtablet",
+		"m30",
+		"PLE",
+		"Wingtech",
+		"K5Pro",
+		"cereus",
+		"cactus",
+		"Whyred",
+		"lava",
+		"a20"
+	]
+}
