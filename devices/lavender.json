@@ -1,27 +1,14 @@
 {
-	"codenames": "lavender",
+	"codename": "lavender",
 	"deviceName": "Redmi Note 7",
 	"brand": "Xiaomi",
 	"ota": true,
-	"deviceChangelog": [
-		{
-			"timestamp": 5151515151515,
-			"changes": ["Fixed device", "Fixed device"]
-		},
-		{
-			"timestamp": 2652643566346,
-			"changes": [
-				"Fixed device",
-				"Fixed device",
-				"Fixed device",
-				"Fixed device"
-			]
-		}
-	],
+	"active": true,
+	"deviceChangelog": null,
 	"releases": [
 		{
 			"type": "gapps",
-			"generateDate": 3535353535353,
+			"generatedAt": 3535353535353,
 			"fileName": "gapps.zip",
 			"url": "<download link>",
 			"requireCleanFlash": true,
@@ -31,7 +18,7 @@
 		},
 		{
 			"type": "vanilla",
-			"generateDate": 3535353535353,
+			"generatedAt": 3535353535353,
 			"fileName": "vanilla.zip",
 			"url": "<download link>",
 			"requireCleanFlash": true,
@@ -41,13 +28,12 @@
 		},
 		{
 			"type": "gapps",
-			"generateDate": 3535353535353,
+			"generatedAt": 3535353535353,
 			"fileName": "gapps.zip",
 			"url": "<download link>",
 			"requireCleanFlash": false,
 			"size": 14141414141,
 			"version": "v5.1.2",
-			"deviceChangelog": null,
 			"latest": false
 		}
 	],

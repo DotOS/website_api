@@ -1,8 +1,9 @@
 {
-	"codenames": "mido",
+	"codename": "mido",
 	"deviceName": "Redmi Note 4",
 	"brand": "Xiaomi",
 	"ota": true,
+	"active": false,
 	"deviceChangelog": [
 		{
 			"timestamp": 5151515151515,
@@ -18,28 +19,7 @@
 			]
 		}
 	],
-	"releases": [
-		{
-			"type": "gapps",
-			"generateDate": 3535353535353,
-			"fileName": "gapps.zip",
-			"url": "<download link>",
-			"requireCleanFlash": true,
-			"size": 14141414141,
-			"version": "v5.2",
-			"latest": true
-		},
-		{
-			"type": "vanilla",
-			"generateDate": 3535353535353,
-			"fileName": "vanilla.zip",
-			"url": "<download link>",
-			"requireCleanFlash": true,
-			"size": 14141414141,
-			"version": "v5.2",
-			"latest": true
-		}
-	],
+	"releases": null,
 	"maintainer": {
 		"name": "Mohan C M",
 		"profileURL": "https://github.com/mohancm"
