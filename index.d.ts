@@ -17,6 +17,7 @@ interface Changelog {
 interface Releases {
 	type: "gapps" | "vanilla";
 	generatedAt: number;
+	hash: string;
 	fileName: string;
 	url: string;
 	requireCleanFlash: boolean;
