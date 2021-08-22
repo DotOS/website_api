@@ -41,4 +41,5 @@ interface StatsDevice {
 	codename: string | string[];
 	deviceName: string;
 	brand: string;
+	installationCount: number;
 }
