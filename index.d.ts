@@ -3,6 +3,7 @@ interface Device {
 	deviceName: string;
 	brand: string;
 	ota: boolean;
+	latest: string;
 	active: boolean;
 	deviceChangelog: Changelog[] | null;
 	releases: Releases[] | null;
@@ -24,12 +25,12 @@ interface Releases {
 	latest: boolean;
 }
 interface Maintainer {
-	name: string;
-	profileURL: string;
+	name: string | null;
+	profileURL: string | null;
 }
 interface Links {
-	xda: string;
-	telegram: string;
+	xda: string | null;
+	telegram: string | null;
 }
 interface Statistics {
 	data: StatsDevice[];

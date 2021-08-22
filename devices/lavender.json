@@ -3,38 +3,36 @@
 	"deviceName": "Redmi Note 7",
 	"brand": "Xiaomi",
 	"ota": true,
+	"latest": "v5.1.3",
 	"active": true,
 	"deviceChangelog": null,
 	"releases": [
 		{
-			"type": "gapps",
-			"generatedAt": 3535353535353,
-			"fileName": "gapps.zip",
-			"url": "<download link>",
-			"requireCleanFlash": true,
-			"size": 14141414141,
-			"version": "v5.2",
-			"latest": true
-		},
-		{
 			"type": "vanilla",
-			"generatedAt": 3535353535353,
-			"fileName": "vanilla.zip",
-			"url": "<download link>",
+			"generatedAt": 1628532437,
+			"fileName": "dotOS-R-v5.1.3-lavender-OFFICIAL-20210809-1727.zip",
+			"url": "https://downloads.droidontime.com/dot11/lavender/vanilla/dotOS-R-v5.1.3-lavender-OFFICIAL-20210809-1727.zip",
 			"requireCleanFlash": true,
-			"size": 14141414141,
-			"version": "v5.2",
-			"latest": true
+			"size": 904921464,
+			"version": "v5.1.3"
 		},
 		{
 			"type": "gapps",
-			"generatedAt": 3535353535353,
-			"fileName": "gapps.zip",
-			"url": "<download link>",
+			"generatedAt": 1628533845,
+			"fileName": "dotOS-R-v5.1.3-lavender-GAPPS-20210809-1824.zip",
+			"url": "https://downloads.droidontime.com/dot11/lavender/gapps/dotOS-R-v5.1.3-lavender-GAPPS-20210809-1824.zip",
+			"requireCleanFlash": true,
+			"size": 1415112277,
+			"version": "v5.1.3"
+		},
+		{
+			"type": "gapps",
+			"generatedAt": 1623795297,
+			"fileName": "dotOS-R-v5.1.1-lavender-GAPPS-20210615-2208.zip",
+			"url": "https://downloads.droidontime.com/dot11/lavender/gapps/dotOS-R-v5.1.1-lavender-GAPPS-20210615-2208.zip",
 			"requireCleanFlash": false,
-			"size": 14141414141,
-			"version": "v5.1.2",
-			"latest": false
+			"size": 1407844245,
+			"version": "v5.1.1"
 		}
 	],
 	"maintainer": {
@@ -42,7 +40,7 @@
 		"profileURL": "https://github.com/ririxdev"
 	},
 	"links": {
-		"xda": "https://xda-developers.com/",
-		"telegram": "https://telegram.com/"
+		"xda": "https://forum.xda-developers.com/t/rom-aosp-dotos-5-x-xiaomi-redmi-note-7-7s-lavender-official.4313249/",
+		"telegram": "https://telegram.com/dotoslavender"
 	}
 }

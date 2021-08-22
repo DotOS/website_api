@@ -1,5 +1,5 @@
 {
-	"data": [
+	"stats": [
 		{
 			"codename": "lavender",
 			"deviceName": "Redmi Note 7",
@@ -14,6 +14,11 @@
 			"codename": ["a7xeltexx", "a7xelte", "a5y17lte"],
 			"deviceName": "Galaxy A7 (2016)",
 			"brand": "Samsung"
+		},
+		{
+			"codename": "davinci",
+			"deviceName": "Mi 9T",
+			"brand": "Xiaomi"
 		}
 	],
 	"blacklist": [
