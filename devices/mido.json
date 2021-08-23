@@ -3,7 +3,7 @@
 	"deviceName": "Redmi Note 4",
 	"brand": "Xiaomi",
 	"ota": true,
-	"active": false,
+	"discontinued": false,
 	"deviceChangelog": [
 		{
 			"timestamp": 5151515151515,

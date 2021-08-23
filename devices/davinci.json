@@ -3,7 +3,7 @@
 	"deviceName": "Mi 9T",
 	"brand": "Xiaomi",
 	"ota": true,
-	"active": false,
+	"discontinued": true,
 	"latest": "v5.1.3",
 	"deviceChangelog": [
 		{

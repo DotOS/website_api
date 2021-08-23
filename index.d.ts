@@ -4,7 +4,7 @@ interface Device {
 	brand: string;
 	ota: boolean;
 	latest: string;
-	active: boolean;
+	discontinued: boolean;
 	deviceChangelog: Changelog[] | null;
 	releases: Releases[] | null;
 	maintainer: Maintainer;

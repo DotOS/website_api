@@ -4,7 +4,7 @@
 	"brand": "Xiaomi",
 	"ota": true,
 	"latest": "v5.1.3",
-	"active": true,
+	"discontinued": false,
 	"deviceChangelog": null,
 	"releases": [
 		{
