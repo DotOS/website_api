@@ -1,9 +1,9 @@
 {
 	"codename": "lavender",
 	"deviceName": "Redmi Note 7",
-	"brand": "Xiaomi",
-	"ota": true,
-	"latest": "v5.1.3",
+	"brandName": "Xiaomi",
+	"otaEnabled": true,
+	"latestVersion": "v5.1.3",
 	"discontinued": false,
 	"deviceChangelog": null,
 	"releases": [
@@ -13,6 +13,16 @@
 			"fileName": "dotOS-R-v5.1.3-lavender-OFFICIAL-20210809-1727.zip",
 			"url": "https://downloads.droidontime.com/dot11/lavender/vanilla/dotOS-R-v5.1.3-lavender-OFFICIAL-20210809-1727.zip",
 			"requireCleanFlash": true,
+			"images": [
+				{
+					"type": "boot",
+					"url": "https://downloads.droidontime.com/dot11/lavender/vanilla/boot.img"
+				},
+				{
+					"type": "recovery",
+					"url": "https://downloads.droidontime.com/dot11/lavender/vanilla/recovery.img"
+				}
+			],
 			"hash": "a09d7e88eb7b53030914aea947ee077b",
 			"size": 904921464,
 			"version": "v5.1.3"
@@ -23,6 +33,7 @@
 			"fileName": "dotOS-R-v5.1.3-lavender-GAPPS-20210809-1824.zip",
 			"url": "https://downloads.droidontime.com/dot11/lavender/gapps/dotOS-R-v5.1.3-lavender-GAPPS-20210809-1824.zip",
 			"requireCleanFlash": true,
+			"images": null,
 			"hash": "84e98ee1e2e5712e96e4e16daa659fc6",
 			"size": 1415112277,
 			"version": "v5.1.3"
@@ -33,12 +44,13 @@
 			"fileName": "dotOS-R-v5.1.1-lavender-GAPPS-20210615-2208.zip",
 			"url": "https://downloads.droidontime.com/dot11/lavender/gapps/dotOS-R-v5.1.1-lavender-GAPPS-20210615-2208.zip",
 			"requireCleanFlash": false,
+			"images": null,
 			"hash": "463f03fcc5b37214ebf8bc5dd0ebb3e6",
 			"size": 1407844245,
 			"version": "v5.1.1"
 		}
 	],
-	"maintainer": {
+	"maintainerInfo": {
 		"name": "ririxi",
 		"profileURL": "https://github.com/ririxdev"
 	},

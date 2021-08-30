@@ -1,8 +1,9 @@
 {
 	"codename": "mido",
 	"deviceName": "Redmi Note 4",
-	"brand": "Xiaomi",
-	"ota": true,
+	"brandName": "Xiaomi",
+	"otaEnabled": true,
+	"latestVersion": "v5.1.3",
 	"discontinued": false,
 	"deviceChangelog": [
 		{
@@ -20,7 +21,7 @@
 		}
 	],
 	"releases": null,
-	"maintainer": {
+	"maintainerInfo": {
 		"name": "Mohan C M",
 		"profileURL": "https://github.com/mohancm"
 	},
