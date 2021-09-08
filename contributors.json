@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Developers",
+		"subtitle": "People that work on dotOS",
+		"members": [
+			{
+				"name": "Mohan C M",
+				"links": {
+					"github": "https://github.com/mohancm",
+					"telegram": "https://t.me/mohancm100"
+				}
+			},
+			{
+				"name": "ririxi",
+				"links": {
+					"github": "https://github.com/ririxidev",
+					"telegram": "https://t.me/ririxichan"
+				}
+			},
+			{
+				"name": "Ionuț Iacob",
+				"links": {
+					"github": "https://github.com/iacobionut01",
+					"telegram": "https://t.me/iacobionut01"
+				}
+			}
+		]
+	}
+]

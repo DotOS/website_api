@@ -12,7 +12,7 @@ interface Device {
 }
 interface Changelog {
 	timestamp: number;
-	changes: string[];
+	changes: string[] | string;
 }
 interface Releases {
 	type: "gapps" | "vanilla";
