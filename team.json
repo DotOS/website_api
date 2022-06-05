@@ -1,0 +1,54 @@
+{
+	"teamMembers": [
+		{
+			"fullName": "Mohan C M",
+			"role": "Founder & Core Developer",
+			"ghUsername": "mohancm"
+		},
+		{
+			"fullName": "Iacob Ionut",
+			"role": "UI/UX & Core Developer",
+			"ghUsername": "IacobIonut01"
+		},
+		{
+			"fullName": "Manish Bajpai",
+			"role": "UI/UX Designer & Developer",
+			"ghUsername": "Manishbajpai055"
+		},
+		{
+			"fullName": "ririxi",
+			"role": "Backend Website Developer",
+			"ghUsername": "ririxidev"
+		}
+	],
+	"honorableMentions": [
+		{
+			"fullName": "Shreejoy Dash",
+			"ghUsername": "shreejoy"
+		},
+		{
+			"fullName": "Sayan Biswas",
+			"ghUsername": "samgrande"
+		},
+		{
+			"fullName": "Amogha Maiya",
+			"ghUsername": "amog787"
+		},
+		{
+			"fullName": "Syahrial Agni Prasetya",
+			"ghUsername": "lemniskett"
+		},
+		{
+			"fullName": "Hari Ambadi",
+			"ghUsername": "hariambadii"
+		},
+		{
+			"fullName": "Aswin",
+			"ghUsername": "Aswin8"
+		},
+		{
+			"fullName": "Sipun Ku Mahanta",
+			"ghUsername": "Darkstar085"
+		}
+	]
+}
